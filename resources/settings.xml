@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="Sites">
+       <setting id="radio_France" type="bool" label="radio France" default="true"/>
+       <setting id="radio_Czech_Republic" type="bool" label="radio Czech Republic" default="true"/>
+       <setting id="radio_Netherland" type="bool" label="radio Netherland" default="true"/>
+       <setting id="radio_Germany" type="bool" label="radio Germany" default="true"/>
+       <setting id="radio_Polskie" type="bool" label="radio Polskie" default="true"/>
+       <setting id="radio_Austria" type="bool" label="radio Austria" default="true"/>
+       <setting id="radio_Russian_Federation" type="bool" label="radio Russian Federation" default="true"/>
+       <setting id="radio_Slovakia" type="bool" label="radio Slovakia" default="true"/>
+       <setting id="favourite_SK" type="bool" label="favourite SK" default="true"/>
+       <setting id="favourite_CZ" type="bool" label="favourite CZ" default="true"/>
+    </category>
+</settings>
