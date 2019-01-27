@@ -34,17 +34,17 @@ class Main:
         self = selfGet
         
         list = [
-        ['radio France', sys.argv[0] + '?fr', 'radioFrance.png', '', getSettingBool('radio_France')],
+        ['radio Slovakia', sys.argv[0] + '?sk', 'radioSlovakia.png', '', getSettingBool('radio_Slovakia')],
         ['radio Czech Republic', sys.argv[0] + '?cz', 'radioCzechRepublic.png', '', getSettingBool('radio_Czech_Republic')],
+	['favourite SK', sys.argv[0] + '?topSK', 'favouriteSK.png', '', getSettingBool('favourite_SK')],
+        ['favourite CZ', sys.argv[0] + '?topCZ', 'favouriteCZ.png', '', getSettingBool('favourite_CZ')],
         ['radio Netherland', sys.argv[0] + '?nl', 'radioNetherlands.png', '', getSettingBool('radio_Netherland')],
         ['radio Germany', sys.argv[0] + '?ger', 'radioGermany.png', '', getSettingBool('radio_Germany')],
         ['radio Polskie', sys.argv[0] + '?pl', 'radioPolskie.png', '', getSettingBool('radio_Polskie')],
         ['radio Austria', sys.argv[0] + '?au', 'radioAustria.png', '', getSettingBool('radio_Austria')],
         ['radio Russian Federation', sys.argv[0] + '?ru', 'radioRussianFederation.png', '', getSettingBool('radio_Russian_Federation')],
-        ['radio Slovakia', sys.argv[0] + '?sk', 'radioSlovakia.png', '', getSettingBool('radio_Slovakia')],
-        ['favourite SK', sys.argv[0] + '?topSK', 'favouriteSK.png', '', getSettingBool('favourite_SK')],
-        ['favourite CZ', sys.argv[0] + '?topCZ', 'favouriteCZ.png', '', getSettingBool('favourite_CZ')]
-            ]
+        ['radio France', sys.argv[0] + '?fr', 'radioFrance.png', '', getSettingBool('radio_France')]
+                    ]
                 
         for v in list:
             if not v[4]: continue
