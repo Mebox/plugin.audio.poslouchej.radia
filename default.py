@@ -39,10 +39,17 @@ class Radio:
             self.opt2 = optMatches2[0]
 
 
-        if self.opt == 'fr':
-            import radioFrance as start
-        elif self.opt == 'cz':
+
+        if self.opt == 'cz':
             import radioCzechRepublic as start
+        elif self.opt == 'sk':
+            import radioSlovakia as start
+        elif self.opt == 'topCZ':
+            import favouriteCZ as start
+        elif self.opt == 'topSK':
+            import favouriteSK as start
+        elif self.opt == 'fr':
+            import radioFrance as start
         elif self.opt == 'nl':
             import radioNetherlands as start
         elif self.opt == 'ru':
@@ -51,14 +58,8 @@ class Radio:
             import radioPolskie as start
         elif self.opt == 'ger':
             import radioGermany as start
-        elif self.opt == 'sk':
-            import radioSlovakia as start
         elif self.opt == 'au':
             import radioAustria as start
-        elif self.opt == 'topSK':
-            import favouriteSK as start
-        elif self.opt == 'topCZ':
-            import favouriteCZ as start
         else:
             import radioMenu as start
             
