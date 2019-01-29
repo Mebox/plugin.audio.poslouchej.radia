@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 import xbmc
 import xbmcgui
@@ -31,13 +31,13 @@ class Main:
         self = selfGet
     
         list = [
-                        ['Rádio 7', 'http://play.twr.sk:8000/128', 'https://i11.servimg.com/u/f11/19/40/01/67/radio710.jpg'],
-			['Rádio 9', 'http://147.232.191.167:8000/high.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radio910.jpg'],
+            ['Rádio 7', 'http://play.twr.sk:8000/128', 'https://i11.servimg.com/u/f11/19/40/01/67/radio710.jpg'],
+			['Rádio 9', 'http://147.232.191.167:8000/high.mp3', 'https://i.imgur.com/lAZ0Jyv.png'],
 			['Rádio Aetter', 'http://stream.aetter.sk:8000/;stream/1', 'https://i11.servimg.com/u/f11/19/40/01/67/radioa10.jpg'],
-                        ['Rádio Aktual', 'http://stream.radioaktual.sk:8000/aktual128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radioa11.jpg'], -nefunkčné
-			['Aligator', 'http://stream.aligator.sk:8000/aligator_192.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radioa12.jpg'],
+            #['Rádio Aktual', 'http://stream.radioaktual.sk:8000/aktual128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radioa11.jpg'], -nefunkčné
+			['Aligator (Rock)', 'http://stream.aligator.sk:8000/aligator_192.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radioa12.jpg'],
 			['Rádio Anténa Rock', 'http://stream.antenarock.sk/antena-hi.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radior16.jpg'],
-			['Rádio Anténa Rock Hard', 'http://stream.radioservices.sk/hardrock.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radioa12.jpg'],
+			['Rádio Anténa Rock Hard', 'http://stream.radioservices.sk/hardrock.mp3', 'https://www.antenarock.sk/html/assets/antenarock/images/tile-antenarock-hard.jpg'],
 			['Rádio Best FM', 'http://stream2.bestfm.sk:80/128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiob10.jpg'],
 			['Rádio Beta', 'http://109.71.67.102:8000/beta_live_high.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiob11.jpg'],
 			['Rádio Beta - České a Slovenské hity', 'http://109.71.67.102:8000/beta_cspop.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/betacz10.jpg'],
@@ -54,17 +54,17 @@ class Main:
 			['Europa2 SK', 'http://stream.radioservices.sk:50008/europa2.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radioe11.jpg'],
 			['Rádio Expres', 'http://85.248.7.162:8000/96.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radioe15.jpg'],
 			['FF Rádio', 'http://audio.lumen.sk:8000/ff128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiof10.jpg'],
-			['Rádio_FM', 'http://icecast.stv.livebox.sk/fm_128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiof18.jpg'],
+			['Rádio_FM', 'http://icecast.stv.livebox.sk/fm_128.mp3', 'https://www.satelitnatv.sk/wp-content/uploads/2011/12/radio_fm.jpg'],
 			['Rádio Frontinus', 'http://stream.frontinus.sk:8000/frontinus128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiof19.jpg'],
 			['Fun Rádio', 'http://stream.funradio.sk:8000/fun128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiof20.jpg'],
 			['Fun Rádio 80. - 90. roky', 'http://stream.funradio.sk:8000/80-90-128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiof21.jpg'],
 			['Fun Rádio CZ-SK', 'http://stream.funradio.sk:8000/cs128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiof22.jpg'],
 			['Fun Rádio Dance', 'http://stream.funradio.sk:8000/dance128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiof23.jpg'],
 			['Fitrádio Chill out', 'http://server1.internetoveradio.sk:8802/chillout', 'https://i11.servimg.com/u/f11/19/40/01/67/radiof12.jpg'],
-                        ['Fitrádio Crossfit', 'http://server1.internetoveradio.sk:8809/crossfit', 'https://i11.servimg.com/u/f11/19/40/01/67/radiof13.jpg'],
-                        ['Fitrádio Pumping', 'http://server1.internetoveradio.sk:8802/pumping', 'https://i11.servimg.com/u/f11/19/40/01/67/radiof15.jpg'],
-                        ['Fitrádio Running', 'http://server1.internetoveradio.sk:8809/running', 'https://i46.servimg.com/u/f46/19/40/01/67/fitrad10.jpg'],
-                        ['Fit Family Rádio', 'http://server1.internetoveradio.sk:8803/ffr.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/fitrad11.jpg'],
+            ['Fitrádio Crossfit', 'http://server1.internetoveradio.sk:8809/crossfit', 'https://i11.servimg.com/u/f11/19/40/01/67/radiof13.jpg'],
+            ['Fitrádio Pumping', 'http://server1.internetoveradio.sk:8802/pumping', 'https://i11.servimg.com/u/f11/19/40/01/67/radiof15.jpg'],
+            ['Fitrádio Running', 'http://server1.internetoveradio.sk:8809/running', 'https://i46.servimg.com/u/f46/19/40/01/67/fitrad10.jpg'],
+            ['Fit Family Rádio', 'http://server1.internetoveradio.sk:8803/ffr.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/fitrad11.jpg'],
 			['G-Radio', 'http://88.212.34.18:8050/mp3midband', 'https://i11.servimg.com/u/f11/19/40/01/67/radiog10.jpg'],
 			['Hasičské rádio', 'http://allnet.radionet.sk:8000/hasickeradio128.mp3', 'https://i.imgur.com/4zbINH5.png'],
 			['Info Vojna', 'http://stream.infovojna.sk:8000/live128', 'https://i62.servimg.com/u/f62/19/40/01/67/radioi15.jpg'],
@@ -80,7 +80,7 @@ class Main:
 			['Rádio Max', 'http://mp3stream4.abradio.cz:8000/max128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiom12.jpg'],
 			['Rádio Modra', 'http://185.98.208.12:8000/;stream/1', 'https://i11.servimg.com/u/f11/19/40/01/67/radiom11.jpg'],
 			['New Model Radio', 'http://stream.sepia.sk:8000/newmodel128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radion11.jpg'],
-			['Nonstop Rádio', 'http://nonstop.out.airtime.pro:8000/nonstop_a', 'https://i11.servimg.com/u/f11/19/40/01/67/radion10.jpg'],
+			['Nonstop Rádio (Dance)', 'http://nonstop.out.airtime.pro:8000/nonstop_a', 'https://i11.servimg.com/u/f11/19/40/01/67/radion10.jpg'],
 			['Rádio One', 'http://217.75.92.14:8000/nr160kb', 'https://i11.servimg.com/u/f11/19/40/01/67/radioo11.jpg'],
 			['Rádio One Retro', 'http://217.75.92.14:8000/retro', 'https://i11.servimg.com/u/f11/19/40/01/67/radioo12.jpg'],
 			['Rádio One Rock', 'http://217.75.92.14:8000/rrock', 'https://i11.servimg.com/u/f11/19/40/01/67/radioo10.jpg'],
@@ -89,9 +89,9 @@ class Main:
 			['Rádio Plus', 'http://stream.sepia.sk:8000/plus128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiop10.jpg'],
 			['Rádio Pohoda', 'http://95.154.254.83:26682/;stream/1', 'https://i46.servimg.com/u/f46/19/40/01/67/radiop10.jpg'],
 			['Rádio Pokoj', 'http://server1.internetoveradio.sk:8822/;stream/1', 'https://i46.servimg.com/u/f46/19/40/01/67/radiop11.jpg'],
-			['Rádio Pyramída', 'http://icecast.stv.livebox.sk/pyramida_128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop21.jpg'],
+			['Rádio Pyramída (Hovorené slovo / Pop)', 'http://icecast.stv.livebox.sk/pyramida_128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop21.jpg'],
 			['Rádio R1 (Rómska hudba)', 'http://allnet.radionet.sk:8000/radioR1.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radior26.jpg'],
-			['Rádio Rapeš', 'http://158.193.51.60:8000/live.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radior15.jpg'],
+			['Rádio Rapeš', 'http://158.193.51.60:8000/live.mp3', 'https://i.imgur.com/5tQ0zCZ.png'],
 			['Rádio Rebeca', 'http://allnet.radionet.sk:8000/radiorebeca.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radior14.jpg'],
 			['Rádio Regina Západ', 'http://icecast.stv.livebox.sk/regina-ba_128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radior10.jpg'],
 			['Rádio Regina Stred', 'http://icecast.stv.livebox.sk/regina-bb_128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radior10.jpg'],
@@ -103,7 +103,7 @@ class Main:
 			['Rádio SiTy (Pop / Top40 )', 'http://icecast.radiosity.sk:8000/hq.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radios16.jpg'],
 			['Rádio.sk', 'http://server1.internetoveradio.sk:8819/radiosk', 'https://i11.servimg.com/u/f11/19/40/01/67/sk1110.jpg'],
 			['SKY Rádio', 'http://stream.skyradio.sk:8000/sky128', 'https://i11.servimg.com/u/f11/19/40/01/67/radios17.jpg'],
-			['Slobodný vysielač', 'http://78.47.79.190:8004/;stream/1', 'https://i11.servimg.com/u/f11/19/40/01/67/radios18.jpg'],
+			['Slobodný vysielač ( Rock / Alternative hits )', 'http://78.47.79.190:8004/;stream/1', 'https://i11.servimg.com/u/f11/19/40/01/67/radios18.jpg'],
 			['Rádio Slovakia International', 'http://icecast.stv.livebox.sk/rsi_128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radios15.jpg'],
 			['Rádio Slovensko', 'http://icecast.stv.livebox.sk/slovensko_128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radios12.jpg'],
 			['Rádio Šport', 'http://stream.radiosport.sk:8000/Sport192.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radios10.jpg'],
