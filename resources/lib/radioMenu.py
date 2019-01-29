@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 
 import xbmc
 import xbmcgui
@@ -34,17 +34,17 @@ class Main:
         self = selfGet
         
         list = [
-        ['radio Slovakia', sys.argv[0] + '?sk', 'radioSlovakia.png', '', getSettingBool('radio_Slovakia')],
-        ['radio Czech Republic', sys.argv[0] + '?cz', 'radioCzechRepublic.png', '', getSettingBool('radio_Czech_Republic')],
-	['favourite SK', sys.argv[0] + '?topSK', 'favouriteSK.png', '', getSettingBool('favourite_SK')],
-        ['favourite CZ', sys.argv[0] + '?topCZ', 'favouriteCZ.png', '', getSettingBool('favourite_CZ')],
-        ['radio Netherland', sys.argv[0] + '?nl', 'radioNetherlands.png', '', getSettingBool('radio_Netherland')],
-        ['radio Germany', sys.argv[0] + '?ger', 'radioGermany.png', '', getSettingBool('radio_Germany')],
-        ['radio Polskie', sys.argv[0] + '?pl', 'radioPolskie.png', '', getSettingBool('radio_Polskie')],
-        ['radio Austria', sys.argv[0] + '?au', 'radioAustria.png', '', getSettingBool('radio_Austria')],
-        ['radio Russian Federation', sys.argv[0] + '?ru', 'radioRussianFederation.png', '', getSettingBool('radio_Russian_Federation')],
-        ['radio France', sys.argv[0] + '?fr', 'radioFrance.png', '', getSettingBool('radio_France')]
-                    ]
+        ['Slovenské rádia', sys.argv[0] + '?sk', 'radioSlovakia.png', '', getSettingBool('radio_Slovakia')],
+        ['České rádia', sys.argv[0] + '?cz', 'radioCzechRepublic.png', '', getSettingBool('radio_Czech_Republic')],
+	['Top 10 SK', sys.argv[0] + '?topSK', 'favouriteSK.png', '', getSettingBool('favourite_SK')],
+        ['Top 10 CZ', sys.argv[0] + '?topCZ', 'favouriteCZ.png', '', getSettingBool('favourite_CZ')],
+        ['Polské rádia', sys.argv[0] + '?pl', 'radioPolskie.png', '', getSettingBool('radio_Polskie')],
+	['Německé rádia', sys.argv[0] + '?ger', 'radioGermany.png', '', getSettingBool('radio_Germany')],
+        ['Ruské rádia', sys.argv[0] + '?ru', 'radioRussianFederation.png', '', getSettingBool('radio_Russian_Federation')],
+	['Rakouské rádia', sys.argv[0] + '?au', 'radioAustria.png', '', getSettingBool('radio_Austria')],
+        ['Francouzské rádia', sys.argv[0] + '?fr', 'radioFrance.png', '', getSettingBool('radio_France')],
+        ['Holandské rádia', sys.argv[0] + '?nl', 'radioNetherlands.png', '', getSettingBool('radio_Netherland')], 
+		 ]
                 
         for v in list:
             if not v[4]: continue
