@@ -54,7 +54,7 @@ class Main:
 			['Europa2 SK', 'http://stream.radioservices.sk:50008/europa2.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radioe11.jpg'],
 			['Rádio Expres', 'http://85.248.7.162:8000/96.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radioe15.jpg'],
 			['FF Rádio', 'http://audio.lumen.sk:8000/ff128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiof10.jpg'],
-			['Rádio_FM', 'http://icecast.stv.livebox.sk/fm_128.mp3', 'https://www.satelitnatv.sk/wp-content/uploads/2011/12/radio_fm.jpg'],
+			['Rádio_FM', 'http://icecast.stv.livebox.sk/fm_128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiof18.jpg'],
 			['Rádio Frontinus', 'http://stream.frontinus.sk:8000/frontinus128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiof19.jpg'],
 			['Fun Rádio', 'http://stream.funradio.sk:8000/fun128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiof20.jpg'],
 			['Fun Rádio 80. - 90. roky', 'http://stream.funradio.sk:8000/80-90-128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiof21.jpg'],
