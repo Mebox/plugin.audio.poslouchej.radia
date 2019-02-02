@@ -18,8 +18,8 @@
     <description lang="en">Addon allows you to listen Slovak , Czech and World radio stations.</description>
     <platform>all</platform>
     <forum/>
-    <website>https://github.com/Mebox/plugin.radio.cz_sk_word</website>
-    <source>https://github.com/Mebox/plugin.radio.cz_sk_word</source>
+    <website>https://github.com/Mebox/plugin.audio.poslouchej.radia</website>
+    <source>https://github.com/Mebox/plugin.audio.poslouchej.radia</source>
     <news>v1.0.6 (28. 01. 2019) - Finální verze</news>
   </extension>
 </addon>
