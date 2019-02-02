@@ -1,4 +1,4 @@
-# plugin.radio.cz_sk_word
+# plugin.audio.poslouchej.radia
 <p>Kodi plugin umožňující poslouchat České,Slovenské a Zahraniční rozhlasové stanice.<br>
 <b>radio Czech Republic 151 stanic</b><br>
 <b>radio Slovakia - 98 stanic</b><br>
