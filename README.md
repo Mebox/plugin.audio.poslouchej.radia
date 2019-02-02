@@ -4,7 +4,6 @@
 <b>České rádia 151 stanic</b><br>
 <b>10 nejpopulárnějších SK stanic</b><br>
 <b>10 nejpopulárnějších CZ stanic</b><br>
-<b>10 nejpopulárnějších SK stanic</b><br>
 <b>Francouzské rádia - 17 stanic</b><br>
 <b>Holandské rádia - 22 stanic</b><br>
 <b>Německé rádia - 26 stanic</b><br> 
