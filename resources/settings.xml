@@ -2,14 +2,27 @@
 <settings>
     <category label="Sites">
        <setting id="radio_Slovakia" type="bool" label="Slovenské rádia" default="true"/>
-	   <setting id="radio_Czech_Republic" type="bool" label="České rádia" default="true"/>
-	   <setting id="favourite_SK" type="bool" label="Top 10 SK" default="true"/>
-	   <setting id="favourite_CZ" type="bool" label="Top 10 CZ" default="true"/>
-	   <setting id="radio_Polskie" type="bool" label="Polské rádia" default="true"/>
-	   <setting id="radio_Germany" type="bool" label="Německé rádia" default="true"/>
-	   <setting id="radio_Russian_Federation" type="bool" label="Ruské rádia" default="true"/>
-	   <setting id="radio_Austria" type="bool" label="Rakouské rádia" default="true"/>
-	   <setting id="radio_France" type="bool" label="Francouzské rádia" default="true"/>
-       <setting id="radio_Netherland" type="bool" label="Holandské rádia" default="true"/>
-	</category>
+       <setting id="radio_Czech_Republic" type="bool" label="České rádia" default="true"/>
+       <setting id="favourite_SK" type="bool" label="Top 10 SK" default="true"/>
+       <setting id="favourite_CZ" type="bool" label="Top 10 CZ" default="true"/>
+       <setting id="radio_United_Kingdom" type="bool" label="radio United Kingdom" default="true"/>
+       <setting id="radio_United_States" type="bool" label="radio United States" default="true"/>
+       <setting id="radio_France" type="bool" label="radio France" default="true"/>
+       <setting id="radio_Netherland" type="bool" label="radio Netherland" default="true"/>
+       <setting id="radio_Germany" type="bool" label="radio Germany" default="true"/>
+       <setting id="radio_Polskie" type="bool" label="radio Polskie" default="true"/>
+       <setting id="radio_Austria" type="bool" label="radio Austria" default="true"/>
+       <setting id="radio_Russian_Federation" type="bool" label="radio Russian Federation" default="true"/>
+       <setting id="styl_dance" type="bool" label="Styl Dance/Electronica" default="true"/>
+       <setting id="styl_folk" type="bool" label="Styl Folk/Country" default="true"/>
+       <setting id="styl_jazz" type="bool" label="Styl Jazz/Blues/Soul" default="true"/>
+       <setting id="styl_mluvene_slovo" type="bool" label="Styl Mluvene Slovo" default="true"/>
+       <setting id="styl_oldies" type="bool" label="Styl Oldies" default="true"/>
+       <setting id="styl_pop" type="bool" label="Styl Pop" default="true"/>
+       <setting id="styl_relax" type="bool" label="Styl Relax/Klasika/Dechovka" default="true"/>
+       <setting id="styl_rbn" type="bool" label="Styl RnB/Hip Hop" default="true"/>    
+       <setting id="styl_rock" type="bool" label="Styl Rock/Metal" default="true"/>
+       <setting id="styl_solopro" type="bool" label="Styl Solo Pro ... " default="true"/>
+       <setting id="stylzpravodajsky" type="bool" label="Styl Zpravodajský" default="true"/>
+    </category>
 </settings> 
