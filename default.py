@@ -56,10 +56,36 @@ class Radio:
             import radioRussianFederation as start
         elif self.opt == 'pl':
             import radioPolskie as start
+        elif self.opt == 'us':
+            import radioUnitedStates as start 
+        elif self.opt == 'uk':
+            import radioUnitedKingdom as start 
         elif self.opt == 'ger':
             import radioGermany as start
         elif self.opt == 'au':
             import radioAustria as start
+        elif self.opt == 'fo':
+            import stylfolk as start
+        elif self.opt == 'da':
+            import styldance as start
+        elif self.opt == 'rbn':
+            import stylrbn as start
+        elif self.opt == 'ja':
+            import styljazz as start
+        elif self.opt == 'ol':
+            import styloldies as start
+        elif self.opt == 'po':
+            import stylpop as start
+        elif self.opt == 're':
+            import stylrelax as start
+        elif self.opt == 'ro':
+            import stylrock as start
+        elif self.opt == 'sp':
+            import stylsolopro as start
+        elif self.opt == 'ms':
+            import stylmluveneslovo as start
+        elif self.opt == 'zp':
+            import stylzpravodajsky as start
         else:
             import radioMenu as start
             
