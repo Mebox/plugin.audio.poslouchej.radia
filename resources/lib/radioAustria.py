@@ -31,27 +31,29 @@ class Main:
         self = selfGet
     
         list = [
+            ['ANTENNE VORARLBERG', 'http://webradio.antennevorarlberg.at/live', 'https://i46.servimg.com/u/f46/19/40/01/67/c17518.png'],
+            ['ANTENNE VORARLBERG 80er Hits', 'http://webradio.antennevorarlberg.at/80er', 'https://i46.servimg.com/u/f46/19/40/01/67/c17514.png'],
+            ['ANTENNE VORARLBERG Hits', 'http://webradio.antennevorarlberg.at/hits', 'https://i46.servimg.com/u/f46/19/40/01/67/c17515.png'],
+            ['ANTENNE VORARLBERG Love Songs', 'http://webradio.antennevorarlberg.at/lovesongs', 'https://i46.servimg.com/u/f46/19/40/01/67/c17516.png'],
+            ['ANTENNE VORARLBERG Partymix', 'http://webradio.antennevorarlberg.at/partymix', 'https://i46.servimg.com/u/f46/19/40/01/67/c17517.png'],
+            ['ANTENNE VORARLBERG Rock Radio', 'http://webradio.antennevorarlberg.at/rock', 'https://i46.servimg.com/u/f46/19/40/01/67/c17527.png'],   
+            ['Arabella Austropop', 'http://arabella.stream.kapper.net:8005/arabellaaustropop', 'https://i46.servimg.com/u/f46/19/40/01/67/c17526.png'],
+            ['Arabella OberÃ¶sterreich', 'http://arabella.stream.kapper.net:8002/arabellaooe', 'https://i46.servimg.com/u/f46/19/40/01/67/c17524.png'],
+            ['Arabella Lovesongs', 'http://arabella.stream.kapper.net:8009/arabellalove', 'https://i46.servimg.com/u/f46/19/40/01/67/c17523.png'],
+            ['Arabella Relax', 'http://arabella.stream.kapper.net:8015/heroldrelax', 'https://i46.servimg.com/u/f46/19/40/01/67/c17521.png'],
+            ['Arabella Ti Amo', 'http://arabella.stream.kapper.net:8007/arabellatiamo', 'https://i46.servimg.com/u/f46/19/40/01/67/c17525.png'],        
+            ['Hitradio Ã–3', 'https://oe3shoutcast.sf.apa.at/stream/1/', 'https://i46.servimg.com/u/f46/19/40/01/67/c17511.png'],
             ['KroneHit 105.8 FM', 'http://onair-ha1.krone.at/kronehit-hp.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiok15.jpg'],
-            ['Kronehit 90’s Dance', 'http://onair-ha1.krone.at/kronehit-90sdance.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiok16.jpg'],
+            ['Kronehit 90â€™s Dance', 'http://onair-ha1.krone.at/kronehit-90sdance.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiok16.jpg'],
             ['Kronehit Beach Club', 'http://onair-ha1.krone.at/kronehit-event3.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiok18.jpg'],
             ['Kronehit Black', 'http://onair-ha1.krone.at/kronehit-black.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiok19.jpg'],
-            ['Kronehit Charts', 'http://onair.krone.at/kronehit-charts.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiok22.jpg'],
-            ['Kronehit Love', 'http://onair-ha1.krone.at/kronehit-love.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/c17510.png'],
             ['KroneHit Best of 2017', 'http://onair.krone.at/kronehit-event3.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c17510.png'],
+            ['Kronehit Clubland xxl', 'http://onair-ha1.krone.at/kronehit-clubland.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c175132.png'],
+            ['Kronehit Charts', 'http://onair.krone.at/kronehit-charts.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiok22.jpg'],
+            ['Kronehit Dance', 'http://onair-ha1.krone.at/kronehit-dance.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c175131.png'],
+            ['Kronehit Love', 'http://onair-ha1.krone.at/kronehit-love.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/c17510.png'], 
             ['Life Radio Love', 'http://liferadio.stream.kapper.net:8003/lovelife', 'https://i46.servimg.com/u/f46/19/40/01/67/c17519.png'],
-            ['VIENNA.AT - Lounge', 'http://webradio.vienna.at/vie-lounge', 'https://i46.servimg.com/u/f46/19/40/01/67/c17520.png'],
-            ['Arabella Austropop', 'http://arabella.stream.kapper.net:8005/arabellaaustropop', 'https://i46.servimg.com/u/f46/19/40/01/67/c17526.png'],
-            ['Arabella Ti Amo', 'http://arabella.stream.kapper.net:8007/arabellatiamo', 'https://i46.servimg.com/u/f46/19/40/01/67/c17525.png'],
-            ['Arabella Relax', 'http://arabella.stream.kapper.net:8015/heroldrelax', 'https://i46.servimg.com/u/f46/19/40/01/67/c17521.png'],
-            ['Arabella Lovesongs', 'http://arabella.stream.kapper.net:8009/arabellalove', 'https://i46.servimg.com/u/f46/19/40/01/67/c17523.png'],
-            ['Arabella Oberösterreich', 'http://arabella.stream.kapper.net:8002/arabellaooe', 'https://i46.servimg.com/u/f46/19/40/01/67/c17524.png'],
-            ['ANTENNE VORARLBERG', 'http://webradio.antennevorarlberg.at/live', 'https://i46.servimg.com/u/f46/19/40/01/67/c17518.png'],
-            ['ANTENNE VORARLBERG Rock Radio', 'http://webradio.antennevorarlberg.at/rock', 'https://i46.servimg.com/u/f46/19/40/01/67/c17527.png'],
-            ['ANTENNE VORARLBERG Partymix', 'http://webradio.antennevorarlberg.at/partymix', 'https://i46.servimg.com/u/f46/19/40/01/67/c17517.png'],
-            ['ANTENNE VORARLBERG Love Songs', 'http://webradio.antennevorarlberg.at/lovesongs', 'https://i46.servimg.com/u/f46/19/40/01/67/c17516.png'],
-            ['ANTENNE VORARLBERG Hits', 'http://webradio.antennevorarlberg.at/hits', 'https://i46.servimg.com/u/f46/19/40/01/67/c17515.png'],
-            ['ANTENNE VORARLBERG 80er Hits', 'http://webradio.antennevorarlberg.at/80er', 'https://i46.servimg.com/u/f46/19/40/01/67/c17514.png'],
-            ['Hitradio Ö3', 'https://oe3shoutcast.sf.apa.at/stream/1/', 'https://i46.servimg.com/u/f46/19/40/01/67/c17511.png']
+            ['VIENNA.AT - Lounge', 'http://webradio.vienna.at/vie-lounge', 'https://i46.servimg.com/u/f46/19/40/01/67/c17520.png']
             ]
 
         if self.opt2 == '':

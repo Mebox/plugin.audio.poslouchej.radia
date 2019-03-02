@@ -31,6 +31,22 @@ class Main:
         self = selfGet
     
         list = [
+            ['1 HITS 80s', 'http://makri.cdnstream.com/1898_128', 'https://i46.servimg.com/u/f46/19/40/01/67/1_hits10.jpg'],
+            ['80s80s David Bowie', 'http://streams.80s80s.de/davidbowie/mp3-128/surfmusik', 'https://i62.servimg.com/u/f62/19/40/01/67/80bowi10.jpg'],
+            ['80s80s Depeche Mode', 'http://streams.80s80s.de/dm/mp3-128/surfmusik', 'https://i62.servimg.com/u/f62/19/40/01/67/80mode10.jpg'],
+            ['80s80s Love', 'http://streams.80s80s.de/love/mp3-128/surfmusik', 'https://i62.servimg.com/u/f62/19/40/01/67/80love10.jpg'],
+            ['80s80s Prince', 'http://streams.80s80s.de/100/mp3-128/surfmusik', 'https://i62.servimg.com/u/f62/19/40/01/67/80prin10.jpg'],
+            ['Antenne Bayern', 'http://mp3channels.webradio.antenne.de/antenne', 'https://i62.servimg.com/u/f62/19/40/01/67/antena10.jpg'],
+            ['Antenne Bayern Weihnachtshits', 'http://mp3channels.webradio.antenne.de/weihnachts-hits', 'https://i62.servimg.com/u/f62/19/40/01/67/antena11.jpg'],
+            ['Antenne Bayern Top 40', 'http://mp3channels.webradio.antenne.de/top-40', 'https://i62.servimg.com/u/f62/19/40/01/67/antena12.jpg'],
+            ['Antenne Bayern 80er Kulthits', 'http://mp3channels.webradio.antenne.de/80er-kulthits', 'https://i62.servimg.com/u/f62/19/40/01/67/antena16.jpg'],
+            ['Antenne Bayern 90er Hits', 'http://mp3channels.webradio.antenne.de/90er-hits', 'https://i62.servimg.com/u/f62/19/40/01/67/antena17.jpg'],
+            ['Antenne Bayern Workout Hits', 'http://mp3channels.webradio.antenne.de/workout-hits', 'https://i62.servimg.com/u/f62/19/40/01/67/antenn10.jpg'],
+            ['Antenne Bayern Lovesongs', 'http://mp3channels.webradio.antenne.de/lovesongs', 'https://i62.servimg.com/u/f62/19/40/01/67/f3c7d910.jpg'],
+            ['Antenne Bayern Fresh', 'http://channels.webradio.antenne.de/fresh', 'https://i62.servimg.com/u/f62/19/40/01/67/antenn11.jpg'],
+            ['Antenne Bayern Classic Rock', 'http://mp3channels.webradio.antenne.de/classic-rock-live', 'https://i62.servimg.com/u/f62/19/40/01/67/antenn13.jpg'],
+            ['Antenne Bayern Oldies but Goldies', 'http://mp3channels.webradio.antenne.de/oldies-but-goldies', 'https://i62.servimg.com/u/f62/19/40/01/67/antena13.jpg'],
+            ['Antenne Bayern Chillout', 'http://mp3channels.webradio.antenne.de/chillout', 'https://i62.servimg.com/u/f62/19/40/01/67/antena14.jpg'],
             ['FFH Digital', 'http://mp3.ffh.de/radioffh/hqlivestream.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/ffh_di10.jpg'],
             ['FFH Eurodance', 'http://mp3.ffh.de/ffhchannels/hqeurodance.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/ffh_di11.jpg'],
             ['FFH Top 40', 'http://mp3.ffh.de/ffhchannels/hqtop40.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/ffh_di12.jpg'],
@@ -39,24 +55,9 @@ class Main:
             ['FFH - Die 80-er', 'http://mp3.ffh.de/ffhchannels/hq80er.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/ffh_di10.jpg'],
             ['FFH - Just 90s', 'http://mp3.ffh.de/ffhchannels/hq90er.aac', 'https://i11.servimg.com/u/f11/19/40/01/67/ffh_ju10.jpg'],
             ['FFH - Weinachtsradio', 'http://ndr-ndr1niedersachsen-hannover.cast.addradio.de/ndr/ndr1niedersachsen/hannover/mp3/56/stream.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/ffh_we10.jpg'],
-            ['1 HITS 80s', 'http://makri.cdnstream.com/1898_128', 'https://i46.servimg.com/u/f46/19/40/01/67/1_hits10.jpg'],
             ['NDR 2', 'http://ndr-ndr2-hamburg.cast.addradio.de/ndr/ndr2/hamburg/aac/48/stream.aac', 'https://i62.servimg.com/u/f62/19/40/01/67/radion10.jpg'],
-            ['80s80s David Bowie', 'http://streams.80s80s.de/davidbowie/mp3-128/surfmusik', 'https://i62.servimg.com/u/f62/19/40/01/67/80bowi10.jpg'],
-            ['80s80s Depeche Mode', 'http://streams.80s80s.de/dm/mp3-128/surfmusik', 'https://i62.servimg.com/u/f62/19/40/01/67/80mode10.jpg'],
-            ['80s80s Love', 'http://streams.80s80s.de/love/mp3-128/surfmusik', 'https://i62.servimg.com/u/f62/19/40/01/67/80love10.jpg'],
-            ['80s80s Prince', 'http://streams.80s80s.de/100/mp3-128/surfmusik', 'https://i62.servimg.com/u/f62/19/40/01/67/80prin10.jpg'],
-            ['N-Joy', 'http://ndr-njoy-live.cast.addradio.de/ndr/njoy/live/aac/48/stream.aac', 'https://i62.servimg.com/u/f62/19/40/01/67/njoy10.jpg'],
-            ['Antenne Bayern', 'http://mp3channels.webradio.antenne.de/antenne', 'https://i62.servimg.com/u/f62/19/40/01/67/antena10.jpg'],
-            ['Antenne Bayern Weihnachtshits', 'http://mp3channels.webradio.antenne.de/weihnachts-hits', 'https://i62.servimg.com/u/f62/19/40/01/67/antena11.jpg'],
-            ['Antenne Bayern Top 40', 'http://mp3channels.webradio.antenne.de/top-40', 'https://i62.servimg.com/u/f62/19/40/01/67/antena12.jpg'],
-['Antenne Bayern 80er Kulthits', 'http://mp3channels.webradio.antenne.de/80er-kulthits', 'https://i62.servimg.com/u/f62/19/40/01/67/antena16.jpg'],
-['Antenne Bayern 90er Hits', 'http://mp3channels.webradio.antenne.de/90er-hits', 'https://i62.servimg.com/u/f62/19/40/01/67/antena17.jpg'],
-['Antenne Bayern Workout Hits', 'http://mp3channels.webradio.antenne.de/workout-hits', 'https://i62.servimg.com/u/f62/19/40/01/67/antenn10.jpg'],
-['Antenne Bayern Lovesongs', 'http://mp3channels.webradio.antenne.de/lovesongs', 'https://i62.servimg.com/u/f62/19/40/01/67/f3c7d910.jpg'],
-['Antenne Bayern Fresh', 'http://channels.webradio.antenne.de/fresh', 'https://i62.servimg.com/u/f62/19/40/01/67/antenn11.jpg'],
-['Antenne Bayern Classic Rock', 'http://mp3channels.webradio.antenne.de/classic-rock-live', 'https://i62.servimg.com/u/f62/19/40/01/67/antenn13.jpg'],
-            ['Antenne Bayern Oldies but Goldies', 'http://mp3channels.webradio.antenne.de/oldies-but-goldies', 'https://i62.servimg.com/u/f62/19/40/01/67/antena13.jpg'],
-            ['Antenne Bayern Chillout', 'http://mp3channels.webradio.antenne.de/chillout', 'https://i62.servimg.com/u/f62/19/40/01/67/antena14.jpg']
+            ['N-Joy', 'http://ndr-njoy-live.cast.addradio.de/ndr/njoy/live/aac/48/stream.aac', 'https://i62.servimg.com/u/f62/19/40/01/67/njoy10.jpg']
+
             ]
 
         if self.opt2 == '':
