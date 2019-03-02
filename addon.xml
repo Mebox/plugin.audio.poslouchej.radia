@@ -20,6 +20,6 @@
     <forum/>
     <website>https://github.com/Mebox/plugin.audio.poslouchej.radia</website>
     <source>https://github.com/Mebox/plugin.audio.poslouchej.radia</source>
-    <news>v1.0.7 (02. 02. 2019) - Finální verze</news>
+    <news>v1.0.7. (02. 03. 2019) - Přidání Anglických a Amerických stanic.Rozdělení stanic dle stylu.Úprava nefunkčních stanic.</news>
   </extension>
 </addon>
