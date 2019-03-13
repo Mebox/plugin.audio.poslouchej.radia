@@ -53,7 +53,7 @@ class Main:
 	['Oldies', sys.argv[0] + '?ol', 'styl.png', '', getSettingBool('styl_oldies')],
 	['Pop', sys.argv[0] + '?po', 'styl.png', '', getSettingBool('styl_pop')],
 	['Relax/Klasika/Dechovka', sys.argv[0] + '?re', 'styl.png', '', getSettingBool('styl_relax')],
-	['RnB/Hip Hop', sys.argv[0] + '?rbn', 'styl.png', '', getSettingBool('styl_rbn')],
+	['RnB/Hip Hop/Reggae', sys.argv[0] + '?rbn', 'styl.png', '', getSettingBool('styl_rbn')],
 	['Rock/Metal', sys.argv[0] + '?ro', 'styl.png', '', getSettingBool('styl_rock')],
 	['Solo Pro ...', sys.argv[0] + '?sp', 'styl.png', '', getSettingBool('styl_solopro')],
 	['Zpravodajský', sys.argv[0] + '?zp', 'styl.png', '', getSettingBool('stylzpravodajsky')],
