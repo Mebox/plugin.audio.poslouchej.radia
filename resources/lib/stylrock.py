@@ -67,7 +67,7 @@ class Main:
             ['Underground fm (PL)', 'http://fucktheradio.net:9100/stream#.mp3?ver=333765', 'https://i46.servimg.com/u/f46/19/40/01/67/underg11.png'],
             ['Underground fm - Metal Radio (PL)', 'http://fucktheradio.net:9300/stream#.mp3?ver=293958', 'https://i46.servimg.com/u/f46/19/40/01/67/underg11.png'],
             ['Underground fm - Skinhead Radio (PL)', 'http://fucktheradio.net:7769/stream#.mp3?ver=754162', 'https://i46.servimg.com/u/f46/19/40/01/67/underg11.png'],
-            ['Underground fm - Polish Underground (PL)', 'http://fucktheradio.net:9100/stream#.mp3?ver=333765', 'https://i46.servimg.com/u/f46/19/40/01/67/underg11.png'],
+            ['Underground fm - Polish Underground (PL)', 'http://fucktheradio.net:9500/stream#.mp3?ver=642757', 'https://i46.servimg.com/u/f46/19/40/01/67/underg11.png'],
             ['ANTENNE VORARLBERG Rock Radio (A)', 'http://webradio.antennevorarlberg.at/rock', 'https://i46.servimg.com/u/f46/19/40/01/67/c17527.png'],
             ['MAXXX Radio (RU)', 'http://46.105.180.202:8045/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/maxrad10.jpg'],
             ['Radio Caprice - AOR/Melodic Hard Rock (RU)', 'http://79.111.14.76:8000/aor', 'https://i46.servimg.com/u/f46/19/40/01/67/c17536.png'],
