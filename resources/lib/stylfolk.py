@@ -31,7 +31,7 @@ class Main:
         self = selfGet
     
         list = [
-            ['Country Rádio (CZ)', 'http://icecast4.play.cz:443/country128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc33.jpg'],
+            ['Country Rádio (CZ)', 'http://icecast4.play.cz/country128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc33.jpg'],
             ['Rádio 66 (CZ)', 'http://ice3.abradio.cz/route128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radio610.jpg'],
             ['Rádio Country (CZ)', 'http://mp3stream4.abradio.cz/country128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc14.jpg'],
             ['Rádio Folk (CZ)', 'http://mp3stream2.abradio.cz/folk128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiof15.jpg'],
