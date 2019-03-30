@@ -3,7 +3,7 @@
 <p>Kodi plugin umožňující poslouchat České,Slovenské a Zahraniční rozhlasové stanice.<br>
   
 <b>Slovenské rádia - 100 stanic</b><br>
-<b>České rádia 150 stanic</b><br>
+<b>České rádia 151 stanic</b><br>
 <b>10 nejpopulárnějších SK stanic</b><br>
 <b>10 nejpopulárnějších CZ stanic</b><br>
 <b>Anglické rádia - 20 stanic</b><br>
@@ -22,6 +22,6 @@
 <b>Styl Pop - 111 stanic</b><br>
 <b>Styl Relax/Klasika/Dechovka - 25 stanic</b><br>
 <b>Styl RnB/Hip Hop/Reggae  - 8 stanic</b><br>
-<b>Styl Rock/Metal - 46 stanic</b><br>
+<b>Styl Rock/Metal - 47 stanic</b><br>
 <b>Styl Solo Pro ... - 7 stanic</b><br>
 <b>Styl Zpravodajský - 22 stanic</article></div>
