@@ -86,6 +86,12 @@ class Radio:
             import stylmluveneslovo as start
         elif self.opt == 'zp':
             import stylzpravodajsky as start
+	elif self.opt == 'cou':
+            import countries as start
+	elif self.opt == 'fav':
+            import favourites as start
+	elif self.opt == 'gen':
+            import genres as start
         else:
             import radioMenu as start
             

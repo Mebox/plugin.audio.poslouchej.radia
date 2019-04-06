@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 import xbmc
 import xbmcgui
@@ -11,7 +11,7 @@ import urllib
 import urllib2 
 import cookielib
 
-__addon__           = xbmcaddon.Addon(id='plugin.audio.poslouchej.radia')
+__addon__           = xbmcaddon.Addon()
 __addon_id__        = __addon__.getAddonInfo('id')
 __addonname__       = __addon__.getAddonInfo('name')
 __icon__            = __addon__.getAddonInfo('icon')
@@ -24,33 +24,23 @@ sys.path.append(__path__)
 sys.path.append (__path_img__)
 
 class Main:
-        
+
     def start(self, selfGet):
-	
 	
 	def getSettingBool(setting):
             return __addon__.getSetting(setting).strip().decode('utf-8').lower() == "true"
+    
         # vars
         self = selfGet
-        
+    
         list = [
-		[__addon__.getLocalizedString(30001), sys.argv[0] + '?cou', 'countries.png','', getSettingBool('radio_countries')],
-		[__addon__.getLocalizedString(30016), sys.argv[0] + '?gen','genres.png','', getSettingBool('radio_genres')],
-		[__addon__.getLocalizedString(30017), sys.argv[0] + '?fav','star.png','', getSettingBool('radio_fav')],
-	       ]
-                
-        for v in list:
+			['Top 10 SK', sys.argv[0] + '?topSK', 'favouriteSK.png', '', getSettingBool('favourite_SK')],
+       		['Top 10 CZ', sys.argv[0] + '?topCZ', 'favouriteCZ.png', '', getSettingBool('favourite_CZ')],
+               ]
+
+	for v in list:
 	    if not v[4]: continue
             listItem = xbmcgui.ListItem(label=v[0], iconImage=__path_img__ + '//' + v[2])
             xbmcplugin.addDirectoryItem(handle=int(sys.argv[1]), url=v[1], listitem=listItem, isFolder=True)
         
         xbmcplugin.endOfDirectory(int(sys.argv[1]))
-        
-	if self.opt != '':
-            
-            Title = list[int(self.opt)][0]
-            Icon = list[int(self.opt)][2]
-            URL = list[int(self.opt)][3]
-            
-            import radioPlayer as player
-            player.Main().start(Title, Icon, URL)

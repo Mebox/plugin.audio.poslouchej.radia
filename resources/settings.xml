@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
     <category label="Sites">
        <setting id="radio_Slovakia" type="bool" label="Slovenské rádia" default="true"/>
@@ -24,5 +24,60 @@
        <setting id="styl_rock" type="bool" label="Styl Rock/Metal" default="true"/>
        <setting id="styl_solopro" type="bool" label="Styl Solo Pro ... " default="true"/>
        <setting id="stylzpravodajsky" type="bool" label="Styl Zpravodajský" default="true"/>
+    <category label="Menu">
+       <setting id="radio_countries" type="bool" label="30001" default="true"/>
+       <setting type="sep" />	
+       <setting id="radio_genres" type="bool" label="30016" default="true"/>
+       <setting type="sep" />
+       <setting id="radio_fav" type="bool" label="30017" default="true"/>
+    </category>
+    <category label="30001">
+       <setting id="radio_Slovakia" type="bool" label="30002" default="true"/>
+	   <setting type="sep" />
+       <setting id="radio_Czech_Republic" type="bool" label="30003" default="true"/>
+	   <setting type="sep" />
+       <setting id="radio_United_Kingdom" type="bool" label="30004" default="true"/>
+	   <setting type="sep" />
+       <setting id="radio_United_States" type="bool" label="30005" default="true"/>
+	   <setting type="sep" />
+       <setting id="radio_France" type="bool" label="30006" default="true"/>
+	   <setting type="sep" />
+       <setting id="radio_Netherland" type="bool" label="30007" default="true"/>
+	   <setting type="sep" />
+       <setting id="radio_Germany" type="bool" label="30008" default="true"/>
+	   <setting type="sep" />
+       <setting id="radio_Polskie" type="bool" label="30009" default="true"/>
+	   <setting type="sep" />
+       <setting id="radio_Austria" type="bool" label="30010" default="true"/>
+	   <setting type="sep" />
+       <setting id="radio_Russian_Federation" type="bool" label="30011" default="true"/>
+    </category>
+    <category label="30016">
+       <setting id="styl_dance" type="bool" label="Dance/Electronica" default="true"/>
+	   <setting type="sep" />
+       <setting id="styl_folk" type="bool" label="Folk/Country" default="true"/>
+	   <setting type="sep" />
+       <setting id="styl_jazz" type="bool" label="Jazz/Blues/Soul" default="true"/>
+	   <setting type="sep" />
+       <setting id="styl_mluvene_slovo" type="bool" label="30012" default="true"/>
+	   <setting type="sep" />
+       <setting id="styl_oldies" type="bool" label="Oldies" default="true"/>
+	   <setting type="sep" />
+       <setting id="styl_pop" type="bool" label="Pop" default="true"/>
+	   <setting type="sep" />
+       <setting id="styl_relax" type="bool" label="30013" default="true"/>
+	   <setting type="sep" />
+       <setting id="styl_rbn" type="bool" label="RnB/Hip Hop" default="true"/>
+	   <setting type="sep" />	   
+       <setting id="styl_rock" type="bool" label="Rock/Metal" default="true"/>
+	   <setting type="sep" />
+       <setting id="styl_solopro" type="bool" label="30014" default="true"/>
+	   <setting type="sep" />
+       <setting id="stylzpravodajsky" type="bool" label="30015" default="true"/>
+    </category>
+    <category label="30017">
+       <setting id="favourite_SK" type="bool" label="Top 10 SK" default="true"/>
+	   <setting type="sep" />
+       <setting id="favourite_CZ" type="bool" label="Top 10 CZ" default="true"/>
     </category>
 </settings> 
