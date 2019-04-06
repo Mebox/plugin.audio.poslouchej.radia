@@ -11,7 +11,7 @@ import urllib
 import urllib2 
 import cookielib
 
-__addon__           = xbmcaddon.Addon()
+__addon__           = xbmcaddon.Addon(id='plugin.audio.poslouchej.radia')
 __addon_id__        = __addon__.getAddonInfo('id')
 __addonname__       = __addon__.getAddonInfo('name')
 __icon__            = __addon__.getAddonInfo('icon')
@@ -19,8 +19,6 @@ __addonpath__       = xbmc.translatePath(__addon__.getAddonInfo('path'))
 __lang__            = __addon__.getLocalizedString
 __path__            = os.path.join(__addonpath__, 'resources', 'lib' )
 __path_img__        = os.path.join(__addonpath__, 'resources', 'media' )
-
-ADDON = xbmcaddon.Addon(id='plugin.radio.cz_sk_word')
 
 sys.path.append(__path__)
 sys.path.append (__path_img__)
@@ -36,17 +34,17 @@ class Main:
         self = selfGet
     
         list = [
-		['Dance/Electronica', sys.argv[0] + '?da', 'dance.png', '', getSettingBool('styl_dance')],
-		['Folk/Country', sys.argv[0] + '?fo', 'folk.png', '', getSettingBool('styl_folk')],
-		['Jazz/Blues/Soul', sys.argv[0] + '?ja', 'jazz.png', '', getSettingBool('styl_jazz')],
-		[ADDON.getLocalizedString(30012), sys.argv[0] + '?ms', 'slovo.png', '', getSettingBool('styl_mluvene_slovo')],
-		['Oldies', sys.argv[0] + '?ol', 'oldies.png', '', getSettingBool('styl_oldies')],
-		['Pop', sys.argv[0] + '?po', 'pop.png', '', getSettingBool('styl_pop')],
-		[ADDON.getLocalizedString(30013), sys.argv[0] + '?re', 'relax.png', '', getSettingBool('styl_relax')],
-		['RnB/Hip Hop/Reggae', sys.argv[0] + '?rbn', 'rnb.png', '', getSettingBool('styl_rbn')],
-		['Rock/Metal', sys.argv[0] + '?ro', 'rock.png', '', getSettingBool('styl_rock')],
-		[ADDON.getLocalizedString(30014), sys.argv[0] + '?sp', 'solo.png', '', getSettingBool('styl_solopro')],
-		[ADDON.getLocalizedString(30015), sys.argv[0] + '?zp', 'zpravodajsky.png', '', getSettingBool('stylzpravodajsky')],
+			['Dance/Electronica', sys.argv[0] + '?da', 'genres.png', '', getSettingBool('styl_dance')],
+			['Folk/Country', sys.argv[0] + '?fo', 'genres.png', '', getSettingBool('styl_folk')],
+			['Jazz/Blues/Soul', sys.argv[0] + '?ja', 'genres.png', '', getSettingBool('styl_jazz')],
+			[__addon__.getLocalizedString(30012), sys.argv[0] + '?ms', 'genres.png', '', getSettingBool('styl_mluvene_slovo')],
+			['Oldies', sys.argv[0] + '?ol', 'genres.png', '', getSettingBool('styl_oldies')],
+			['Pop', sys.argv[0] + '?po', 'genres.png', '', getSettingBool('styl_pop')],
+			[__addon__.getLocalizedString(30013), sys.argv[0] + '?re', 'genres.png', '', getSettingBool('styl_relax')],
+			['RnB/Hip Hop/Reggae', sys.argv[0] + '?rbn', 'genres.png', '', getSettingBool('styl_rbn')],
+			['Rock/Metal', sys.argv[0] + '?ro', 'genres.png', '', getSettingBool('styl_rock')],
+			[__addon__.getLocalizedString(30014), sys.argv[0] + '?sp', 'genres.png', '', getSettingBool('styl_solopro')],
+			[__addon__.getLocalizedString(30015), sys.argv[0] + '?zp', 'genres.png', '', getSettingBool('stylzpravodajsky')],
                ]
 
 	for v in list:
