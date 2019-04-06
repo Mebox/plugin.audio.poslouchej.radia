@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.radio.cz_sk_word"
        name="Poslouchej Rádia"
-       version="1.0.6"
+       version="1.0.8"
        provider-name="mebox a ma_sk">
   <requires>
     <import addon="xbmc.python" version="2.14.0" />
@@ -20,6 +20,6 @@
     <forum/>
     <website>https://github.com/Mebox/plugin.audio.poslouchej.radia</website>
     <source>https://github.com/Mebox/plugin.audio.poslouchej.radia</source>
-    <news>v1.0.6 (28. 01. 2019) - Finální verze</news>
+    <news>v1.0.8. (30. 03. 2019) - Opraveno Country Radio a přidáno do top 10. V sekci české rádia a dle stylu rock přidáno RockMax-Blue</news>
   </extension>
 </addon>

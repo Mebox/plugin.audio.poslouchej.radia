@@ -24,34 +24,36 @@ sys.path.append(__path__)
 sys.path.append (__path_img__)
 
 class Main:
-        
+
     def start(self, selfGet):
 	
 	def getSettingBool(setting):
             return __addon__.getSetting(setting).strip().decode('utf-8').lower() == "true"
     
-		
         # vars
         self = selfGet
-        
+    
         list = [
-        ["Štáty", sys.argv[0] + '?cou', 'countries.png','', getSettingBool('radio_countries')],
-        ['Žánre', sys.argv[0] + '?gen','styl.png','', getSettingBool('radio_genres')],
-		['Obľúbené', sys.argv[0] + '?fav','star.png','', getSettingBool('radio_fav')],
-		 ]
-                
-        for v in list:
+		['Dance/Electronica', sys.argv[0] + '?da', 'dance.png', '', getSettingBool('styl_dance')],
+	['Folk/Country', sys.argv[0] + '?fo', 'folk.png', '', getSettingBool('styl_folk')],
+	['Jazz/Blues/Soul', sys.argv[0] + '?ja', 'jazz.png', '', getSettingBool('styl_jazz')],
+	['Mluvené Slovo', sys.argv[0] + '?ms', 'slovo.png', '', getSettingBool('styl_mluvene_slovo')],
+	['Oldies', sys.argv[0] + '?ol', 'oldies.png', '', getSettingBool('styl_oldies')],
+	['Pop', sys.argv[0] + '?po', 'pop.png', '', getSettingBool('styl_pop')],
+	['Relax/Klasika/Dechovka', sys.argv[0] + '?re', 'relax.png', '', getSettingBool('styl_relax')],
+	['RnB/Hip Hop/Reggae', sys.argv[0] + '?rbn', 'rnb.png', '', getSettingBool('styl_rbn')],
+	['Rock/Metal', sys.argv[0] + '?ro', 'rock.png', '', getSettingBool('styl_rock')],
+	['Solo Pro ...', sys.argv[0] + '?sp', 'solo.png', '', getSettingBool('styl_solopro')],
+	['Zpravodajský', sys.argv[0] + '?zp', 'zpravodajsky.png', '', getSettingBool('stylzpravodajsky')],
+            ]
+
+	for v in list:
 	    if not v[4]: continue
             listItem = xbmcgui.ListItem(label=v[0], iconImage=__path_img__ + '//' + v[2])
             xbmcplugin.addDirectoryItem(handle=int(sys.argv[1]), url=v[1], listitem=listItem, isFolder=True)
         
         xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+
         
-        if self.opt != '':
             
-            Title = list[int(self.opt)][0]
-            Icon = list[int(self.opt)][2]
-            URL = list[int(self.opt)][3]
-            
-            import radioPlayer as player
-            player.Main().start(Title, Icon, URL)
