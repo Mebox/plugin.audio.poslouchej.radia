@@ -34,10 +34,10 @@ class Main:
         self = selfGet
         
         list = [
-		[__addon__.getLocalizedString(30001), sys.argv[0] + '?cou', 'countries.png','', getSettingBool('radio_countries')],
-		[__addon__.getLocalizedString(30016), sys.argv[0] + '?gen','genres.png','', getSettingBool('radio_genres')],
-		[__addon__.getLocalizedString(30017), sys.argv[0] + '?fav','star.png','', getSettingBool('radio_fav')],
-	       ]
+			[__addon__.getLocalizedString(30001), sys.argv[0] + '?cou', 'countries.png','', getSettingBool('radio_countries')],
+			[__addon__.getLocalizedString(30016), sys.argv[0] + '?gen','genres.png','', getSettingBool('radio_genres')],
+			[__addon__.getLocalizedString(30017), sys.argv[0] + '?fav','star.png','', getSettingBool('radio_fav')],
+	           ]
                 
         for v in list:
 	    if not v[4]: continue
