@@ -20,6 +20,8 @@ __lang__            = __addon__.getLocalizedString
 __path__            = os.path.join(__addonpath__, 'resources', 'lib' )
 __path_img__        = os.path.join(__addonpath__, 'resources', 'media' )
 
+ADDON = xbmcaddon.Addon(id='plugin.radio.cz_sk_word')
+
 sys.path.append(__path__)
 sys.path.append (__path_img__)
 
@@ -35,17 +37,17 @@ class Main:
     
         list = [
 		['Dance/Electronica', sys.argv[0] + '?da', 'dance.png', '', getSettingBool('styl_dance')],
-	['Folk/Country', sys.argv[0] + '?fo', 'folk.png', '', getSettingBool('styl_folk')],
-	['Jazz/Blues/Soul', sys.argv[0] + '?ja', 'jazz.png', '', getSettingBool('styl_jazz')],
-	['Mluvené Slovo', sys.argv[0] + '?ms', 'slovo.png', '', getSettingBool('styl_mluvene_slovo')],
-	['Oldies', sys.argv[0] + '?ol', 'oldies.png', '', getSettingBool('styl_oldies')],
-	['Pop', sys.argv[0] + '?po', 'pop.png', '', getSettingBool('styl_pop')],
-	['Relax/Klasika/Dechovka', sys.argv[0] + '?re', 'relax.png', '', getSettingBool('styl_relax')],
-	['RnB/Hip Hop/Reggae', sys.argv[0] + '?rbn', 'rnb.png', '', getSettingBool('styl_rbn')],
-	['Rock/Metal', sys.argv[0] + '?ro', 'rock.png', '', getSettingBool('styl_rock')],
-	['Solo Pro ...', sys.argv[0] + '?sp', 'solo.png', '', getSettingBool('styl_solopro')],
-	['Zpravodajský', sys.argv[0] + '?zp', 'zpravodajsky.png', '', getSettingBool('stylzpravodajsky')],
-            ]
+		['Folk/Country', sys.argv[0] + '?fo', 'folk.png', '', getSettingBool('styl_folk')],
+		['Jazz/Blues/Soul', sys.argv[0] + '?ja', 'jazz.png', '', getSettingBool('styl_jazz')],
+		[ADDON.getLocalizedString(30012), sys.argv[0] + '?ms', 'slovo.png', '', getSettingBool('styl_mluvene_slovo')],
+		['Oldies', sys.argv[0] + '?ol', 'oldies.png', '', getSettingBool('styl_oldies')],
+		['Pop', sys.argv[0] + '?po', 'pop.png', '', getSettingBool('styl_pop')],
+		[ADDON.getLocalizedString(30013), sys.argv[0] + '?re', 'relax.png', '', getSettingBool('styl_relax')],
+		['RnB/Hip Hop/Reggae', sys.argv[0] + '?rbn', 'rnb.png', '', getSettingBool('styl_rbn')],
+		['Rock/Metal', sys.argv[0] + '?ro', 'rock.png', '', getSettingBool('styl_rock')],
+		[ADDON.getLocalizedString(30014), sys.argv[0] + '?sp', 'solo.png', '', getSettingBool('styl_solopro')],
+		[ADDON.getLocalizedString(30015), sys.argv[0] + '?zp', 'zpravodajsky.png', '', getSettingBool('stylzpravodajsky')],
+               ]
 
 	for v in list:
 	    if not v[4]: continue

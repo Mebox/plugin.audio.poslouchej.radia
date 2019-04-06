@@ -1,0 +1,21 @@
+﻿    
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <string id="30001">Štáty</string>
+	<string id="30002">Slovenské rádia</string>
+    <string id="30003">České rádia</string>
+    <string id="30004">Anglické rádia</string>
+    <string id="30005">Americké rádia</string>
+    <string id="30006">Francúzske rádia</string>
+	<string id="30007">Holandské rádia</string>
+	<string id="30008">Nemecké rádia</string>
+    <string id="30009">Poľské rádia</string>
+    <string id="30010">Rakúske rádia</string>
+    <string id="30011">Ruské rádia</string>
+	<string id="30012">Hovorené slovo</string>
+    <string id="30013">Relax/Klasika/Dychovka</string>
+    <string id="30014">Solo Pre ...</string>
+    <string id="30015">Spravodajský</string>
+	<string id="30016">Žánre</string>
+	<string id="30017">Obľúbené</string>
+</strings>
