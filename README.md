@@ -1,4 +1,4 @@
-# Poslouchej radio - Kodi Audio Plugin
+# Poslouchej radia - Kodi Audio Plugin
 <img src="https://i46.servimg.com/u/f46/19/40/01/67/icon11.png" style="border-width: 0" width="150" height="150" border="0">
 <p>Kodi plugin umožňující poslouchat České,Slovenské a Zahraniční rozhlasové stanice.<br>
 
