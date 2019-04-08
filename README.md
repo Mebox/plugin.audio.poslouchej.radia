@@ -1,10 +1,10 @@
-# Poslouchej radia - Kodi Audio Plugin
+#Poslouchej radia - Kodi Audio Plugin
 <p align="center">
   <img width="150" height="150" src="https://i46.servimg.com/u/f46/19/40/01/67/icon11.png">
 </p>
-<p>Kodi plugin umožňující poslouchat České,Slovenské a Zahraniční rozhlasové stanice.<br>
+<p align="center">Kodi plugin umožňující poslouchat České,Slovenské a Zahraniční rozhlasové stanice.<br>
 
-<p><b> Štáty</b><br>
+<p align="center"><b> Štáty</b><br>
 Slovenské rádia - 100 stanic<br>
 České rádia 151 stanic<br>
 Anglické rádia - 20 stanic<br>
