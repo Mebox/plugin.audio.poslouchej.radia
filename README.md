@@ -1,4 +1,4 @@
-# Poslouchej radia - Kodi Audio Plugin
+<p align="center"><b> Poslouchej radia - Kodi Audio Plugin</b></p>
 <p align="center">
   <img width="150" height="150" src="https://i46.servimg.com/u/f46/19/40/01/67/icon11.png">
 </p>
