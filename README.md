@@ -2,7 +2,7 @@
 <p align="center">
   <img width="150" height="150" src="https://i46.servimg.com/u/f46/19/40/01/67/icon11.png">
 </p>
-<p align="center">Kodi plugin umožňující poslouchat České,Slovenské a Zahraniční rozhlasové stanice.<br>
+<p align="center">Kodi plugin umožňující poslouchat České, Slovenské a Zahraniční rozhlasové stanice.<br>
 
 <p align="center"><b> Štáty</b><br>
 Slovenské rádia - 100 stanic<br>
