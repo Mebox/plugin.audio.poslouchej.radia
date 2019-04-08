@@ -13,7 +13,7 @@
 <b>Polské rádia - 67 stanic</b><br>
 <b>Rakouské rádia - 23 stanic</b><br>
 <b>Ruské rádia - 20 stanic</b><br>
-### Žáner
+## Žáner
 <b>Dance/Electronica - 43 stanic</b><br>
 <b>Folk/Country - 9 stanic</b><br>
 <b>Jazz/Blues/Soul - 8 stanic</b><br>
@@ -25,6 +25,6 @@
 <b>Rock/Metal - 47 stanic</b><br>
 <b>Solo Pro ... - 7 stanic</b><br>
 <b>Zpravodajský - 22 stanic</b><br>
-#### Obľúbené
+## Obľúbené
 <b>10 nejpopulárnějších SK stanic</b><br>
 <b>10 nejpopulárnějších CZ stanic</b><br>
