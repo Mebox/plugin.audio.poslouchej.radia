@@ -17,7 +17,7 @@ Ruské rádia - 20 stanic<br>
 Dance/Electronica - 43 stanic<br>
 Folk/Country - 9 stanic<br>
 Jazz/Blues/Soul - 8 stanic<br>
-Mluvene Slovo - 8 stanic<br>
+Mluvené Slovo - 8 stanic<br>
 Oldies - 52 stanic<br>
 Pop - 111 stanic<br>
 Relax/Klasika/Dechovka - 25 stanic<br>
