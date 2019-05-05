@@ -38,8 +38,8 @@ class Main:
             ['Rádio Vlna Golden Hits (SK)', 'http://stream.radioservices.sk/goldenhits.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiov10.jpg'],
             ['Rádio X - Oldies X (SK)', 'http://158.193.82.41:8000/oldies.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiox10.jpg'],
             ['Evropa 2 - Youradio Flashback (CZ)', 'http://ice.actve.net/web-e2-flashback', 'https://i46.servimg.com/u/f46/19/40/01/67/europa14.jpg'],
-            ['Frekvence 1 - Legendy (CZ)', 'http://pool.cdn.lagardere.cz:80/web-f1-legendy', 'https://i62.servimg.com/u/f62/19/40/01/67/radiof19.jpg'],
-            ['Frekvence 1 - 80s (CZ)', 'http://pool.cdn.lagardere.cz:80/web-80', 'https://i62.servimg.com/u/f62/19/40/01/67/radiof21.jpg'],
+            ['Frekvence 1 - Youradio Legendy (CZ)', 'http://ice.actve.net/web-f1-legendy', 'https://i46.servimg.com/u/f46/19/40/01/67/f1_leg10.jpg'],
+			['Frekvence 1 - Youradio 80s (CZ)', 'http://ice.actve.net/web-80', 'https://i62.servimg.com/u/f62/19/40/01/67/radiof21.jpg'],
             ['Impuls - Český Impuls (CZ)', 'http://icecast6.play.cz:8000/cesky-impuls.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioi13.jpg'],
             ['Hitrádio Osmdesátka (CZ)', 'http://ice.abradio.cz/hit80128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioh11.jpg'],
             ['Hitrádio Devadesátka (CZ)', 'http://ice.abradio.cz/hit90128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioh11.jpg'],
@@ -82,7 +82,9 @@ class Main:
             ['FFH Eurodance (D)', 'http://mp3.ffh.de/ffhchannels/hqeurodance.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/ffh_di11.jpg'],
             ['FFH - Die 80-er (D)', 'http://mp3.ffh.de/ffhchannels/hq80er.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/ffh_di10.jpg'],
             ['FFH - Just 90s (D)', 'http://mp3.ffh.de/ffhchannels/hq90er.aac', 'https://i11.servimg.com/u/f11/19/40/01/67/ffh_ju10.jpg'],
-            ['Kronehit 90’s Dance (A) ', 'http://onair-ha1.krone.at/kronehit-90sdance.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiok16.jpg']
+            ['Kronehit 90’s Dance (A) ', 'http://onair-ha1.krone.at/kronehit-90sdance.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiok16.jpg'],
+            ['Life Radio 80er (A) ', 'http://liferadio.stream.kapper.net:8002/80er', 'https://i46.servimg.com/u/f46/19/40/01/67/lifera11.jpg'],
+            ['Life Radio 90er (A) ', 'http://liferadio.stream.kapper.net:8006/90er', 'https://i46.servimg.com/u/f46/19/40/01/67/lifera12.jpg']
             ]
 
         if self.opt2 == '':

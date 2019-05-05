@@ -51,8 +51,11 @@ class Main:
             ['Kronehit Clubland xxl', 'http://onair-ha1.krone.at/kronehit-clubland.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c175132.png'],
             ['Kronehit Charts', 'http://onair.krone.at/kronehit-charts.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiok22.jpg'],
             ['Kronehit Dance', 'http://onair-ha1.krone.at/kronehit-dance.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c175131.png'],
-            ['Kronehit Love', 'http://onair-ha1.krone.at/kronehit-love.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/c17510.png'], 
-            ['Life Radio Love', 'http://liferadio.stream.kapper.net:8003/lovelife', 'https://i46.servimg.com/u/f46/19/40/01/67/c17519.png'],
+            ['Kronehit Love', 'http://onair-ha1.krone.at/kronehit-love.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/c17510.png'],
+            ['Life Radio', 'http://liferadio.stream.kapper.net:8000/liferadio', 'https://i46.servimg.com/u/f46/19/40/01/67/lifera10.jpg'],
+            ['Life Radio 80er', 'http://liferadio.stream.kapper.net:8002/80er', 'https://i46.servimg.com/u/f46/19/40/01/67/lifera11.jpg'],
+            ['Life Radio 90er', 'http://liferadio.stream.kapper.net:8006/90er', 'https://i46.servimg.com/u/f46/19/40/01/67/lifera12.jpg'],
+            ['Life Radio Love', 'http://liferadio.stream.kapper.net:8007/livesongs', 'https://i46.servimg.com/u/f46/19/40/01/67/c17519.png'],
             ['VIENNA.AT - Lounge', 'http://webradio.vienna.at/vie-lounge', 'https://i46.servimg.com/u/f46/19/40/01/67/c17520.png']
             ]
 

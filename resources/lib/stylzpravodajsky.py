@@ -52,7 +52,7 @@ class Main:
             ['Český Rozhlas Region - Vysočina (CZ)', 'http://icecast2.play.cz:8000/crovysocina128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/croreg10.png'],
             ['Český Rozhlas Sever (CZ)', 'http://icecast2.play.cz:8000/crosever128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radios18.jpg'],
             ['Český Rozhlas České Budejovice (CZ)', 'http://icecast2.play.cz:8000/crocb128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc31.jpg'],
-            ['Český Rozhlas Rádio Žurnál - olympijský speciál (CZ)', 'http://icecast8.play.cz/crosport128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/crospo10.png']
+            ['Český Rozhlas Radiožurnál Sport', 'http://icecast8.play.cz/crosport128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/crospo11.png']
             ]
 
         if self.opt2 == '':

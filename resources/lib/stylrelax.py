@@ -39,7 +39,7 @@ class Main:
             ['Český rozhlas 3 - Vltava (CZ)', 'http://icecast5.play.cz:8000/cro3-128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc25.jpg'],
             ['Český Rozhlas D-dur (CZ)', 'http://icecast5.play.cz:8000/croddur-128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiod18.jpg'],
             ['Koule.cz Filmové Melodie (CZ)', 'http://ice.actve.net/web-rb-melodie', 'https://i62.servimg.com/u/f62/19/40/01/67/radiok14.jpg'],
-            ['Proglas (CZ)', 'http://pool.cdn.lagardere.cz/web-pg-pohadky', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop17.jpg'],
+            ['Proglas (CZ)', 'http://icecast2.play.cz/proglas128', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop17.jpg'],
             ['Rádio Chillout (CZ)', 'http://mp3stream4.abradio.cz/chillout128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc12.jpg'],
             ['Rádio Dechovka (CZ)', 'http://icecast5.play.cz:8000/dechovka128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiod13.jpg'],
             ['Rádio Jih - Cimbálka (CZ)', 'http://icecast6.play.cz/jihcimbalka128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioj13.jpg'],
