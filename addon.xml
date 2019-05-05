@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.audio.poslouchej.radia"
        name="Poslouchej Rádia"
-       version="1.0.9"
+       version="1.1.0"
        provider-name="mebox a ma_sk">
   <requires>
     <import addon="xbmc.python" version="2.14.0" />
@@ -17,9 +17,55 @@
     <description lang="sk">Doplnok umožňuje počúvať Slovenské , České a Zahraničné rozhlasové stanice.</description>
     <description lang="en">Addon allows you to listen Slovak , Czech and World radio stations.</description>
     <platform>all</platform>
+	 <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with of the content providers. Use at your own risk!</disclaimer>
+<disclaimer lang="sk">Autor tohto addon nemá žiadny obsah, ktorý sa v ňom nachádza a nemá žiadnu príslušnosť k poskytovateľovi obsahu. Používajte na vlastné riziko!</disclaimer>
+<disclaimer lang="cs">Autor tohoto addonu nemá žádný obsah, který se v něm nachází a nemá žádnou příslušnost k poskytovateli obsahu. Používejte na vlastní riziko!</disclaimer> 
     <forum/>
     <website>https://github.com/Mebox/plugin.audio.poslouchej.radia</website>
-    <source>https://github.com/Mebox/plugin.audio.poslouchej.radia</source>
-    <news>v1.0.9. (06. 04. 2019) - Nové menu Pluginu, Upravené nastavenia, preklad doplnku do SK, CZ a ENG.</news>
+    <news>
+1.1.0
+- Life Radio - nově přidáno
+- Life Radio 80er - nově přidáno
+- Life Radio 90er - nově přidáno
+- Life Radio Love - oprava streamu
+- RFM Baby odstraněno pro nefunkčnost streamu
+- Český Rozhlas ČRo Plus - oprava streamu
+- Český Rozhlas Rádio Junior Písničky - oprava streamu
+- RádioŽurnál olympijský speciál přeformátován na Radiožurnál Sport
+- Dance Rádio - oprava streamu
+- Frekvence 1 - Youradio Legendy - oprava streamu
+- Frekvence 1 - Youradio 80s - oprava streamu
+- Pigy.cz - Disko Trysko - oprava streamu
+- Pigy.cz - Pohádky - oprava streamu
+- Pigy.cz - Písničky z Pohádek - oprava streamu
+- Proglas - oprava streamu
+- Rádio Bonton - oprava streamu
+- Rádio Logos - oprava streamu
+- Rádio Max ukončilo vysílání 28.2.2019 (odstraněno)
+- Rádio Pohoda - oprava streamu
+- Rádio R1 - odstraněno pro nefunkčnost streamu
+- Rádio Rocková Republika - odstraněno pro nefunkčnost streamu
+- Rádio The End - nově přidáno
+- Rádio Šírava - nově přidáno
+- ŠtuRKo - nově přidáno
+- Rádio Kiks - nově přidáno
+- do oblíbených přidáno Top 10 Mebox   
+1.0.9
+- Nové menu Pluginu
+- Upravené nastavení doplňku
+- Nové icony
+- Překlad doplňku do SK, CZ a ENG
+1.0.8
+- Opraveno Country Radio a přidáno do top 10 CZ
+- V sekci české rádia a dle stylu rock přidáno RockMax-Blue
+1.0.7
+- Oprava nefunkčních icon
+- Přidané Anglické a Americké stanice
+- Abecedně řazení zahraničních stanic
+- Rozdělení radio stanic dle stylu
+- Oprava nefunkčních rádiových stanic
+1.0.6
+- Finalní verze
+	</news>
   </extension>
 </addon>
