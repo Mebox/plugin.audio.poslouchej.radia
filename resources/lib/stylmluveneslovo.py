@@ -33,7 +33,7 @@ class Main:
         list = [
             ['Cimrmanovo rádio (CZ)', 'http://liquiddoom.net:8000/cimrman', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc20.jpg'],
             ['Český Rozhlas Rádio Retro (CZ)', 'http://icecast7.play.cz/croretro128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radior13.jpg'],
-            ['Pigy.cz - Pohádky (CZ)', 'http://pool.cdn.lagardere.cz/web-pg-pohadky', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop10.jpg'],
+            ['Pigy.cz - Pohádky (CZ)', 'http://ice.actve.net/web-pg-pohadky', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop10.jpg'],
             ['Rádio Humor (CZ)', 'http://mp3stream4.abradio.cz:8000/humor128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioh13.jpg'],
             ['Rádio Pohádka  (CZ)', 'http://ice3.abradio.cz/pohadka128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop12.jpg'],
             ['Rádio Povídka (CZ)', 'http://ice.abradio.cz/povidka128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop11.jpg'],
