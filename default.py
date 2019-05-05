@@ -8,7 +8,7 @@ import os
 import sys
 import re
 import urllib
-import urllib2
+import urllib2 
 import cookielib
 
 __addon__           = xbmcaddon.Addon()
@@ -25,13 +25,13 @@ sys.path.append (__path_img__)
 
 class Radio:
     def __init__(self):
-
+    
         optMatches = re.compile('\?([^_]+)_?').findall(sys.argv[2])
         if len(optMatches) == 0:
             self.opt = ''
         else:
             self.opt = optMatches[0]
-
+        
         optMatches2 = re.compile('_(.+)').findall(sys.argv[2])
         if len(optMatches2) == 0:
             self.opt2 = ''
@@ -48,6 +48,8 @@ class Radio:
             import favouriteCZ as start
         elif self.opt == 'topSK':
             import favouriteSK as start
+	elif self.opt == 'topmebox':
+            import favouriteMebox as start
         elif self.opt == 'fr':
             import radioFrance as start
         elif self.opt == 'nl':
@@ -57,9 +59,9 @@ class Radio:
         elif self.opt == 'pl':
             import radioPolskie as start
         elif self.opt == 'us':
-            import radioUnitedStates as start
+            import radioUnitedStates as start 
         elif self.opt == 'uk':
-            import radioUnitedKingdom as start
+            import radioUnitedKingdom as start 
         elif self.opt == 'ger':
             import radioGermany as start
         elif self.opt == 'au':
@@ -86,15 +88,15 @@ class Radio:
             import stylmluveneslovo as start
         elif self.opt == 'zp':
             import stylzpravodajsky as start
-        elif self.opt == 'cou':
+	elif self.opt == 'cou':
             import countries as start
-        elif self.opt == 'fav':
+	elif self.opt == 'fav':
             import favourites as start
-        elif self.opt == 'gen':
+	elif self.opt == 'gen':
             import genres as start
         else:
             import radioMenu as start
-
+            
         start.Main().start(self)
-
+        
 Radio()
