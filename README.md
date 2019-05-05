@@ -24,7 +24,7 @@ Oldies - 54 stanic<br>
 Pop - 111 stanic<br>
 Relax/Klasika/Dechovka - 25 stanic<br>
 RnB/Hip Hop/Reggae  - 8 stanic<br>
-Rock/Metal - 47 stanic<br>
+Rock/Metal - 46 stanic<br>
 Solo Pro ... - 7 stanic<br>
 Zpravodajský - 22 stanic<br>
 <b>Oblibené</b><br>
