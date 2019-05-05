@@ -27,7 +27,7 @@ RnB/Hip Hop/Reggae  - 8 stanic<br>
 Rock/Metal - 46 stanic<br>
 Solo Pro ... - 7 stanic<br>
 Zpravodajský - 22 stanic<br>
-<b>Oblibené</b><br>
+<b>Oblíbené</b><br>
 10 nejpopulárnějších SK stanic<br>
 10 nejpopulárnějších CZ stanic<br>
 Top 10 Mebox</p>
