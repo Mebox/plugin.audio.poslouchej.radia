@@ -177,7 +177,7 @@ class Main:
 			['SeeJay Rádio', 'http://mp3stream.abradio.cz:8000/seejay128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radios11.jpg'],
 			['Signál Rádio Brno', 'http://icecast3.play.cz/signal-brno192.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radios15.jpg'],
 			['Signál Rádio', 'http://icecast1.play.cz/signal128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radios15.jpg'],
-			['Slow Rádio', 'http://icecast8.play.cz/slowradio320.mp3', 'https://i.imgur.com/zsWEXZV.png'],
+			['Slow Rádio', 'http://icecast8.play.cz/slowradio320.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/slowra10.png'],
 			['This Is Radio', 'http://ice3.abradio.cz/this_is_radio.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiot10.jpg'],
 			['Undergroundradio', 'http://icecast2.play.cz/Underground128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/underg10.png'],
 			['VPV rádio', 'http://88.99.38.244:8000/stream128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiov10.jpg'],
