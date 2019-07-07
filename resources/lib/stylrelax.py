@@ -48,7 +48,7 @@ class Main:
             ['Relaxace - Oheň v krbu (CZ)', 'http://ice6.abradio.cz/relax-fire128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radior21.jpg'],
             ['Relaxace - Relaxace - Moře (CZ)', 'http://ice6.abradio.cz/relax-sea128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radior19.jpg'],
             ['Relaxace - Zpěv ptákú (CZ)', 'http://ice6.abradio.cz/relax-morning-birds128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radior22.jpg'],
-            ['Slow Rádio (CZ)', 'http://icecast8.play.cz/slowradio320.mp3', 'https://i.imgur.com/zsWEXZV.png'],
+            ['Slow Rádio (CZ)', 'http://icecast8.play.cz/slowradio320.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/slowra10.png'],
             ['BBC Radio 3 (GB)', 'http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_q', 'https://i46.servimg.com/u/f46/19/40/01/67/c175145.png'],
             ['Chill (GB)', 'http://media-ice.musicradio.com/ChillMP3', 'https://i46.servimg.com/u/f46/19/40/01/67/c175146.png'],
             ['Magic Chilled (GB)', 'https://stream-mz.planetradio.co.uk/magicchilled.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c175139.png'],
