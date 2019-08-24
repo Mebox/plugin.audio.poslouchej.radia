@@ -44,7 +44,7 @@ class Main:
             ['Rádio Čas Rock (CZ)', 'http://icecast7.play.cz:8000/casrock128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc23.jpg'],
             ['Rádio Čas Rock NATVRDO (CZ)', 'http://icecast8.play.cz/rocknatvrdo.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/cas_ro10.png'],
             ['Rádio Oldies Rock (CZ)', 'http://mp3stream4.abradio.cz/oldiesrock128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radior16.jpg'],
-	    ['Rádio Orlicko 95,5 FM (CZ)', 'https://audio5.mixcloud.com/secure/dash2/0/8/5/e/1112-5a8e-48f7-9f5b-28c0a5895ac6.m4a/init-a1-x3.mp4', 'https://i46.servimg.com/u/f46/19/40/01/67/radioo10.jpg'],
+	    ['Rádio Orlicko 95,5 FM (CZ)', 'http://46.28.111.246/stream192.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/radioo10.jpg'],
             ['Rádio Petrov Rock (CZ)', 'http://play.radiopetrov.com:8000/petrovR', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop14.jpg'],
 	    ['Rebel Radio Brod (CZ)', 'http://212.96.160.160:7988/;stream.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/rebel_10.jpg'],
             ['Rock Rádio (CZ)', 'http://ice.abradio.cz:80/sumava128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radior16.jpg'],
