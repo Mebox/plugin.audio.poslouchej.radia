@@ -154,7 +154,6 @@ class Main:
 			['Rádio Pohádka', 'http://ice3.abradio.cz/pohadka128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop12.jpg'],
                         ['Rádio Povídka', 'http://ice.abradio.cz/povidka128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop11.jpg'],
 			['Rádio Ponte Records', 'http://ice3.abradio.cz:8000/ponterec128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiop15.jpg'],
-			['Rádio Radnice', 'http://ice3.abradio.cz/radnice128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radior11.jpg'],
 		        ['Rádio Rubi', 'http://icecast8.play.cz/radiorubi128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radior21.jpg'],
 			['Rádio Samson FM', 'http://icecast8.play.cz/samsonfm128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radios17.jpg'],
 			['Rádio Spin 96,2 FM', 'http://icecast4.play.cz/spin128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radios14.jpg'],
