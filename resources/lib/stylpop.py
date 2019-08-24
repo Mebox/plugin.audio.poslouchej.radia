@@ -101,7 +101,6 @@ class Main:
 	    ['Rádio Kroměříž (CZ)', 'http://icecast6.play.cz/radio-kromeriz128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiok12.jpg'],
 	    ['Rádio Merkur (CZ)', 'http://ice4.abradio.cz/merkur-casino128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiom12.jpg'],
 	    ['Rádio Petrov (CZ)', 'http://icecast6.play.cz:8000/petrov128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop14.jpg'],
-	    ['Rádio Radnice (CZ)', 'http://ice3.abradio.cz/radnice128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radior11.jpg'],
 	    ['Rádio Rubi (CZ)', 'http://icecast8.play.cz/radiorubi128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radior21.jpg'],
 	    ['Rádio Zlín (CZ)', 'http://212.111.2.151:8000/radiozlin_256.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioz11.jpg'],
 	    ['Signál Rádio (CZ)', 'http://icecast1.play.cz/signal128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radios15.jpg'],
