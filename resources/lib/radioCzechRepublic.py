@@ -148,7 +148,7 @@ class Main:
 			['Rádio Nostalgie', 'http://icecast3.play.cz/radio-nostalgie128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radion13.jpg'],
 			['Rádio Oldies Rock', 'http://mp3stream4.abradio.cz/oldiesrock128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioo10.jpg'],
 			['Rádio Olympic', 'http://ice.abradio.cz/olympic128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioo11.jpg'],
-	                ['Rádio Orlicko 95,5 FM', 'https://audio5.mixcloud.com/secure/dash2/0/8/5/e/1112-5a8e-48f7-9f5b-28c0a5895ac6.m4a/init-a1-x3.mp4', 'https://i46.servimg.com/u/f46/19/40/01/67/radioo10.jpg'],
+	                ['Rádio Orlicko 95,5 FM', 'http://46.28.111.246/stream192.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/radioo10.jpg'],
 		        ['Rádio Patriot', 'http://ice3.abradio.cz/patriot128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/patrio10.jpg'],
                         ['Rádio Petrov', 'http://icecast6.play.cz:8000/petrov128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop14.jpg'],
 			['Rádio Pohádka', 'http://ice3.abradio.cz/pohadka128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop12.jpg'],
