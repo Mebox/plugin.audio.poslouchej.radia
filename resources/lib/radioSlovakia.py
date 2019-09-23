@@ -77,7 +77,7 @@ class Main:
 			['Rádio Lumen', 'http://audio.lumen.sk:8000/live128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiol10.jpg'],
 			['Rádio Modra', 'http://185.98.208.12:8000/;stream/1', 'https://i11.servimg.com/u/f11/19/40/01/67/radiom11.jpg'],
 		        ['Rádio Modus', 'http://90.176.4.82:8000/;stream/1', 'https://i11.servimg.com/u/f11/19/40/01/67/radiom10.jpg'],
-			['Music FM', 'https://radio.musicfm.sk/musicfm128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/music-10.png'],
+			['Music FM', 'https://radio.musicfm.sk/musicfm128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/music_28.jpg'],
 		        ['New Model Radio', 'http://stream.sepia.sk:8000/newmodel128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radion11.jpg'],
 			['Nonstop Rádio', 'http://nonstop.out.airtime.pro:8000/nonstop_a', 'https://i11.servimg.com/u/f11/19/40/01/67/radion10.jpg'],
 			['Rádio One', 'http://147.78.169.82:8000/nr160kb', 'https://i11.servimg.com/u/f11/19/40/01/67/radioo11.jpg'],
