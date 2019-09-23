@@ -31,7 +31,6 @@ class Main:
         self = selfGet
     
         list = [
-            ['3 Music Harmony', 'http://misato.ru-hoster.com:8025/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/c17531.png'],
             ['16bit.FM - ProBeat', 'http://16bitfm.com:8000/main_mp3_192', 'https://i46.servimg.com/u/f46/19/40/01/67/c17538.png'],
             ['AvtoRadio', 'http://ic7.101.ru:8000/v3_1', 'https://i46.servimg.com/u/f46/19/40/01/67/c17529.png'],
             ['Best FM Moscow', 'http://nashe1.hostingradio.ru/best-128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c17530.png'],
