@@ -14,7 +14,7 @@ Holandské rádia - 22 stanic<br>
 Německé rádia - 26 stanic<br>
 Polské rádia - 66 stanic<br>
 Rakouské rádia - 26 stanic<br>
-Ruské rádia - 20 stanic<br>
+Ruské rádia - 19 stanic<br>
 <b>Žánry</b><br>
 Dance/Electronica - 44 stanic<br>
 Folk/Country - 9 stanic<br>
