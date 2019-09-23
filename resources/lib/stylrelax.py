@@ -55,7 +55,6 @@ class Main:
             ['181.fm Classical Guitar (USA)', 'http://mp3uplink.duplexfx.com:8020', 'https://i46.servimg.com/u/f46/19/40/01/67/c175125.png'],
             ['Antenne Bayern Chillout (D)', 'http://mp3channels.webradio.antenne.de/chillout', 'https://i62.servimg.com/u/f62/19/40/01/67/antena14.jpg'],
             ['Arabella Relax (A)', 'http://arabella.stream.kapper.net:8015/heroldrelax', 'https://i46.servimg.com/u/f46/19/40/01/67/c17521.png'],
-            ['3 Music Harmony', 'http://misato.ru-hoster.com:8025/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/c17531.png'],
             ['Visual neoclassical Omdaru radio', 'http://s02.radio-tochka.com:5440/radio', 'https://i46.servimg.com/u/f46/19/40/01/67/c17542.png']
             ]
 
