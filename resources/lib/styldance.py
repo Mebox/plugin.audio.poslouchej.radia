@@ -59,7 +59,7 @@ class Main:
             ['181.fm Party 181 (USA)', 'http://uplink.duplexfx.com:8036', 'https://i46.servimg.com/u/f46/19/40/01/67/c175125.png'],
             ['181.fm POWER 181 (USA)', 'http://relay.181.fm:8128', 'https://i46.servimg.com/u/f46/19/40/01/67/c175125.png'],
             ['Radio Danz (USA)', 'http://107.182.230.133/stream?icy=http', 'https://i62.servimg.com/u/f62/19/40/01/67/radio_13.png'],
-            ['B4B Radio Club Dance (F)', 'http://b4bsecours2.radioca.st/8727/', 'https://i46.servimg.com/u/f46/19/40/01/67/c17559.png'],
+            ['B4B Radio Club Dance (F)', 'https://radio10.pro-fhi.net/radio/9000/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/c17559.png'],
             ['Puls Radio Dance (F)', 'http://icecast.pulsradio.com:80/pulsHD.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/pulsra10.jpg'],
             ['Puls Radio Lounge (F)', 'http://icecast.pulsradio.com/relaxHD.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/lounfe10.jpg'],
             ['One Dance (I)', 'http://ice10.fluidstream.net/rn1_2.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c175136.png'],
