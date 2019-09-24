@@ -16,7 +16,7 @@ Polské rádia - 66 stanic<br>
 Rakouské rádia - 26 stanic<br>
 Ruské rádia - 19 stanic<br>
 <b>Žánry</b><br>
-Dance/Electronica - 44 stanic<br>
+Dance/Electronica - 43 stanic<br>
 Folk/Country - 7 stanic<br>
 Jazz/Blues/Soul - 8 stanic<br>
 Mluvené Slovo - 8 stanic<br>
