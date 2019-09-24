@@ -6,7 +6,7 @@
 
 <p align="center"><b> Státy</b><br>
 Slovenské rádia - 96 stanic<br>
-České rádia 151 stanic<br>
+České rádia 149 stanic<br>
 Anglické rádia - 20 stanic<br>
 Americké rádia - 67 stanic<br>
 Francouzské rádia - 14 stanic<br>
