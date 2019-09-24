@@ -20,7 +20,7 @@ Dance/Electronica - 44 stanic<br>
 Folk/Country - 9 stanic<br>
 Jazz/Blues/Soul - 8 stanic<br>
 Mluvené Slovo - 8 stanic<br>
-Oldies - 54 stanic<br>
+Oldies - 51 stanic<br>
 Pop - 109 stanic<br>
 Relax/Klasika/Dechovka - 25 stanic<br>
 RnB/Hip Hop/Reggae  - 8 stanic<br>
