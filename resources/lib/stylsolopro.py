@@ -33,7 +33,6 @@ class Main:
         list = [
             ['Rádio Depeche Mode (CZ)', 'http://mp3stream4.abradio.cz:8000/depeche128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiod11.jpg'],
             ['Rádio Madonna (CZ)', 'http://mp3stream4.abradio.cz:8000/madonna128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiom11.jpg'],
-            ['Rádio Olympic (CZ)', 'http://ice.abradio.cz/olympic128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioo11.jpg'],
             ['181.fm Beatles (USA)', 'http://relay.181.fm:8062', 'https://i46.servimg.com/u/f46/19/40/01/67/c175125.png'],
             ['80s80s David Bowie (D)', 'http://streams.80s80s.de/davidbowie/mp3-128/surfmusik', 'https://i62.servimg.com/u/f62/19/40/01/67/80bowi10.jpg'],
             ['80s80s Depeche Mode (D)', 'http://streams.80s80s.de/dm/mp3-128/surfmusik', 'https://i62.servimg.com/u/f62/19/40/01/67/80mode10.jpg'],
