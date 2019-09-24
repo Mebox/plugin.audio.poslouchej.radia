@@ -25,7 +25,7 @@ Pop - 110 stanic<br>
 Relax/Klasika/Dechovka - 25 stanic<br>
 RnB/Hip Hop/Reggae  - 8 stanic<br>
 Rock/Metal - 48 stanic<br>
-Solo Pro ... - 7 stanic<br>
+Solo Pro ... - 6 stanic<br>
 Zpravodajský - 22 stanic<br>
 <b>Oblíbené</b><br>
 10 nejpopulárnějších SK stanic<br>
