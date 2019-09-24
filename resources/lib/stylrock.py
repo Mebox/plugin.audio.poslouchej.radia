@@ -31,12 +31,10 @@ class Main:
         self = selfGet
     
         list = [
-            ['Aligator (SK)', 'http://stream.aligator.sk:8000/aligator_192.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radioa12.jpg'],
             ['Rádio Anténa Rock (SK)', 'http://stream.antenarock.sk/antena-hi.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radior16.jpg'],
             ['Rádio Anténa Rock Hard (SK)', 'http://stream.radioservices.sk/hardrock.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radior17.jpg'],
-            ['Rádio One Rock (SK)', 'http://217.75.92.14:8000/rrock', 'https://i11.servimg.com/u/f11/19/40/01/67/radioo10.jpg'],
-            ['Rock Arena (SK)', 'http://icecast6.play.cz/rockarena.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/rockar10.png'],
-            ['Rádio X - Metal X (SK)', 'http://158.193.82.41:8000/metal.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiox11.jpg'],
+	    ['Rock Arena (SK)', 'http://icecast6.play.cz/rockarena.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/rockar10.png'],
+	    ['Rádio X - Metal X (SK)', 'http://158.193.82.41:8000/metal.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiox11.jpg'],
             ['Hitrádio PopRock (CZ)', 'http://ice.abradio.cz/hitpoprock128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioh11.jpg'],
             ['Metal Heart Rádio (CZ)', 'http://fr.radio-streamhosting.com:8000/metalheartradio128mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/metal_10.jpg'],
             ['Metalomanie (CZ)', 'http://ice.abradio.cz/metalomanie128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/metalm10.jpg'],
@@ -45,8 +43,7 @@ class Main:
             ['Rádio Čas Rock NATVRDO (CZ)', 'http://icecast8.play.cz/rocknatvrdo.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/cas_ro10.png'],
             ['Rádio Oldies Rock (CZ)', 'http://mp3stream4.abradio.cz/oldiesrock128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radior16.jpg'],
 	    ['Rádio Orlicko 95,5 FM (CZ)', 'http://46.28.111.246/stream192.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/radioo10.jpg'],
-            ['Rádio Petrov Rock (CZ)', 'http://play.radiopetrov.com:8000/petrovR', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop14.jpg'],
-	    ['Rebel Radio Brod (CZ)', 'http://212.96.160.160:7988/;stream.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/rebel_10.jpg'],
+            ['Rebel Radio Brod (CZ)', 'http://212.96.160.160:7988/;stream.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/rebel_10.jpg'],
             ['Rock Rádio (CZ)', 'http://ice.abradio.cz:80/sumava128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radior16.jpg'],
 	    ['RockMax -Live (CZ)', 'http://212.111.2.151:8000/rockmax_128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radior15.jpg'],
 	    ['RockMax-Hard (CZ)', 'http://212.111.2.151:8000/rm_hard_256.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radior15.jpg'],
