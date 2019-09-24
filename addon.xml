@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.audio.poslouchej.radia"
        name="Poslouchej Rádia"
-       version="1.1.0"
+       version="1.1.1"
        provider-name="mebox a ma_sk">
   <requires>
     <import addon="xbmc.python" version="2.14.0" />
@@ -23,6 +23,10 @@
     <forum/>
     <website>https://github.com/Mebox/plugin.audio.poslouchej.radia</website>
     <news>
+1.1.1
+- Rádio Orlicko 95,5 FM (CZ) - nově přidáno
+- Rádio Snina (SK) - nově přidáno
+- Music FM (SK) - nově přidáno 
 1.1.0
 - Life Radio - nově přidáno
 - Life Radio 80er - nově přidáno
