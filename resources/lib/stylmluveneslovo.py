@@ -31,7 +31,6 @@ class Main:
         self = selfGet
     
         list = [
-            ['Cimrmanovo rádio (CZ)', 'http://liquiddoom.net:8000/cimrman', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc20.jpg'],
             ['Český Rozhlas Rádio Retro (CZ)', 'http://icecast7.play.cz/croretro128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radior13.jpg'],
             ['Pigy.cz - Pohádky (CZ)', 'http://ice.actve.net/web-pg-pohadky', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop10.jpg'],
             ['Rádio Humor (CZ)', 'http://mp3stream4.abradio.cz:8000/humor128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioh13.jpg'],
