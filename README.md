@@ -6,7 +6,7 @@
 
 <p align="center"><b> Státy</b><br>
 Slovenské rádia - 96 stanic<br>
-České rádia 149 stanic<br>
+České rádia 147 stanic<br>
 Anglické rádia - 20 stanic<br>
 Americké rádia - 67 stanic<br>
 Francouzské rádia - 14 stanic<br>
@@ -19,10 +19,10 @@ Ruské rádia - 19 stanic<br>
 Dance/Electronica - 43 stanic<br>
 Folk/Country - 7 stanic<br>
 Jazz/Blues/Soul - 8 stanic<br>
-Mluvené Slovo - 8 stanic<br>
+Mluvené Slovo - 7 stanic<br>
 Oldies - 51 stanic<br>
 Pop - 109 stanic<br>
-Relax/Klasika/Dechovka - 25 stanic<br>
+Relax/Klasika/Dechovka - 24 stanic<br>
 RnB/Hip Hop/Reggae  - 8 stanic<br>
 Rock/Metal - 43 stanic<br>
 Solo Pro ... - 6 stanic<br>
