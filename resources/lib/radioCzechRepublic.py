@@ -33,7 +33,6 @@ class Main:
         list = [
             ['Alternative Times Radio', 'http://ice3.abradio.cz/alternative128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioa10.jpg'],
 			['Be iN Radio Network', 'http://icecast1.play.cz/beinradionetwork1-128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/be-in-10.png'],
-			['Cimrmanovo rádio', 'http://liquiddoom.net:8000/cimrman', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc20.jpg'],
 			['Classic Praha', 'http://icecast8.play.cz/classic128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc34.jpg'],
 			['Club Rádio', 'http://icecast2.play.cz:8000/Clubradio.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc18.jpg'],
 			['Clubbeat Rádio', 'http://mp3stream4.abradio.cz/clubbeat128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc11.jpg'],
@@ -174,7 +173,6 @@ class Main:
 			['SeeJay Rádio', 'http://mp3stream.abradio.cz:8000/seejay128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radios11.jpg'],
 			['Signál Rádio Brno', 'http://icecast3.play.cz/signal-brno192.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radios15.jpg'],
 			['Signál Rádio', 'http://icecast1.play.cz/signal128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radios15.jpg'],
-			['Slow Rádio', 'http://icecast8.play.cz/slowradio320.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/slowra10.png'],
 			['This Is Radio', 'http://ice3.abradio.cz/this_is_radio.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiot10.jpg'],
 			['Undergroundradio', 'http://icecast2.play.cz/Underground128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/underg10.png'],
 			['VPV rádio', 'http://88.99.38.244:8000/stream128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiov10.jpg'],
