@@ -22,7 +22,7 @@ Jazz/Blues/Soul - 8 stanic<br>
 Mluvené Slovo - 7 stanic<br>
 Oldies - 51 stanic<br>
 Pop - 109 stanic<br>
-Relax/Klasika/Dechovka - 24 stanic<br>
+Relax/Klasika/Dechovka - 26 stanic<br>
 RnB/Hip Hop/Reggae  - 8 stanic<br>
 Rock/Metal - 43 stanic<br>
 Solo Pro ... - 6 stanic<br>
