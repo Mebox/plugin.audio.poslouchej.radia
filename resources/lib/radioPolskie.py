@@ -76,7 +76,6 @@ class Main:
             ['RMF 2000', 'http://rmfon.pl/n/rmf2000.pls', 'https://i46.servimg.com/u/f46/19/40/01/67/c175116.png'],
             ['RMF 20 lat RMF FM', 'http://rmfon.pl/n/rmf20lat.pls', 'https://i46.servimg.com/u/f46/19/40/01/67/c17587.png'],
             ['RMF Chopin', 'http://rmfon.pl/n/rmfchopin.pls', 'https://i46.servimg.com/u/f46/19/40/01/67/c17587.png'],
-            ['RMF Nostalgia', 'http://rmfon.pl/n/rmfnostalgia.pls', 'https://i46.servimg.com/u/f46/19/40/01/67/c17587.png'],
             ['RMF 2', 'http://rmfon.pl/n/rmf2.pls', 'https://i46.servimg.com/u/f46/19/40/01/67/c17587.png'],
             ['RMF 3', 'http://rmfon.pl/n/rmf3.pls', 'https://i46.servimg.com/u/f46/19/40/01/67/c17587.png'],
             ['RMF 4', 'http://rmfon.pl/n/rmf4.pls', 'https://i46.servimg.com/u/f46/19/40/01/67/c17587.png'],
