@@ -95,7 +95,7 @@ class Main:
 			['Rádio Roma', 'http://allnet.radionet.sk:8000/radioroma128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radior12.jpg'],
 			['Rusyn FM', 'http://stream.rusyn.fm/rusyny.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radior13.jpg'],
 			['Rádio SiTy', 'http://icecast.radiosity.sk:8000/hq.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radios16.jpg'],
-			['Rádio.sk', 'http://server1.internetoveradio.sk:8819/live, 'https://i11.servimg.com/u/f11/19/40/01/67/sk1110.jpg'],
+			['Rádio.sk', 'http://server1.internetoveradio.sk:8819/live', 'https://i11.servimg.com/u/f11/19/40/01/67/sk1110.jpg'],
 			['Rádio Slovakia International', 'http://icecast.stv.livebox.sk/rsi_128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radios15.jpg'],
 			['Rádio Slovensko', 'http://icecast.stv.livebox.sk/slovensko_128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radios12.jpg'],
 			['Rádio Šport', 'http://stream.radiosport.sk:8000/Sport192.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radios10.jpg'],
