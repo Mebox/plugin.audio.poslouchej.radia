@@ -60,7 +60,6 @@ class Main:
             ['Epic Rock Radio (USA)', 'http://listen.sonixfm.com:8734/stream', 'https://i11.servimg.com/u/f11/19/40/01/67/err-lo10.jpg'],
             ['RADIO TROP ROCK (USA)', 'http://usa14.fastcast4u.com:5224/stream/1/', 'https://i46.servimg.com/u/f46/19/40/01/67/c175129.png'],
             ['Third Rock Radio (USA)', 'http://rfcmedia2.streamguys1.com/thirdrock.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c175126.png'],
-            ['SCR - Soft Classic Rock (F)', 'http://64.71.133.122:8000/', 'https://i46.servimg.com/u/f46/19/40/01/67/c17565.png'],
             ['Underground fm (PL)', 'http://fucktheradio.net:9100/stream#.mp3?ver=333765', 'https://i46.servimg.com/u/f46/19/40/01/67/underg11.png'],
             ['Underground fm - Metal Radio (PL)', 'http://fucktheradio.net:9300/stream#.mp3?ver=293958', 'https://i46.servimg.com/u/f46/19/40/01/67/underg11.png'],
             ['Underground fm - Skinhead Radio (PL)', 'http://fucktheradio.net:7769/stream#.mp3?ver=754162', 'https://i46.servimg.com/u/f46/19/40/01/67/underg11.png'],
