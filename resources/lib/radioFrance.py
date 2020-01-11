@@ -43,8 +43,7 @@ class Main:
             ['Puls Radio - Dance', 'http://icecast.pulsradio.com:80/pulsHD.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/pulsra10.jpg'],
             ['Puls Radio - Lounge', 'http://icecast.pulsradio.com/relaxHD.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/lounfe10.jpg'],
             ['Roots Legacy Radio', 'http://rootslegacy.fr:8080/stream/1/', 'https://i46.servimg.com/u/f46/19/40/01/67/c17566.png'],
-            ['RTL2', 'http://streaming.radio.rtl2.fr/rtl2-1-48-192', 'https://i46.servimg.com/u/f46/19/40/01/67/c17569.png'],
-            ['SCR - Soft Classic Rock', 'http://64.71.133.122:8000/', 'https://i46.servimg.com/u/f46/19/40/01/67/c17565.png']
+            ['RTL2', 'http://streaming.radio.rtl2.fr/rtl2-1-48-192', 'https://i46.servimg.com/u/f46/19/40/01/67/c17569.png']
             ]
 
         if self.opt2 == '':
