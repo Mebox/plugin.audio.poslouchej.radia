@@ -44,9 +44,7 @@ class Main:
             ['Rádio Jemné (SK)', 'http://stream.jemne.sk/jemne-hi.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radioj11.jpg'],
             ['Rádio Jupiter (SK)', 'http://radio.treecom.net/jupiter_128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/radioj10.jpg'],
             ['Rádio Košice (SK)', 'http://stream.ecce.sk:8000/radiokosice-128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiok12.jpg'],
-            ['Rádio One (SK)', 'http://147.78.169.82:8000/nr160kb', 'https://i11.servimg.com/u/f11/19/40/01/67/radioo11.jpg'],
             ['Rádio Piešťany (SK)', 'http://live.radiopiestany.sk:8000/live.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiop12.jpg'],
-            ['Rádio Plus (SK)', 'http://stream.sepia.sk:8000/plus128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiop10.jpg'],
             ['Rádio Rebeca (SK)', 'http://allnet.radionet.sk:8000/radiorebeca.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radior14.jpg'],
             ['Rádio SiTy (SK)', 'http://icecast.radiosity.sk:8000/hq.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radios16.jpg'],
             ['SKY Rádio (SK)', 'http://stream.skyradio.sk:8000/sky128', 'https://i11.servimg.com/u/f11/19/40/01/67/radios17.jpg'],
@@ -137,7 +135,6 @@ class Main:
             ['Life Radio Love (A)', 'http://liferadio.stream.kapper.net:8007/livesongs', 'https://i46.servimg.com/u/f46/19/40/01/67/c17519.png'],
 	    ['AvtoRadio (RU)', 'http://ic7.101.ru:8000/v3_1', 'https://i46.servimg.com/u/f46/19/40/01/67/c17529.png'],
             ['Best FM Moscow (RU)', 'http://nashe1.hostingradio.ru/best-128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c17530.png'],
-            ['Europa Plus ru (RU)', 'http://ep256.hostingradio.ru:8052/europaplus256.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c17533.png'],
             ['NRJ 104.2 FM Moscow (RU)', 'http://ic7.101.ru:8000/v1_1', 'https://i46.servimg.com/u/f46/19/40/01/67/c17537.png'],
 	    ['IP music (CH)', 'http://live9.avf.ch:8000/ipmusicaacplus128', 'https://i62.servimg.com/u/f62/19/40/01/67/radioi11.jpg']
             ]
