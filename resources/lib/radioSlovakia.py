@@ -122,7 +122,7 @@ class Main:
                         ['Rádio X', 'http://158.193.82.41:8000/radiox_128.mp3', 'https://i.servimg.com/u/f11/19/40/01/67/radiox15.jpg'],
 			['Rádio X - Chillout X', 'http://158.193.82.41:8000/chillout.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radioc10.jpg'],
 			['Rádio X - DnB X', 'http://158.193.82.41:8000/dnb.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiox12.jpg'],
-			['Rádio X - Folklore X', 'http://158.193.82.41:8000/ludovky.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_13.jpg],
+			['Rádio X - Folklore X', 'http://158.193.82.41:8000/ludovky.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_13.jpg'],
 			['Rádio X - Metal X', 'http://158.193.82.41:8000/metal.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiox11.jpg'],
 			['Rádio X - Oldies X', 'http://158.193.82.41:8000/oldies.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiox10.jpg'],
 			['Rádio Yes', 'http://80.242.44.249:8000/;stream/1', 'https://i11.servimg.com/u/f11/19/40/01/67/radioy12.jpg'],
