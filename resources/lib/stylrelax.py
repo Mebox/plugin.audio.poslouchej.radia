@@ -34,6 +34,7 @@ class Main:
             ['Rádio Devín (SK)', 'http://icecast.stv.livebox.sk/devin_128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiod11.jpg'],
             ['Rádio Janko Hraško (SK)', 'http://78.24.9.110:31088/;stream/1', 'https://i11.servimg.com/u/f11/19/40/01/67/radioj10.jpg'],
             ['Rádio Jemné Chillout (SK)', 'http://stream.radioservices.sk/chillout.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radioj12.jpg'],
+            ['Rádio X - Folklore X (SK)', 'http://158.193.82.41:8000/ludovky.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_13.jpg'],
             ['Rádio X - Chillout X (SK)', 'http://158.193.82.41:8000/chillout.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radioc10.jpg'],
             ['Classic Praha (CZ)', 'http://icecast8.play.cz/classic128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc34.jpg'],
             ['Český rozhlas 3 - Vltava (CZ)', 'http://icecast5.play.cz:8000/cro3-128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc25.jpg'],
