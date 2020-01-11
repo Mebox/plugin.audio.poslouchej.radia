@@ -42,7 +42,6 @@ class Main:
             ['Proglas (CZ)', 'http://icecast2.play.cz/proglas128', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop17.jpg'],
             ['Rádio Chillout (CZ)', 'http://mp3stream4.abradio.cz/chillout128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc12.jpg'],
             ['Rádio Jih - Cimbálka (CZ)', 'http://icecast6.play.cz/jihcimbalka128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioj13.jpg'],
-            ['Rádio Koleda (CZ)', 'http://ice.abradio.cz/koleda128.mp3', 'https://i.servimg.com/u/f62/19/40/01/67/radiok21.jpg'],
             ['Relaxace - Jedoucí Vlak (CZ)', 'http://ice6.abradio.cz/relax-train128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radior18.jpg'],
             ['Relaxace - Letná bouřka (CZ)', 'http://ice6.abradio.cz/relax-thunder-rain128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radior20.jpg'],
             ['Relaxace - Oheň v krbu (CZ)', 'http://ice6.abradio.cz/relax-fire128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radior21.jpg'],
