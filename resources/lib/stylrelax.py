@@ -31,8 +31,7 @@ class Main:
         self = selfGet
     
         list = [
-            ['Fun Rádio Vianoce (SK)', 'http://stream.funradio.sk:8000/xmas128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/fun_rd10.jpg'],
-            ['Rádio Devín (SK)', 'http://live.slovakradio.sk:8000/Devin_256.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiod11.jpg'],
+            ['Rádio Devín (SK)', 'http://icecast.stv.livebox.sk/devin_128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiod11.jpg'],
             ['Rádio Janko Hraško (SK)', 'http://78.24.9.110:31088/;stream/1', 'https://i11.servimg.com/u/f11/19/40/01/67/radioj10.jpg'],
             ['Rádio Jemné Chillout (SK)', 'http://stream.radioservices.sk/chillout.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radioj12.jpg'],
             ['Rádio X - Chillout X (SK)', 'http://158.193.82.41:8000/chillout.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radioc10.jpg'],
@@ -42,7 +41,6 @@ class Main:
             ['Koule.cz Filmové Melodie (CZ)', 'http://ice.actve.net/web-rb-melodie', 'https://i62.servimg.com/u/f62/19/40/01/67/radiok14.jpg'],
             ['Proglas (CZ)', 'http://icecast2.play.cz/proglas128', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop17.jpg'],
             ['Rádio Chillout (CZ)', 'http://mp3stream4.abradio.cz/chillout128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc12.jpg'],
-            ['Rádio Dechovka (CZ)', 'http://icecast5.play.cz:8000/dechovka128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiod13.jpg'],
             ['Rádio Jih - Cimbálka (CZ)', 'http://icecast6.play.cz/jihcimbalka128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioj13.jpg'],
             ['Rádio Koleda (CZ)', 'http://ice.abradio.cz/koleda128.mp3', 'https://i.servimg.com/u/f62/19/40/01/67/radiok21.jpg'],
             ['Relaxace - Jedoucí Vlak (CZ)', 'http://ice6.abradio.cz/relax-train128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radior18.jpg'],
