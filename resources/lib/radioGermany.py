@@ -54,7 +54,6 @@ class Main:
             ['FFH Brandneu', 'http://mp3.ffh.de/ffhchannels/hqbrandneu.aac', 'https://i62.servimg.com/u/f62/19/40/01/67/ffh_br10.jpg'],
             ['FFH - Die 80-er', 'http://mp3.ffh.de/ffhchannels/hq80er.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/ffh_di10.jpg'],
             ['FFH - Just 90s', 'http://mp3.ffh.de/ffhchannels/hq90er.aac', 'https://i11.servimg.com/u/f11/19/40/01/67/ffh_ju10.jpg'],
-            ['FFH - Weinachtsradio', 'http://ndr-ndr1niedersachsen-hannover.cast.addradio.de/ndr/ndr1niedersachsen/hannover/mp3/56/stream.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/ffh_we10.jpg'],
             ['NDR 2', 'https://ndr-ndr2-niedersachsen.sslcast.addradio.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radion10.jpg'],
             ['N-Joy', 'https://ndr-njoy-live.sslcast.addradio.de/ndr/njoy/live/mp3/128/stream.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/njoy10.jpg']
 
