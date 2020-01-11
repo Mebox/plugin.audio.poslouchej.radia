@@ -70,7 +70,7 @@ class Main:
             ['16bit.FM - ProBeat (RU)', 'http://16bitfm.com:8000/main_mp3_192', 'https://i46.servimg.com/u/f46/19/40/01/67/c17538.png'],
             ['San FM - Trance Channel (RU)', 'http://sanfm.ru:8000/trance', 'https://i46.servimg.com/u/f46/19/40/01/67/c17539.png'],
             ['Energy Dance (CH)', 'http://energydance.ice.infomaniak.ch/energydance-high.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c175134.png'],
-            ['Rouge Dance (CH)', 'http://rouge-dance.ice.infomaniak.ch/rouge-dance-128.mp3', 'https://static.radio.net/images/broadcasts/e4/3a/18770/1/c175.png'],
+            ['Rouge Dance (CH)', 'http://rouge-dance.ice.infomaniak.ch/rouge-dance-128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/rouge_10.jpg'],
             ['Rouge Dance 2000 (CH)', 'http://rouge-dance2000.ice.infomaniak.ch/rouge-dance2000-128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c175135.png'],
             ['MyRadio Dance Club (UA)', 'http://music.myradio.com.ua:8000/dance128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c30010.png'],
             ['MyRadio Trance and Progressive (UA)', 'http://music.myradio.com.ua:8000/trance128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c30010.png']
