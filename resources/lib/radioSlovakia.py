@@ -81,7 +81,7 @@ class Main:
 			['Music FM', 'https://radio.musicfm.sk/musicfm128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/music_28.jpg'],
 		        ['New Model Radio', 'http://stream.sepia.sk:8000/newmodel128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radion11.jpg'],
 			['Nonstop Rádio', 'http://nonstop.out.airtime.pro:8000/nonstop_a', 'https://i11.servimg.com/u/f11/19/40/01/67/radion10.jpg'],
-                        ['Rádio Paráda', 'http://nonstop.out.airtime.pro:8000/nonstop_a', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_12.jpg'],
+                        ['Rádio Paráda', 'http://46.101.103.74:8806/radioparada.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_12.jpg'],
 			['Rádio Patria', 'http://46.101.103.74:8806/radioparada.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiop13.jpg'],
 			['Rádio Piešťany', 'http://live.radiopiestany.sk:8000/live.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiop12.jpg'],
 			['Rádio Pohoda', 'http://mpc.mediacp.eu:8018/;stream/1', 'https://i46.servimg.com/u/f46/19/40/01/67/radiop10.jpg'],
