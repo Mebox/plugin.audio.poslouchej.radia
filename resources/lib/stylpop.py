@@ -44,6 +44,7 @@ class Main:
             ['Rádio Jemné (SK)', 'http://stream.jemne.sk/jemne-hi.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radioj11.jpg'],
             ['Rádio Jupiter (SK)', 'http://radio.treecom.net/jupiter_128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/radioj10.jpg'],
             ['Rádio Košice (SK)', 'http://stream.ecce.sk:8000/radiokosice-128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiok12.jpg'],
+	    ['Rádio Paráda (SK)', 'http://46.101.103.74:8806/radioparada.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_12.jpg'],
             ['Rádio Piešťany (SK)', 'http://live.radiopiestany.sk:8000/live.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiop12.jpg'],
             ['Rádio Rebeca (SK)', 'http://allnet.radionet.sk:8000/radiorebeca.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radior14.jpg'],
             ['Rádio SiTy (SK)', 'http://icecast.radiosity.sk:8000/hq.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radios16.jpg'],
