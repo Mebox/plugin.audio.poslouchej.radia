@@ -8,7 +8,7 @@ import os
 import sys
 import re
 import urllib
-import urllib2 
+import urllib2
 import cookielib
 
 __addon__           = xbmcaddon.Addon()
@@ -26,10 +26,10 @@ sys.path.append (__path_img__)
 class Main:
 
     def start(self, selfGet):
-    
+
         # vars
         self = selfGet
-    
+
         list = [
             ['Rádio 7', 'http://play.twr.sk:8000/128', 'https://i11.servimg.com/u/f11/19/40/01/67/radio710.jpg'],
 			['Rádio 9', 'http://147.232.191.167:8000/high.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radio910.jpg'],
@@ -78,6 +78,7 @@ class Main:
                         ['Rádio Lumen Gospel stream', 'http://audio.lumen.sk:8000/ff128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/lumen_10.jpg'],
 			['Rádio Modra', 'http://185.98.208.12:8000/;stream/1', 'https://i11.servimg.com/u/f11/19/40/01/67/radiom11.jpg'],
 		        ['Rádio Modus', 'http://90.176.4.82:8000/;stream/1', 'https://i11.servimg.com/u/f11/19/40/01/67/radiom10.jpg'],
+                ['Rádio Muzika', 'http://50.7.71.219:11066/live2.aac', 'https://www.radia.sk/_radia/loga/coverflow/muzika.png'],
 			['Music FM', 'https://radio.musicfm.sk/musicfm128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/music_28.jpg'],
 		        ['New Model Radio', 'http://stream.sepia.sk:8000/newmodel128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radion11.jpg'],
 			['Nonstop Rádio', 'http://nonstop.out.airtime.pro:8000/nonstop_a', 'https://i11.servimg.com/u/f11/19/40/01/67/radion10.jpg'],
@@ -136,13 +137,12 @@ class Main:
                 xbmcplugin.addDirectoryItem(handle=int(sys.argv[1]), url=sys.argv[0] + '?sk_' + str(i), listitem=listItem, isFolder=True)
                 i = i + 1
             xbmcplugin.endOfDirectory(int(sys.argv[1]))
-        
+
         else:
-        
+
             Title = list[int(self.opt2)][0]
             Icon = list[int(self.opt2)][2]
             URL = list[int(self.opt2)][1]
-        
+
             import radioPlayer as player
             player.Main().start(Title, Icon, URL)
-            

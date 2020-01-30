@@ -1,4 +1,4 @@
-﻿    
+﻿
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <strings>
     <string id="30001">States</string>
@@ -18,4 +18,5 @@
     <string id="30015">News</string>
 	<string id="30016">Genres</string>
 	<string id="30017">Favourites</string>
+  <string id="30018">Latest added radios</string>
 </strings>

@@ -2,10 +2,12 @@
 <settings>
     <category label="Menu">
        <setting id="radio_countries" type="bool" label="30001" default="true"/>
-       <setting type="sep" />	
+       <setting type="sep" />
        <setting id="radio_genres" type="bool" label="30016" default="true"/>
        <setting type="sep" />
        <setting id="radio_fav" type="bool" label="30017" default="true"/>
+       <setting type="sep" />
+       <setting id="new_added" type="bool" label="30018" default="true"/>
     </category>
     <category label="30001">
        <setting id="radio_Slovakia" type="bool" label="30002" default="true"/>
@@ -44,7 +46,7 @@
        <setting id="styl_relax" type="bool" label="30013" default="true"/>
 	   <setting type="sep" />
        <setting id="styl_rbn" type="bool" label="RnB/Hip Hop" default="true"/>
-	   <setting type="sep" />	   
+	   <setting type="sep" />
        <setting id="styl_rock" type="bool" label="Rock/Metal" default="true"/>
 	   <setting type="sep" />
        <setting id="styl_solopro" type="bool" label="30014" default="true"/>
