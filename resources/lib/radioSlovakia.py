@@ -78,7 +78,7 @@ class Main:
                         ['Rádio Lumen Gospel stream', 'http://audio.lumen.sk:8000/ff128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/lumen_10.jpg'],
 			['Rádio Modra', 'http://185.98.208.12:8000/;stream/1', 'https://i11.servimg.com/u/f11/19/40/01/67/radiom11.jpg'],
 		        ['Rádio Modus', 'http://90.176.4.82:8000/;stream/1', 'https://i11.servimg.com/u/f11/19/40/01/67/radiom10.jpg'],
-                ['Rádio Muzika', 'http://50.7.71.219:11066/live2.aac', 'https://www.radia.sk/_radia/loga/coverflow/muzika.png'],
+                        ['Rádio Muzika', 'http://50.7.71.219:11066/live2.aac', 'https://i.servimg.com/u/f46/19/40/01/67/radio_22.jpg'],
 			['Music FM', 'https://radio.musicfm.sk/musicfm128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/music_28.jpg'],
 		        ['New Model Radio', 'http://stream.sepia.sk:8000/newmodel128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radion11.jpg'],
 			['Nonstop Rádio', 'http://nonstop.out.airtime.pro:8000/nonstop_a', 'https://i11.servimg.com/u/f11/19/40/01/67/radion10.jpg'],
@@ -106,7 +106,8 @@ class Main:
 			['SKY Rádio', 'http://stream.skyradio.sk:8000/sky128', 'https://i11.servimg.com/u/f11/19/40/01/67/radios17.jpg'],
 			['Slobodný vysielač', 'http://78.47.79.190:8004/;stream/1', 'https://i11.servimg.com/u/f11/19/40/01/67/radios18.jpg'],
 			['Šport stream', 'http://play.sport-stream.sk:8000/sportstream128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radios12.jpg'],
-		        ['ŠtuRKo', 'http://sturko.intrak.upjs.sk:8000/StuRKo_128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radios14.jpg'],
+			['ŠtuRKo', 'http://sturko.intrak.upjs.sk:8000/StuRKo_128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radios14.jpg'],
+		        ['TLIS Rádio', 'https://stream.tlis.sk/tlis.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_21.jpg']
 		        ['Trnavské rádio', 'http://stream.trnavskeradio.sk/trnavske', 'https://i62.servimg.com/u/f62/19/40/01/67/radiot12.jpg'],
 			['tvojeRADIO.com Dance', 'http://server1.internetoveradio.sk:8816/dance.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiot13.jpg'],
 			['tvojeRADIO.com Gold 80/90', 'http://server1.internetoveradio.sk:8816/gold.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiot14.jpg'],
