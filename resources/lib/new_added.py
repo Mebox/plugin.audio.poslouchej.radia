@@ -31,7 +31,9 @@ class Main:
         self = selfGet
 
         list = [
-                        ['Rádio Muzika', 'http://50.7.71.219:11066/live2.aac', 'https://www.radia.sk/_radia/loga/coverflow/muzika.png'],
+                        ['Rádio Muzika (SK)', 'http://50.7.71.219:11066/live2.aac', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_22.jpg'],
+                        ['TLIS Rádio (SK)', 'https://stream.tlis.sk/tlis.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_21.jpg']
+            
             ]
 
         if self.opt2 == '':
