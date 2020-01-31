@@ -5,7 +5,7 @@
 <p align="center">Kodi plugin umožňující poslouchat České, Slovenské a Zahraniční rozhlasové stanice.<br>
 
 <p align="center"><b> Státy</b><br>
-Slovenské rádia - 96 stanic<br>
+Slovenské rádia - 98 stanic<br>
 České rádia 145 stanic<br>
 Anglické rádia - 20 stanic<br>
 Americké rádia - 59 stanic<br>
@@ -30,4 +30,6 @@ Zpravodajský - 21 stanic<br>
 <b>Oblíbené</b><br>
 10 nejpopulárnějších SK stanic<br>
 10 nejpopulárnějších CZ stanic<br>
-Top 10 Mebox</p>
+Top 10 Mebox<br>
+<b>Nejnovější přidané rádia</b><br>
+Novinky - 2 stanic</p>
