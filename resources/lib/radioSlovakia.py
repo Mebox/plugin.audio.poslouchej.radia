@@ -107,7 +107,7 @@ class Main:
 			['Slobodný vysielač', 'http://78.47.79.190:8004/;stream/1', 'https://i11.servimg.com/u/f11/19/40/01/67/radios18.jpg'],
 			['Šport stream', 'http://play.sport-stream.sk:8000/sportstream128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radios12.jpg'],
 			['ŠtuRKo', 'http://sturko.intrak.upjs.sk:8000/StuRKo_128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radios14.jpg'],
-		        ['TLIS Rádio', 'https://stream.tlis.sk/tlis.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_21.jpg']
+		        ['TLIS Rádio', 'https://stream.tlis.sk/tlis.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_21.jpg'],
 		        ['Trnavské rádio', 'http://stream.trnavskeradio.sk/trnavske', 'https://i62.servimg.com/u/f62/19/40/01/67/radiot12.jpg'],
 			['tvojeRADIO.com Dance', 'http://server1.internetoveradio.sk:8816/dance.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiot13.jpg'],
 			['tvojeRADIO.com Gold 80/90', 'http://server1.internetoveradio.sk:8816/gold.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiot14.jpg'],
