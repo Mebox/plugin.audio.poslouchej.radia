@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.audio.poslouchej.radia"
        name="Poslouchej Rádia"
-       version="1.1.4"
+       version="1.1.5"
        provider-name="mebox a ma_sk">
   <requires>
     <import addon="xbmc.python" version="2.14.0" />
@@ -23,10 +23,16 @@
     <forum/>
     <website>https://github.com/Mebox/plugin.audio.poslouchej.radia</website>
     <news>
+1.1.5
+- Rádio Pelhřimov (CZ) - nově přidáno
+- Rádio Západ (CZ) - nově přidáno
+- 101.ru: Euro Hits (RU) - nově přidáno
+- Antenne Niederrhein + 8 (D) - nově přidáno
+- M1.FM - Kuschelschlager + 11 (D) - nově přidáno
 1.1.4
 - Nová kategorie - nejnovější přidané rádia
 - Rádio Muzika (SK) - nově přidáno
-- TLIS Rádio (SK) - nově přidáno 	    
+- TLIS Rádio (SK) - nově přidáno
 1.1.3
 - Rádio Koleda (CZ) - skončilo vysílání
 - Fun Rádio Vianoce (SK) - skončilo vysílání
