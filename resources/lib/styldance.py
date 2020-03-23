@@ -64,11 +64,13 @@ class Main:
             ['One Dance (I)', 'http://ice10.fluidstream.net/rn1_2.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c175136.png'],
             ['Deep FM (NL)', 'http://stream.deep.radio/sd', 'https://i46.servimg.com/u/f46/19/40/01/67/c17579.png'],
             ['Antenne Bayern Fresh (D)', 'http://channels.webradio.antenne.de/fresh', 'https://i62.servimg.com/u/f62/19/40/01/67/antenn11.jpg'],
+            ['M1.FM - Clubmix (D)', 'http://tuner.m1.fm/clubmix.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/clubmi10.jpg'],
             ['Underground fm - Electro Station (PL)', 'http://fucktheradio.net:9400/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/underg11.png'],
             ['Kronehit Clubland xxl (A)', 'http://onair-ha1.krone.at/kronehit-clubland.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c175132.png'],
             ['Kronehit Dance (A)', 'http://onair-ha1.krone.at/kronehit-dance.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c175131.png'],
             ['16bit.FM - ProBeat (RU)', 'http://16bitfm.com:8000/main_mp3_192', 'https://i46.servimg.com/u/f46/19/40/01/67/c17538.png'],
             ['San FM - Trance Channel (RU)', 'http://sanfm.ru:8000/trance', 'https://i46.servimg.com/u/f46/19/40/01/67/c17539.png'],
+            ['101.ru: Euro Hits', 'https://ic7.101.ru:8000/c16_13', 'https://static.radio.net/images/broadcasts/73/8a/7121/1/c300.png'],
             ['Energy Dance (CH)', 'http://energydance.ice.infomaniak.ch/energydance-high.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c175134.png'],
             ['Rouge Dance (CH)', 'http://rouge-dance.ice.infomaniak.ch/rouge-dance-128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/rouge_10.jpg'],
             ['Rouge Dance 2000 (CH)', 'http://rouge-dance2000.ice.infomaniak.ch/rouge-dance2000-128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c175135.png'],
@@ -92,3 +94,4 @@ class Main:
         
             import radioPlayer as player
             player.Main().start(Title, Icon, URL)
+            

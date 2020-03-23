@@ -64,6 +64,8 @@ class Main:
             ['Underground fm - Metal Radio (PL)', 'http://fucktheradio.net:9300/stream#.mp3?ver=293958', 'https://i46.servimg.com/u/f46/19/40/01/67/underg11.png'],
             ['Underground fm - Skinhead Radio (PL)', 'http://fucktheradio.net:7769/stream#.mp3?ver=754162', 'https://i46.servimg.com/u/f46/19/40/01/67/underg11.png'],
             ['Underground fm - Polish Underground (PL)', 'http://fucktheradio.net:9500/stream#.mp3?ver=642757', 'https://i46.servimg.com/u/f46/19/40/01/67/underg11.png'],
+            ['Antenne Niederrhein - Dein Rock Radio (D)', 'http://rnrw-ais-edge-3005.fra-eco.cdn.addradio.net/rnrw-0182/deinrock/high/stream.mp3?ar-distributor=f0a0&sid=0182&kombi=FunkkombiWest&_art=dj0yJmlwPTkzLjE4NS41OC4xOCZpZD1pY3NjeGwtbW1oc2tmeGtiJnQ9MTU4NTA1ODY1MSZzPTc4NjZmMjljI2FhNmNkOTZjMjA1Y2M2ZGQwMDQ3NDMyZDcwZGRmZTNh', 'https://i46.servimg.com/u/f46/19/40/01/67/rnrw-r10.png'],
+            ['M1.FM - Rock (D)', 'http://tuner.m1.fm/rock.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/rock-c10.jpg'],
             ['ANTENNE VORARLBERG Rock Radio (A)', 'http://webradio.antennevorarlberg.at/rock', 'https://i46.servimg.com/u/f46/19/40/01/67/c17527.png'],
             ['MAXXX Radio (RU)', 'http://46.105.180.202:8045/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/maxrad10.jpg'],
             ['Radio Caprice - AOR/Melodic Hard Rock (RU)', 'http://79.111.14.76:8000/aor', 'https://i46.servimg.com/u/f46/19/40/01/67/c17536.png'],

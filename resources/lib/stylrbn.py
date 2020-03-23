@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 import xbmc
 import xbmcgui
@@ -37,7 +37,9 @@ class Main:
             ['Rádio Spin 96,2 FM (CZ)', 'http://icecast4.play.cz/spin128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radios14.jpg'],
             ['Radio City (BG)', 'http://79.98.108.172:8022/', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc36.jpg'],
             ['181.fm True RNB (USA)', 'http://mp3uplink.duplexfx.com:8022', 'https://i46.servimg.com/u/f46/19/40/01/67/c175125.png'],
-            ['Underground fm - Reggae Radio (PL)', 'http://fucktheradio.net:9200/stream#.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/underg11.png']
+            ['Underground fm - Reggae Radio (PL)', 'http://fucktheradio.net:9200/stream#.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/underg11.png'],
+            ['Antenne Niederrhein - Dein Urban Radio (D)', 'http://rnrw-ais-edge-4005-212-122-133-230.cast.addradio.de/rnrw-0182/deinurban/high/stream.mp3?ar-distributor=f0a0&sid=0182&kombi=FunkkombiWest&_art=dj0yJmlwPTkzLjE4NS41OC4xOCZpZD1pY3NjeGwtbmRoc2tmeGtiJnQ9MTU4NTA1NTUyNCZzPTc4NjZmMjljI2U5NDJhZDA3NTVkNzQ3Yjc5YTc3NDdmMWY3MjQxNmEx', 'https://i.servimg.com/u/f46/19/40/01/67/rnrw-u10.png'],
+            ['M1.FM - Urban (D)', 'http://tuner.m1.fm/urban.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/urban-10.jpg']
             ]
 
         if self.opt2 == '':
