@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.audio.poslouchej.radia"
        name="Poslouchej Rádia"
-       version="1.1.5"
+       version="1.1.6"
        provider-name="mebox a ma_sk">
   <requires>
     <import addon="xbmc.python" version="2.14.0" />
@@ -23,11 +23,17 @@
     <forum/>
     <website>https://github.com/Mebox/plugin.audio.poslouchej.radia</website>
     <news>
+1.1.6
+- Radio Domino + 18 (CZ) - nově přidáno
+- 101.ru: Radio 70s FM + 3 (RU) - nově přidáno
+- OpenFM - 80s Hits (PL) - nově přidáno do oldies
+- RMI - Italo Disco Greatest Hits (PL) - nově přidáno do oldies    
+- Mega Dance Radio (HU) - nově přidáno do dance
 1.1.5
 - Rádio Pelhřimov (CZ) - nově přidáno
 - Rádio Západ (CZ) - nově přidáno
 - 101.ru: Euro Hits (RU) - nově přidáno
-- Antenne Niederrhein + 8 (D) - nově přidáno
+- Antenne Niederrhein (D) - nově přidáno
 - M1.FM - Kuschelschlager + 11 (D) - nově přidáno
 1.1.4
 - Nová kategorie - nejnovější přidané rádia

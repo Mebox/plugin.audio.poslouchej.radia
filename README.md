@@ -6,30 +6,30 @@
 
 <p align="center"><b> Státy</b><br>
 Slovenské rádia - 98 stanic<br>
-České rádia 148 stanic<br>
+České rádia 167 stanic<br>
 Anglické rádia - 20 stanic<br>
 Americké rádia - 59 stanic<br>
 Francouzské rádia - 13 stanic<br>
 Holandské rádia - 22 stanic<br>
-Německé rádia - 46 stanic<br>
+Německé rádia - 38 stanic<br>
 Polské rádia - 65 stanic<br>
 Rakouské rádia - 26 stanic<br>
-Ruské rádia - 20 stanic<br>
+Ruské rádia - 23 stanic<br>
 <b>Žánry</b><br>
-Dance/Electronica - 45 stanic<br>
-Folk/Country - 7 stanic<br>
-Jazz/Blues/Soul - 9 stanic<br>
+Dance/Electronica - 53 stanic<br>
+Folk/Country - 8 stanic<br>
+Jazz/Blues/Soul - 10 stanic<br>
 Mluvené Slovo - 7 stanic<br>
-Oldies - 49 stanic<br>
-Pop - 116 stanic<br>
-Relax/Klasika/Dechovka - 24 stanic<br>
+Oldies - 53 stanic<br>
+Pop - 117 stanic<br>
+Relax/Klasika/Dechovka - 25 stanic<br>
 RnB/Hip Hop/Reggae  - 9 stanic<br>
-Rock/Metal - 44 stanic<br>
+Rock/Metal - 46 stanic<br>
 Solo Pro ... - 6 stanic<br>
-Zpravodajský - 21 stanic<br>
+Zpravodajský - 22 stanic<br>
 <b>Oblíbené</b><br>
 10 nejpopulárnějších SK stanic<br>
 10 nejpopulárnějších CZ stanic<br>
 Top 10 Mebox<br>
 <b>Nejnovější přidané rádia</b><br>
-Novinky - 24 stanic</p>
+Novinky - 41 stanic</p>
