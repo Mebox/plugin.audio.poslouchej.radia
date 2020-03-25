@@ -53,7 +53,6 @@ class Main:
             ['Magic Chilled (GB)', 'https://stream-mz.planetradio.co.uk/magicchilled.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c175139.png'],
             ['181.fm Classical Guitar (USA)', 'http://mp3uplink.duplexfx.com:8020', 'https://i46.servimg.com/u/f46/19/40/01/67/c175125.png'],
             ['Antenne Bayern Chillout (D)', 'http://mp3channels.webradio.antenne.de/chillout', 'https://i62.servimg.com/u/f62/19/40/01/67/antena14.jpg'],
-            ['Antenne Niederrhein - Dein Lounge Radio (D)', 'http://rnrw-ais-edge-3007.fra-eco.cdn.addradio.net/rnrw-0182/deinlounge/high/stream.mp3?ar-distributor=f0a0&sid=0182&kombi=FunkkombiWest&_art=dj0yJmlwPTkzLjE4NS41OC4xOCZpZD1pY3NjeGwtNHFoc2tmeGtiJnQ9MTU4NTA1NTY1MSZzPTc4NjZmMjljIzc2MjMyOWNhNDhkMDg3YmUwYjVlYjJmYjEzOTU2OWNj', 'https://i46.servimg.com/u/f46/19/40/01/67/rnrw-l10.png'],
             ['M1.FM - Chillout (D)', 'http://tuner.m1.fm/chillout.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/chillo10.jpg'],
             ['Arabella Relax (A)', 'http://arabella.stream.kapper.net:8015/heroldrelax', 'https://i46.servimg.com/u/f46/19/40/01/67/c17521.png'],
             ['Visual neoclassical Omdaru radio', 'http://s02.radio-tochka.com:5440/radio', 'https://i46.servimg.com/u/f46/19/40/01/67/c17542.png']

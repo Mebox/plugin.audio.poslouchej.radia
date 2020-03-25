@@ -43,6 +43,8 @@ class Main:
             ['Rádio Čas Rock NATVRDO (CZ)', 'http://icecast8.play.cz/rocknatvrdo.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/cas_ro10.png'],
             ['Rádio Oldies Rock (CZ)', 'http://mp3stream4.abradio.cz/oldiesrock128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radior16.jpg'],
 	    ['Rádio Orlicko 95,5 FM (CZ)', 'http://46.28.111.246/stream192.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/radioo10.jpg'],
+	    ['Radio SoundWave (CZ)', 'http://81.91.84.138:8040', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_29.jpg'],
+	    ['Radio Vambi (CZ)', 'https://node-15.zeno.fm/avzpd35rckeuv?rj-ttl=5&rj-tok=AAABcQzVTcMAWSQJ94pqkxNnqg', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_24.jpg'],
             ['Rebel Radio Brod (CZ)', 'http://212.96.160.160:7988/;stream.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/rebel_10.jpg'],
             ['Rock Rádio (CZ)', 'http://ice.abradio.cz:80/sumava128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radior16.jpg'],
 	    ['RockMax -Live (CZ)', 'http://212.111.2.151:8000/rockmax_128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radior15.jpg'],
@@ -51,6 +53,7 @@ class Main:
 	    ['RockMax-Blue (CZ)', 'http://212.111.2.151:8000/rm_blue_128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radior15.jpg'],
             ['RockZone 105,9 (CZ)', 'http://icecast2.play.cz/rockzone128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radior22.jpg'],
             ['Rocková zábava (CZ)', 'http://ice.abradio.cz/rockzabava128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radior10.jpg'],
+	    ['West Radio (CZ)', 'https://node-16.zeno.fm/y6gyh7gg6heuv?rj-ttl=5&rj-tok=AAABcQ1G1YUAMgmz_r2kci4pLg', 'https://i46.servimg.com/u/f46/19/40/01/67/west-r10.jpg'],
             ['Známka Punku (CZ)', 'http://ice.abradio.cz/znamkapunku128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/znamen10.png'],
             ['181.fm 90s Alternative (USA)', 'http://uplink.duplexfx.com:8052', 'https://i46.servimg.com/u/f46/19/40/01/67/c175125.png'],
             ['181.fm The Rock! (USA)', 'http://relay5.181.fm:8064', 'https://i46.servimg.com/u/f46/19/40/01/67/c175125.png'],
@@ -64,7 +67,6 @@ class Main:
             ['Underground fm - Metal Radio (PL)', 'http://fucktheradio.net:9300/stream#.mp3?ver=293958', 'https://i46.servimg.com/u/f46/19/40/01/67/underg11.png'],
             ['Underground fm - Skinhead Radio (PL)', 'http://fucktheradio.net:7769/stream#.mp3?ver=754162', 'https://i46.servimg.com/u/f46/19/40/01/67/underg11.png'],
             ['Underground fm - Polish Underground (PL)', 'http://fucktheradio.net:9500/stream#.mp3?ver=642757', 'https://i46.servimg.com/u/f46/19/40/01/67/underg11.png'],
-            ['Antenne Niederrhein - Dein Rock Radio (D)', 'http://rnrw-ais-edge-3005.fra-eco.cdn.addradio.net/rnrw-0182/deinrock/high/stream.mp3?ar-distributor=f0a0&sid=0182&kombi=FunkkombiWest&_art=dj0yJmlwPTkzLjE4NS41OC4xOCZpZD1pY3NjeGwtbW1oc2tmeGtiJnQ9MTU4NTA1ODY1MSZzPTc4NjZmMjljI2FhNmNkOTZjMjA1Y2M2ZGQwMDQ3NDMyZDcwZGRmZTNh', 'https://i46.servimg.com/u/f46/19/40/01/67/rnrw-r10.png'],
             ['M1.FM - Rock (D)', 'http://tuner.m1.fm/rock.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/rock-c10.jpg'],
             ['ANTENNE VORARLBERG Rock Radio (A)', 'http://webradio.antennevorarlberg.at/rock', 'https://i46.servimg.com/u/f46/19/40/01/67/c17527.png'],
             ['MAXXX Radio (RU)', 'http://46.105.180.202:8045/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/maxrad10.jpg'],
@@ -75,7 +77,7 @@ class Main:
             ['Rock FM - 00s (RU)', 'http://jfm1.hostingradio.ru:14536/rock00.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c17590.png'],
             ['Rock FM - Heavy (RU)', 'http://jfm1.hostingradio.ru:14536/metal.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c17590.png'],
             ['Radio Ultra 70.19 FM (RU)', 'http://nashe1.hostingradio.ru/ultra-128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c17534.png']
-            ]
+	    ]
 
         if self.opt2 == '':
             i = 0

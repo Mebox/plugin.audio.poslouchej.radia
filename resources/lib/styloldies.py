@@ -43,8 +43,10 @@ class Main:
             ['Hitrádio Osmdesátka (CZ)', 'http://ice.abradio.cz/hit80128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioh11.jpg'],
             ['Hitrádio Devadesátka (CZ)', 'http://ice.abradio.cz/hit90128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioh11.jpg'],
             ['Oldies rádio (CZ)', 'http://ice.abradio.cz/oldiesradio128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioo12.jpg'],
-            ['Rádio MB', 'http://icecast3.play.cz/radiomb.mp3', 'https://i.servimg.com/u/f46/19/40/01/67/radiom10.png'],
-            ['Rádio Nostalgie (CZ)', 'http://icecast3.play.cz/radio-nostalgie128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radion13.jpg'],
+	    ['Radio Cesky Jukebox (CZ)', 'http://sc.ipip.cz:8046', 'https://i46.servimg.com/u/f46/19/40/01/67/radio-10.jpg'],
+            ['Rádio MB (CZ)', 'http://icecast3.play.cz/radiomb.mp3', 'https://i.servimg.com/u/f46/19/40/01/67/radiom10.png'],
+	    ['Rádio Nostalgie (CZ)', 'http://icecast3.play.cz/radio-nostalgie128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radion13.jpg'],
+	    ['Radio O.K. (CZ) (nepravidelné vysílání)', 'https://node-10.zeno.fm/q7ura4u1akeuv?rj-ttl=5&rj-tok=AAABcQzZKFEAVyDUuNyclleYsg', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_25.jpg'],
             ['Signál Rádio (CZ)', 'http://icecast1.play.cz/signal128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radios15.jpg'],
             ['Contact Classic Hits (GB)', 'http://rss-streaming.co.uk/proxy/contact?mp=/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/c175152.png'],
             ['Diva Radio Disco (GB)', 'http://91.121.59.45:10114/live', 'https://i46.servimg.com/u/f46/19/40/01/67/divada10.jpg'],
@@ -66,8 +68,6 @@ class Main:
             ['Antenne Bayern 80er Kulthits (D)', 'http://mp3channels.webradio.antenne.de/80er-kulthits', 'https://i62.servimg.com/u/f62/19/40/01/67/antena16.jpg'],
             ['Antenne Bayern 90er Hits (D)', 'http://mp3channels.webradio.antenne.de/90er-hits', 'https://i62.servimg.com/u/f62/19/40/01/67/antena17.jpg'],
             ['Antenne Bayern Oldies but Goldies (D)', 'http://mp3channels.webradio.antenne.de/oldies-but-goldies', 'https://i62.servimg.com/u/f62/19/40/01/67/antena13.jpg'],
-            ['Antenne Niederrhein - Dein 90er Radio (D)', 'http://rnrw-ais-edge-4004-212-122-133-229.cast.addradio.de/rnrw-0182/dein90er/high/stream.mp3?ar-distributor=f0a0&sid=0182&kombi=FunkkombiWest&_art=dj0yJmlwPTkzLjE4NS41OC4xOCZpZD1pY3NjeGwtNjJ4N2h0eWtiJnQ9MTU4NTA1NTE0NCZzPTc4NjZmMjljIzIzYjcxOTBmYWQwODdiNjM4NDdlZTc0MDViZmZhOWEw', 'https://i46.servimg.com/u/f46/19/40/01/67/rnrw-910.png'],
-            ['Antenne Niederrhein - Dein 80er Radio (D)', 'http://rnrw-ais-edge-3001.fra-eco.cdn.addradio.net/rnrw-0182/dein80er/high/stream.mp3?ar-distributor=f0a0&sid=0182&kombi=FunkkombiWest&_art=dj0yJmlwPTkzLjE4NS41OC4xOCZpZD1pY3NjeGwtMjZnc2tmeGtiJnQ9MTU4NTA1NDgyNCZzPTc4NjZmMjljI2UzOGI3ZjlhNGY1MTVlODM2NmRkN2Y3MWUwNTdjZDBk', 'https://i46.servimg.com/u/f46/19/40/01/67/rnrw-810.png'],
             ['Eurodance (D)', 'http://eurodance.stream.laut.fm/eurodance?ref=radiode&t302=2019-02-08_18-05-10&uuid=c432c351-3e28-4832-9332-38bb39e4b5e2', 'https://i46.servimg.com/u/f46/19/40/01/67/c175138.png'],
             ['FFH Eurodance (D)', 'http://mp3.ffh.de/ffhchannels/hqeurodance.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/ffh_di11.jpg'],
             ['FFH - Die 80-er (D)', 'http://mp3.ffh.de/ffhchannels/hq80er.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/ffh_di10.jpg'],
@@ -77,9 +77,13 @@ class Main:
             ['M1.FM - Oldies (D)', 'http://tuner.m1.fm/oldies.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/oldies10.jpg'],
             ['M1.FM - 80ER (D)', 'http://tuner.m1.fm/80er.mp3', 'https://i.servimg.com/u/f46/19/40/01/67/80er-c10.jpg'],
             ['M1.FM - 90ER (D)', 'http://tuner.m1.fm/90er.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/90er-c10.jpg'],
+	    ['OpenFM - 80s Hits (PL)', 'http://stream.polskastacja.pl/ps3_mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c17532.png'],
+            ['RMI - Italo Disco Greatest Hits (PL)', 'http://188.165.195.176:8046/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/c17528.png'],
             ['Kronehit 90’s Dance (A) ', 'http://onair-ha1.krone.at/kronehit-90sdance.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiok16.jpg'],
             ['Life Radio 80er (A) ', 'http://liferadio.stream.kapper.net:8002/80er', 'https://i46.servimg.com/u/f46/19/40/01/67/lifera11.jpg'],
-            ['Life Radio 90er (A) ', 'http://liferadio.stream.kapper.net:8006/90er', 'https://i46.servimg.com/u/f46/19/40/01/67/lifera12.jpg']
+            ['Life Radio 90er (A) ', 'http://liferadio.stream.kapper.net:8006/90er', 'https://i46.servimg.com/u/f46/19/40/01/67/lifera12.jpg'],
+	    ['101.ru: Radio 70s FM  (RU)', 'http://air2.radiorecord.ru:9002/1970_128', 'https://static.radio.net/images/broadcasts/73/8a/7121/1/c300.png'],
+            ['101.ru: Radio 80s FM  (RU)', 'http://air2.radiorecord.ru:9002/1980_128', 'https://static.radio.net/images/broadcasts/73/8a/7121/1/c300.png']
             ]
 
         if self.opt2 == '':
