@@ -86,7 +86,7 @@ class Main:
             ['Rádio Benešov City (CZ)', 'http://ice6.abradio.cz/benesov128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/beneso10.png'],
 	    ['Rádio Blaník (CZ)', 'http://ice.abradio.cz/blanikfm128.mp3?i=86.22812972256186', 'https://i62.servimg.com/u/f62/19/40/01/67/radiob12.jpg'],
             ['Radio Blanik Cz (CZ)', 'http://ice.abradio.cz/blanikcz128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiob12.jpg'],
-            ['Rádio Bonton (CZ)', 'http://icecast3.play.cz/bonton-128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiob13.jpg'],
+            ['Rádio Bonton (CZ)', 'https://20133.live.streamtheworld.com/BONTONAAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=99a4ca58-8d10-40b6-dd97-c324871af5da', 'https://i62.servimg.com/u/f62/19/40/01/67/radiob13.jpg'],
 	    ['Rádio Contact Liberec (CZ)', 'http://icecast8.play.cz/contact128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc21.jpg'], 
 	    ['Rádio Čas (Brno) (CZ)', 'http://icecast7.play.cz:8000/casbrno128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc24.jpg'],
             ['Rádio Čas (Ostrava) (CZ)', 'http://icecast7.play.cz:8000/casradio128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc24.jpg'],
