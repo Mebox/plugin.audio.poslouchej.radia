@@ -41,7 +41,6 @@ class Main:
 	    ['Rádio Beat (CZ)', 'http://icecast2.play.cz/radiobeat128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/beat10.png'],
             ['Rádio Best of Rock (CZ)', 'http://mp3stream4.abradio.cz/bestofrock128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiob10.jpg'],
             ['Rádio Čas Rock (CZ)', 'http://icecast7.play.cz:8000/casrock128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc23.jpg'],
-            ['Rádio Čas Rock NATVRDO (CZ)', 'http://icecast8.play.cz/rocknatvrdo.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/cas_ro10.png'],
             ['Rádio Oldies Rock (CZ)', 'http://mp3stream4.abradio.cz/oldiesrock128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radior16.jpg'],
 	    ['Rádio Orlicko 95,5 FM (CZ)', 'http://46.28.111.246/stream192.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/radioo10.jpg'],
 	    ['Radio SoundWave (CZ)', 'http://81.91.84.138:8040', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_29.jpg'],
