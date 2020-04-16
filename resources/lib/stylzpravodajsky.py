@@ -37,8 +37,6 @@ class Main:
             ['Slobodný vysielač (SK)', 'http://78.47.79.190:8004/;stream/1', 'https://i11.servimg.com/u/f11/19/40/01/67/radios18.jpg'],
             ['Rádio Slovakia International (SK)', 'http://icecast.stv.livebox.sk/rsi_128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radios15.jpg'],
             ['Rádio Slovensko (SK)', 'http://icecast.stv.livebox.sk/slovensko_128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radios12.jpg'],
-            ['Rádio Šport (SK)', 'http://stream.radiosport.sk:8000/Sport192.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radios10.jpg'],
-            ['Šport stream (SK)', 'http://play.sport-stream.sk:8000/sportstream128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radios12.jpg'],
             ['Český rozhlas 1 - Rádiožurnál (CZ)', 'http://icecast8.play.cz/cro1-128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radior12.jpg'],
             ['Český rozhlas 2 - Praha (CZ)', 'http://icecast6.play.cz/cro2-128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc22.jpg'],
             ['Český Rozhlas Brno (CZ)', 'http://icecast2.play.cz:8000/crobrno128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc28.jpg'],
