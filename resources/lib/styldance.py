@@ -42,7 +42,7 @@ class Main:
             ['Clubbeat Rádio (CZ)', 'http://mp3stream4.abradio.cz/clubbeat128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc11.jpg'],
             ['DAB Plus Top 40 (CZ)', 'http://icecast6.play.cz/dabplus-top40.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiod12.jpg'],
             ['Dance Club Rádio (CZ)', 'http://mp3stream4.abradio.cz/dance128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/dancec11.jpg'],
-            ['Dance Rádio (CZ)', 'http://icecast6.play.cz/dance-radio320.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiod10.jpg'],
+            ['Dance Rádio (CZ)', 'http://ice.actve.net/dance-radio128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiod10.jpg'],
             ['Drumandbass Radio SHADOWBOX (CZ)', 'http://ice3.abradio.cz/shadowbox128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radios10.jpg'],
             ['Radio23.cz - Techno (CZ)', 'http://r23.cz/tekno', 'https://i46.servimg.com/u/f46/19/40/01/67/radio210.jpg'],
             ['Radio23.cz - Breaks (CZ)', 'http://r23.cz/breaks', 'https://i46.servimg.com/u/f46/19/40/01/67/radio210.jpg'],
