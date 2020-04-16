@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.audio.poslouchej.radia"
        name="Poslouchej Rádia"
-       version="1.1.7"
+       version="1.1.8"
        provider-name="mebox a ma_sk">
   <requires>
     <import addon="xbmc.python" version="2.14.0" />
@@ -23,6 +23,14 @@
     <forum/>
     <website>https://github.com/Mebox/plugin.audio.poslouchej.radia</website>
     <news>
+1.1.8
+- Dance Rádio (CZ) - oprava streamu
+- Evropa 2 (CZ) - oprava streamu
+- Rádio Beat (CZ) - oprava streamu
+- Underground fm (PL) - oprava streamu
+- Rádio Čas Rock NATVRDO (CZ) - skončilo vysílání
+- Šport stream (SK) - skončilo vysílání
+- Rádio Šport (SK) - skončilo vysílání
 1.1.7
 - Radio Bonton (CZ) - oprava streamu
 1.1.6
