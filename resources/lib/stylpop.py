@@ -67,7 +67,7 @@ class Main:
             ['Evropa 2 - Youradio Top 40 (CZ)', 'http://ice.actve.net/web-e2-top40', 'https://i46.servimg.com/u/f46/19/40/01/67/europa12.jpg'],
             ['Evropa 2 - Youradio Československé hity (CZ)', 'http://ice.actve.net/web-e2-csweb', 'https://i46.servimg.com/u/f46/19/40/01/67/europa10.jpg'],
             ['Fajn Radio (CZ)', 'http://ice.abradio.cz/fajn128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiof13.jpg'],
-            ['Frekvence 1 (CZ)', 'http://icecast4.play.cz/frekvence1-128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiof16.jpg'],
+            ['Frekvence 1 (CZ)', 'http://ice.actve.net/fm-frekvence1-128', 'https://i62.servimg.com/u/f62/19/40/01/67/radiof16.jpg'],
             ['Helax 93,7 (CZ)', 'http://ice.abradio.cz:8000/helax128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioh10.jpg'],
             ['Hitrádio FM Plus (CZ)', 'http://ice.abradio.cz/fmplus128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/hitrad14.jpg'],
             ['Hitrádio FM (CZ)', 'http://ice.abradio.cz/hitradiofm128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/hitrad15.jpg'],
