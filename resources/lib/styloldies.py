@@ -33,6 +33,7 @@ class Main:
         list = [
             ['Rádio Beta - Hity 80s a 90s (SK)', 'http://109.71.67.102:8000/beta_80a90.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/beta8010.jpg'],
             ['Fun Rádio 80. - 90. roky (SK)', 'http://stream.funradio.sk:8000/80-90-128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiof21.jpg'],
+            ['Rádio Goldies (SK)', 'http://icecast.radiosity.sk:8000/oldies.mp3', 'https://i.servimg.com/u/f46/19/40/01/67/goldie10.jpg'],
             ['tvojeRADIO.com Gold 80/90 (SK)', 'http://server1.internetoveradio.sk:8816/gold.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiot14.jpg'],
             ['Rádio Vlna Golden Hits (SK)', 'http://stream.radioservices.sk/goldenhits.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiov10.jpg'],
             ['Rádio X - Oldies X (SK)', 'http://158.193.82.41:8000/oldies.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiox10.jpg'],
@@ -48,7 +49,6 @@ class Main:
 	    ['Rádio Nostalgie (CZ)', 'http://icecast3.play.cz/radio-nostalgie128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radion13.jpg'],
 	    ['Radio O.K. (CZ) (nepravidelné vysílání)', 'https://node-10.zeno.fm/q7ura4u1akeuv?rj-ttl=5&rj-tok=AAABcQzZKFEAVyDUuNyclleYsg', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_25.jpg'],
             ['Signál Rádio (CZ)', 'http://icecast1.play.cz/signal128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radios15.jpg'],
-            ['Contact Classic Hits (GB)', 'http://rss-streaming.co.uk/proxy/contact?mp=/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/c175152.png'],
             ['Diva Radio Disco (GB)', 'http://91.121.59.45:10114/live', 'https://i46.servimg.com/u/f46/19/40/01/67/divada10.jpg'],
             ['Gold (GB)', 'http://media-ice.musicradio.com/GoldMP3', 'https://i46.servimg.com/u/f46/19/40/01/67/c175148.png'],
             ['181.fm Lite 80s (USA)', 'http://relay.181.fm:8040?.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c175125.png'],

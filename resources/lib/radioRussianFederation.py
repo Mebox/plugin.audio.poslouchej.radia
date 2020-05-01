@@ -38,7 +38,6 @@ class Main:
             ['16bit.FM - ProBeat', 'http://16bitfm.com:8000/main_mp3_192', 'https://i46.servimg.com/u/f46/19/40/01/67/c17538.png'],
             ['AvtoRadio', 'http://ic7.101.ru:8000/v3_1', 'https://i46.servimg.com/u/f46/19/40/01/67/c17529.png'],
             ['Best FM Moscow', 'http://nashe1.hostingradio.ru/best-128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c17530.png'],
-            ['Biker-FM', 'http://stream3.radiostyle.ru:8001/biker-fm', 'https://i46.servimg.com/u/f46/19/40/01/67/biker10.jpg'],
             ['Europa Plus ru', 'http://ep256.hostingradio.ru:8052/europaplus256.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c17533.png'],
             ['Makradio Retro Hits', 'http://air.volna.top/makkirus128?stream=1548523420', 'https://i46.servimg.com/u/f46/19/40/01/67/c17591.png'],
             ['MAXXX Radio', 'http://46.105.180.202:8045/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/maxrad10.jpg'],

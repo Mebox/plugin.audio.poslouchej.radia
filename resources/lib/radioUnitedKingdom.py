@@ -31,12 +31,11 @@ class Main:
         self = selfGet
     
         list = [
-            ['101 Smooth Jazz Mellow Mix', 'http://54.38.43.201:8000/stream-128kmp3-101SmoothMellow', 'https://i46.servimg.com/u/f46/19/40/01/67/c175149.png'],
+            ['101 Smooth Jazz Mellow Mix', 'https://edge3.peta.live365.net/b48071_128mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c175149.png'],
             ['BBC Radio 1', 'http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_q', 'https://i46.servimg.com/u/f46/19/40/01/67/c175143.png'],
             ['BBC Radio 2', 'http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_q', 'https://i46.servimg.com/u/f46/19/40/01/67/c175144.png'],
             ['BBC Radio 3', 'http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_q', 'https://i46.servimg.com/u/f46/19/40/01/67/c175145.png'],
             ['Capital FM London', 'http://ice-sov.musicradio.com/CapitalMP3', 'https://i46.servimg.com/u/f46/19/40/01/67/c175120.png'],
-            ['Contact Classic Hits', 'http://rss-streaming.co.uk/proxy/contact?mp=/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/c175152.png'],
             ['Dark Asylum Radio', 'http://91.121.165.137:8020/stream/1/', 'https://i46.servimg.com/u/f46/19/40/01/67/c175141.png'],
             ['Diva Radio Disco', 'http://91.121.59.45:10114/live', 'https://i46.servimg.com/u/f46/19/40/01/67/divada10.jpg'],
             ['Gold', 'http://media-ice.musicradio.com/GoldMP3', 'https://i46.servimg.com/u/f46/19/40/01/67/c175148.png'],
