@@ -32,8 +32,7 @@ class Main:
 
         list = [
             ['Rádio 7', 'http://play.twr.sk:8000/128', 'https://i11.servimg.com/u/f11/19/40/01/67/radio710.jpg'],
-			['Rádio 9', 'http://147.232.191.167:8000/high.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radio910.jpg'],
-			['Rádio Aetter', 'http://stream.aetter.sk:8000/aetter', 'https://i46.servimg.com/u/f46/19/40/01/67/aetter10.jpg'],
+		        ['Rádio Aetter', 'http://stream.aetter.sk:8000/aetter', 'https://i46.servimg.com/u/f46/19/40/01/67/aetter10.jpg'],
                         ['Rádio Anténa Rock', 'http://stream.antenarock.sk/antena-hi.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radior16.jpg'],
 			['Rádio Anténa Rock Hard', 'http://stream.radioservices.sk/hardrock.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radior17.jpg'],
 			['Rádio Best FM', 'http://stream2.bestfm.sk:80/128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiob10.jpg'],
