@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.audio.poslouchej.radia"
        name="Poslouchej Rádia"
-       version="1.1.8"
+       version="1.1.9"
        provider-name="mebox a ma_sk">
   <requires>
     <import addon="xbmc.python" version="2.14.0" />
@@ -23,11 +23,42 @@
     <forum/>
     <website>https://github.com/Mebox/plugin.audio.poslouchej.radia</website>
     <news>
+1.1.9
+- Radio Dixie (CZ) - oprava streamu
+- Hitrádio Faktor (CZ) - oprava streamu
+- Rádio Čas (Brno) (CZ) - skončilo vysílání
+- Rádio Petrov (CZ) - skončilo vysílání
+- WebRádio Epigon (CZ) - Není možné spustiť stream
+- Rádio Goldies (SK) - nově přidáno
+- Rádio 9 (SK) - oprava streamu
+- Radio Beta - Sladaky (SK) - skončilo vysílání
+- Detské rádio (SK) - skončilo vysílání
+- Detské rádio - Rozprávky (SK) - skončilo vysílání
+- Fitrádio Chill out (SK) - skončilo vysílání
+- Fitrádio Crossfit (SK) - skončilo vysílání
+- Fitrádio Running (SK) - skončilo vysílání
+- Rádio Jazz (SK) - skončilo vysílání
+- Rádio Modus (SK) - skončilo vysílání
+- Rádio Muzika (SK) - skončilo vysílání
+- Music FM (SK) - skončilo vysílání
+- Rádio Roma (SK) - skončilo vysílání
+- Rádio.sk (SK) - skončilo vysílání
+- Rádio Snina (SK) - skončilo vysílání
+- Rádio The End (SK) - oprava streamu
+- ŠtuRKo (SK) - Není možné spustiť stream
+- tvojeRADIO.com SK/CZ (SK) - Není možné spustiť stream
+- tvojeRADIO.com Repete (SK) - Není možné spustiť stream
+- Rádio X + 7 stanic (SK) - Není možné spustiť stream
+- Rádio Yes (SK) - skončilo vysílání
+- 101 Smooth Jazz Mellow Mix (GB) - oprava streamu
+- Contact Classic Hits (GB)  - skončilo vysílání
+- Puls Radio - Dance (F) - skončilo vysílání
+- N-Joy (N) - oprava streamu
+- Biker-FM (RU) - skončilo vysílání
 1.1.8
 - Dance Rádio (CZ) - oprava streamu
 - Evropa 2 (CZ) - oprava streamu
 - Rádio Beat (CZ) - oprava streamu
-- Underground fm (PL) - oprava streamu
 - Rádio Čas Rock NATVRDO (CZ) - skončilo vysílání
 - Šport stream (SK) - skončilo vysílání
 - Rádio Šport (SK) - skončilo vysílání
