@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.audio.poslouchej.radia"
        name="Poslouchej Rádia"
-       version="1.1.9"
+       version="1.2.0"
        provider-name="mebox a ma_sk">
   <requires>
     <import addon="xbmc.python" version="2.14.0" />
@@ -23,6 +23,8 @@
     <forum/>
     <website>https://github.com/Mebox/plugin.audio.poslouchej.radia</website>
     <news>
+1.2.0
+- Rádio Muzika (SK) - oprava streamu
 1.1.9
 - Radio Dixie (CZ) - oprava streamu
 - Hitrádio Faktor (CZ) - oprava streamu
@@ -39,7 +41,6 @@
 - Fitrádio Running (SK) - skončilo vysílání
 - Rádio Jazz (SK) - skončilo vysílání
 - Rádio Modus (SK) - skončilo vysílání
-- Rádio Muzika (SK) - skončilo vysílání
 - Music FM (SK) - skončilo vysílání
 - Rádio Roma (SK) - skončilo vysílání
 - Rádio.sk (SK) - skončilo vysílání
