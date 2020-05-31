@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.audio.poslouchej.radia"
        name="Poslouchej Rádia"
-       version="1.2.0"
+       version="1.2.1"
        provider-name="mebox a ma_sk">
   <requires>
     <import addon="xbmc.python" version="2.14.0" />
@@ -23,6 +23,19 @@
     <forum/>
     <website>https://github.com/Mebox/plugin.audio.poslouchej.radia</website>
     <news>
+1.2.1
+- Disco Party Radio (D) - nově přidáno
+- Radio On Disco (D) - nově přidáno
+- Radio 70s FM (RU) - nově přidáno
+- Radio 80s FM (RU) - nově přidáno
+- Eurodisco Hit Radio (RU) - nově přidáno
+- Radio FM Romantic (UA) - nově přidáno
+- Rádio Beta - České a Slovenské hity (SK) - oprava streamu
+- tvojeRADIO.com Repete (SK) - oprava streamu
+- tvojeRADIO.com Gold 80/90 (SK) - oprava streamu 
+- Hitrádio City (Brno) (CZ) - oprava streamu
+- Hitrádio City (Praha) (CZ) - nově přidáno
+- do oblíbených přidáno Top 10 Gante    
 1.2.0
 - Rádio Muzika (SK) - oprava streamu
 1.1.9
