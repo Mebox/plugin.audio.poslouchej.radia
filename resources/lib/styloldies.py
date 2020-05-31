@@ -69,6 +69,7 @@ class Main:
             ['Antenne Bayern 90er Hits (D)', 'http://mp3channels.webradio.antenne.de/90er-hits', 'https://i62.servimg.com/u/f62/19/40/01/67/antena17.jpg'],
             ['Antenne Bayern Oldies but Goldies (D)', 'http://mp3channels.webradio.antenne.de/oldies-but-goldies', 'https://i62.servimg.com/u/f62/19/40/01/67/antena13.jpg'],
             ['Eurodance (D)', 'http://eurodance.stream.laut.fm/eurodance?ref=radiode&t302=2019-02-08_18-05-10&uuid=c432c351-3e28-4832-9332-38bb39e4b5e2', 'https://i46.servimg.com/u/f46/19/40/01/67/c175138.png'],
+            ['Disco Party Radio (D)', 'http://stream.laut.fm/-z-i-s-c-o-party-70s-80s', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_33.jpg'],
             ['FFH Eurodance (D)', 'http://mp3.ffh.de/ffhchannels/hqeurodance.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/ffh_di11.jpg'],
             ['FFH - Die 80-er (D)', 'http://mp3.ffh.de/ffhchannels/hq80er.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/ffh_di10.jpg'],
             ['FFH - Just 90s (D)', 'http://mp3.ffh.de/ffhchannels/hq90er.aac', 'https://i11.servimg.com/u/f11/19/40/01/67/ffh_ju10.jpg'],
@@ -77,13 +78,18 @@ class Main:
             ['M1.FM - Oldies (D)', 'http://tuner.m1.fm/oldies.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/oldies10.jpg'],
             ['M1.FM - 80ER (D)', 'http://tuner.m1.fm/80er.mp3', 'https://i.servimg.com/u/f46/19/40/01/67/80er-c10.jpg'],
             ['M1.FM - 90ER (D)', 'http://tuner.m1.fm/90er.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/90er-c10.jpg'],
+            ['Radio On Disco (D)', 'https://0n-disco.radionetz.de/0n-disco.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_32.jpg'],
 	    ['OpenFM - 80s Hits (PL)', 'http://stream.polskastacja.pl/ps3_mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c17532.png'],
             ['RMI - Italo Disco Greatest Hits (PL)', 'http://188.165.195.176:8046/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/c17528.png'],
             ['Kronehit 90’s Dance (A) ', 'http://onair-ha1.krone.at/kronehit-90sdance.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiok16.jpg'],
             ['Life Radio 80er (A) ', 'http://liferadio.stream.kapper.net:8002/80er', 'https://i46.servimg.com/u/f46/19/40/01/67/lifera11.jpg'],
             ['Life Radio 90er (A) ', 'http://liferadio.stream.kapper.net:8006/90er', 'https://i46.servimg.com/u/f46/19/40/01/67/lifera12.jpg'],
 	    ['101.ru: Radio 70s FM  (RU)', 'http://air2.radiorecord.ru:9002/1970_128', 'https://static.radio.net/images/broadcasts/73/8a/7121/1/c300.png'],
-            ['101.ru: Radio 80s FM  (RU)', 'http://air2.radiorecord.ru:9002/1980_128', 'https://static.radio.net/images/broadcasts/73/8a/7121/1/c300.png']
+            ['101.ru: Radio 80s FM  (RU)', 'http://air2.radiorecord.ru:9002/1980_128', 'https://static.radio.net/images/broadcasts/73/8a/7121/1/c300.png'],
+            ['Eurodisco Hit Radio (RU)', 'http://188.165.195.176:8034/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_30.jpg'],
+	    ['Radio 70s FM (RU)', 'http://air2.radiorecord.ru:9002/1970_128', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_35.jpg'],
+	    ['Radio 80s FM (RU)', 'http://air2.radiorecord.ru:9002/1980_128', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_34.jpg'],
+            ['Radio FM Romantic (UA)', 'https://online.melodiafm.ua/MelodiaFM_Romantic', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_31.jpg']
             ]
 
         if self.opt2 == '':
