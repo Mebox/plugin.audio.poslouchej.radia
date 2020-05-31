@@ -36,7 +36,8 @@ class Main:
         list = [
 			['Top 10 SK', sys.argv[0] + '?topSK', 'favouriteSK.png', '', getSettingBool('favourite_SK')],
        		['Top 10 CZ', sys.argv[0] + '?topCZ', 'favouriteCZ.png', '', getSettingBool('favourite_CZ')],
-		['Top 10 Mebox', sys.argv[0] + '?topmebox', 'my_radio.png', '', getSettingBool('top_mebox')]
+		['Top 10 Mebox', sys.argv[0] + '?topmebox', 'my_radio.png', '', getSettingBool('top_mebox')],
+		['Top 10 Gante', sys.argv[0] + '?topgante', 'my_radio.png', '', getSettingBool('top_gante')]
                ]
 
 	for v in list:
