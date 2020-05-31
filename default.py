@@ -52,6 +52,8 @@ class Radio:
             import favouriteSK as start
 	elif self.opt == 'topmebox':
             import favouriteMebox as start
+	elif self.opt == 'topgante':
+            import favouriteGante as start
         elif self.opt == 'fr':
             import radioFrance as start
         elif self.opt == 'nl':
