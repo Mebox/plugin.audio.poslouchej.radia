@@ -59,5 +59,7 @@
        <setting id="favourite_CZ" type="bool" label="Top 10 CZ" default="true"/>
 	   <setting type="sep" />
        <setting id="top_mebox" type="bool" label="Top 10 Mebox" default="true"/>
+	   <setting type="sep" />
+       <setting id="top_gante" type="bool" label="Top 10 Gante" default="true"/>
     </category>
 </settings>
