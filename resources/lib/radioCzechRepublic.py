@@ -36,7 +36,7 @@ class Main:
 		        ['Blues Sky', 'https://node-05.zeno.fm/0hx4b9zscseuv?rj-ttl=5&rj-tok=AAABcQzR__wA_g1Ji3kf17PHog', 'https://i46.servimg.com/u/f46/19/40/01/67/blues_10.jpg'],
 		        ['Busradio', 'http://mpc.mediacp.eu:8004/;type=mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/busrad10.jpg'],
 			['Classic Praha', 'http://icecast8.play.cz/classic128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc34.jpg'],
-		        ['Calimeroclub Radio', 'http://sc.ipip.cz:8052/;stream.nsv', 'https://i46.servimg.com/u/f46/19/40/01/67/calime10.jpg'],
+		        ['Calimeroclub Radio', 'http://sc.ipip.cz:8052/', 'https://i46.servimg.com/u/f46/19/40/01/67/calime10.jpg'],
 			['Club Rádio', 'http://icecast2.play.cz:8000/Clubradio.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc18.jpg'],
 			['COLOR Music Radio', 'http://icecast6.play.cz/color192.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc19.jpg'],
 			['Country Rádio', 'http://icecast4.play.cz/country128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc33.jpg'],
