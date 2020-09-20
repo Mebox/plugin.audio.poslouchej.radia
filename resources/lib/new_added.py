@@ -31,12 +31,16 @@ class Main:
         self = selfGet
 
         list = [
-			['Disco Party Radio (D)', 'http://stream.laut.fm/-z-i-s-c-o-party-70s-80s', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_33.jpg'],
-			['Radio On Disco (D)', 'https://0n-disco.radionetz.de/0n-disco.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_32.jpg'],
-			['Radio 70s FM (RU)', 'http://air2.radiorecord.ru:9002/1970_128', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_35.jpg'],
-			['Radio 80s FM (RU)', 'http://air2.radiorecord.ru:9002/1980_128', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_34.jpg'],
-		        ['Eurodisco Hit Radio (RU)', 'http://188.165.195.176:8034/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_30.jpg'],
-			['Radio FM Romantic (UA)', 'https://online.melodiafm.ua/MelodiaFM_Romantic', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_31.jpg']
+			['90 Hits Radio Manchester (CZ)', 'http://mpc.mediacp.eu:8012/;stream', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_37.jpg']
+			['Busradio (CZ)', 'http://mpc.mediacp.eu:8004/;type=mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/busrad10.jpg'],
+			['Calimeroclub Radio (CZ)', 'http://sc.ipip.cz:8052/', 'https://i46.servimg.com/u/f46/19/40/01/67/calime10.jpg'],
+			['Fenix Radio Kanada (CZ)', 'https://maggie.torontocast.com:8006/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/fenix10.jpg'],
+		        ['RadioCast (CZ)', 'http://mpc.mediacp.eu:8042/', 'https://i46.servimg.com/u/f46/19/40/01/67/radioc10.jpg'],
+			['Rádio G6 (CZ)', 'https://mpc.mediacp.eu:2000/stream/RadioG6', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_36.jpg'],
+        		['Rádio Ostravan (CZ)', 'http://icecast9.play.cz/radio-ostravan-256.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/ostrav10.jpg'],
+        		['Rádio Stella (CZ)', 'https://ice3.abradio.cz/stella128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/rdio_s11.jpg'],
+        		['Rádio Z (CZ)', 'https://ice.actve.net/fm-zet', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_38.jpg'],
+         		['Svobodné Rádio (CZ)', 'http://svobodneradio.radioca.st:8859/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/svobod12.jpg']
                ]
 
         if self.opt2 == '':
