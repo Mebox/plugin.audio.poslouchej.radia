@@ -30,7 +30,15 @@ class Main:
         # vars
         self = selfGet
 
-        list = [
+        list = [        ['Fresh Radio (SK)', 'http://164.68.122.137:8002/;stream/1', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_40.jpg'],
+        		['Rádio Biblia (SK)', 'https://stream.radia.sk/biblia-626', 'https://i46.servimg.com/u/f46/19/40/01/67/biblia10.jpg'],
+         		['Rádio Dychovka (SK)', 'https://listen.radioking.com/radio/307817/stream/354746', 'https://i.servimg.com/u/f46/19/40/01/67/dychov10.jpg'],
+        		['Rádio Gipsy.sk (SK)', 'https://stream.radia.sk/gipsy-sk-643', 'https://i46.servimg.com/u/f46/19/40/01/67/gipsy-10.jpg'],
+         		['Radio Lozano (SK)', 'http://mpc.mediacp.eu:8402/;stream.nsv', 'https://i46.servimg.com/u/f46/19/40/01/67/lozano10.jpg'],
+        		['Rádio Roma (SK)', 'https://stream.radia.sk/roma-375', 'https://i46.servimg.com/u/f46/19/40/01/67/roma10.jpg'],
+        		['Rádio Mária Slovensko (SK)', 'https://dreamsiteradiocp5.com/proxy/radiomariaslovensko?mp=/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/maria10.jpg'],
+         		['Radio Vega (SK)', 'https://radioserver.online:9827/radiovega.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/vega10.jpg'],
+         		['Rádio Topoľčany (SK)', 'https://stream.radia.sk/topolcany-645', 'https://i46.servimg.com/u/f46/19/40/01/67/topolc10.jpg'],
 			['90 Hits Radio Manchester (CZ)', 'http://mpc.mediacp.eu:8012/;stream', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_37.jpg'],
 			['Busradio (CZ)', 'http://mpc.mediacp.eu:8004/;type=mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/busrad10.jpg'],
 			['Calimeroclub Radio (CZ)', 'http://sc.ipip.cz:8052/', 'https://i46.servimg.com/u/f46/19/40/01/67/calime10.jpg'],
