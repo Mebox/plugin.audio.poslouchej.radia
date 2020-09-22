@@ -35,12 +35,18 @@ class Main:
 			['Busradio (CZ)', 'http://mpc.mediacp.eu:8004/;type=mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/busrad10.jpg'],
 			['Calimeroclub Radio (CZ)', 'http://sc.ipip.cz:8052/', 'https://i46.servimg.com/u/f46/19/40/01/67/calime10.jpg'],
 			['Fenix Radio Kanada (CZ)', 'https://maggie.torontocast.com:8006/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/fenix10.jpg'],
+         		['Fred Film Radio (CZ)', 'http://stream.fred.fm:8026/stream/', 'https://i46.servimg.com/u/f46/19/40/01/67/fred10.jpg'],
+		        ['Freerave.cz - Tekno Radio (CZ)', 'http://164.68.122.137:8061/', 'https://i46.servimg.com/u/f46/19/40/01/67/freed10.jpg'],
+         		['Halloradio Hultschin (CZ)', 'http://live.halloradiohultschin.cz:8000/halloradio.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/hallra10.jpg'],
 		        ['RadioCast (CZ)', 'http://mpc.mediacp.eu:8042/', 'https://i46.servimg.com/u/f46/19/40/01/67/radioc10.jpg'],
 			['Rádio G6 (CZ)', 'https://mpc.mediacp.eu:2000/stream/RadioG6', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_36.jpg'],
         		['Rádio Ostravan (CZ)', 'http://icecast9.play.cz/radio-ostravan-256.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/ostrav10.jpg'],
-        		['Rádio Stella (CZ)', 'https://ice3.abradio.cz/stella128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/rdio_s11.jpg'],
+		        ['Radio R (CZ)', 'http://radior.video.muni.cz:8000/FSS_mp3-128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_39.jpg'],
+        		['Radio Sailor (CZ)', 'https://node-26.zeno.fm/0wh8pvnyakeuv?rj-ttl=5&rj-tok=AAABdKyV0BgA4MI83O22J-L_Hg', 'https://i46.servimg.com/u/f46/19/40/01/67/rasdio10.jpg'],
         		['Rádio Z (CZ)', 'https://ice.actve.net/fm-zet', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_38.jpg'],
-         		['Svobodné Rádio (CZ)', 'http://svobodneradio.radioca.st:8859/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/svobod12.jpg']
+         		['Svobodné Rádio (CZ)', 'http://svobodneradio.radioca.st:8859/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/svobod12.jpg'],
+		        ['True Life in God Radio Czech (CZ)', 'https://stream.galaxywebsolutions.com/proxy/tligradio_cs?mp=/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/tlig10.jpg'],
+         		['ZFK radio (CZ)', 'https://node-14.zeno.fm/ere0xqyp5tzuv?rj-ttl=5&rj-tok=AAABdLZ6x3IA9OoWzVY9uWV6mg', 'https://i46.servimg.com/u/f46/19/40/01/67/c17544.png']
                ]
 
         if self.opt2 == '':
