@@ -55,7 +55,7 @@ class Main:
             ['Radio Caprice - Progressive Metal', 'http://79.120.77.11:8000/progmetal', 'https://i46.servimg.com/u/f46/19/40/01/67/c17535.png'],
             ['Radio Caprice - AOR/Melodic Hard Rock', 'http://79.111.14.76:8000/aor', 'https://i46.servimg.com/u/f46/19/40/01/67/c17536.png'],
             ['San FM - Trance Channel', 'http://sanfm.ru:8000/trance', 'https://i46.servimg.com/u/f46/19/40/01/67/c17539.png'],
-            ['Visual neoclassical Omdaru radio', 'http://s02.radio-tochka.com:5440/radio', 'https://i46.servimg.com/u/f46/19/40/01/67/c17542.png']
+            ['Visual neoclassical Omdaru radio', 'http://s02.radio-tochka.com:4630/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/c17542.png']
             ]
 
         if self.opt2 == '':
