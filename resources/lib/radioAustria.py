@@ -55,7 +55,6 @@ class Main:
             ['Life Radio', 'https://stream.liferadio.at/liferadio/mp3-192/radioat', 'https://i46.servimg.com/u/f46/19/40/01/67/lifera10.jpg'],
             ['Life Radio 80er', 'https://stream.liferadio.at/80er/mp3-192/radioat', 'https://i46.servimg.com/u/f46/19/40/01/67/lifera11.jpg'],
             ['Life Radio 90er', 'https://stream.liferadio.at/90er/mp3-192/radioat', 'https://i46.servimg.com/u/f46/19/40/01/67/lifera12.jpg'],
-            ['Life Radio Tirol - Golden Oldies', 'https://liferadiotirol.apa.at:8000/oldies', 'https://i46.servimg.com/u/f46/19/40/01/67/c17556.png'],
             ['VIENNA.AT - Lounge', 'http://webradio.vienna.at/vie-lounge', 'https://i46.servimg.com/u/f46/19/40/01/67/c17520.png']
             ]
 
