@@ -48,8 +48,7 @@ class Main:
         		['Rádio Z (CZ)', 'https://ice.actve.net/fm-zet', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_38.jpg'],
          		['Svobodné Rádio (CZ)', 'http://svobodneradio.radioca.st:8859/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/svobod12.jpg'],
 		        ['True Life in God Radio Czech (CZ)', 'https://stream.galaxywebsolutions.com/proxy/tligradio_cs?mp=/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/tlig10.jpg'],
-         		['ZFK radio (CZ)', 'https://node-14.zeno.fm/ere0xqyp5tzuv?rj-ttl=5&rj-tok=AAABdLZ6x3IA9OoWzVY9uWV6mg', 'https://i46.servimg.com/u/f46/19/40/01/67/c17544.png'],
-		        ['OpenFM - Italo Disco (PL)', 'https://stream.open.fm/27', 'https://i46.servimg.com/u/f46/19/40/01/67/c17580.png']
+         		['OpenFM - Italo Disco (PL)', 'https://stream.open.fm/27', 'https://i46.servimg.com/u/f46/19/40/01/67/c17580.png']
                ]
 
         if self.opt2 == '':
