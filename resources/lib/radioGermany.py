@@ -47,7 +47,6 @@ class Main:
             ['Antenne Bayern Classic Rock', 'http://mp3channels.webradio.antenne.de/classic-rock-live', 'https://i62.servimg.com/u/f62/19/40/01/67/antenn13.jpg'],
             ['Antenne Bayern Oldies but Goldies', 'http://mp3channels.webradio.antenne.de/oldies-but-goldies', 'https://i62.servimg.com/u/f62/19/40/01/67/antena13.jpg'],
             ['Antenne Bayern Chillout', 'http://mp3channels.webradio.antenne.de/chillout', 'https://i62.servimg.com/u/f62/19/40/01/67/antena14.jpg'],
-            ['Antenne Niederrhein', 'http://antennenr-ais-edge-3003.fra-eco.cdn.addradio.net/antennenr/live/mp3/high?ar-distributor=f0a0', 'https://i.servimg.com/u/f46/19/40/01/67/antenn10.jpg'],
             ['Disco Party Radio', 'http://stream.laut.fm/-z-i-s-c-o-party-70s-80s', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_33.jpg'],
             ['FFH Digital', 'http://mp3.ffh.de/radioffh/hqlivestream.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/ffh_di10.jpg'],
             ['FFH Eurodance', 'http://mp3.ffh.de/ffhchannels/hqeurodance.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/ffh_di11.jpg'],
@@ -68,7 +67,6 @@ class Main:
             ['M1.FM - Oldies', 'http://tuner.m1.fm/oldies.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/oldies10.jpg'],
             ['M1.FM - 80ER', 'http://tuner.m1.fm/80er.mp3', 'https://i.servimg.com/u/f46/19/40/01/67/80er-c10.jpg'],
             ['M1.FM - 90ER', 'http://tuner.m1.fm/90er.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/90er-c10.jpg'],
-            ['NDR 2', 'https://ndr-ndr2-niedersachsen.sslcast.addradio.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radion10.jpg'],
             ['N-Joy', 'https://ndr-njoy-live.sslcast.addradio.de/ndr/njoy/live/mp3/128/stream.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/njoy10.jpg'],
             ['Radio On Disco', 'https://0n-disco.radionetz.de/0n-disco.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_32.jpg']
 
