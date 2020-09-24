@@ -33,4 +33,4 @@ Zpravodajský - 20 stanic<br>
 Top 10 Mebox<br>
 Top 10 Gante<br>
 <b>Nejnovější přidané rádia</b><br>
-Novinky - 6 stanic</p>
+Novinky - 22 stanic</p>
