@@ -51,7 +51,7 @@ class Main:
          		['OpenFM - Italo Disco (PL)', 'https://stream.open.fm/27', 'https://i46.servimg.com/u/f46/19/40/01/67/c17580.png'],
          		['Hit West 80s (F)', 'https://listen.shoutcast.com/HITWEST80.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c17583.png'],
 		        ['Radio Obozrevatel Disco 80 (UA)', 'https://radio-stream-0.obozrevatel.com/Disco128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c17584.png'],
-         		['80s80s Italo Disco (N)', 'https://streams.80s80s.de/italohits/mp3-192/radiode/', 'https://i46.servimg.com/u/f46/19/40/01/67/c17585.png']
+         		['80s80s Italo Disco (D)', 'https://streams.80s80s.de/italohits/mp3-192/radiode/', 'https://i46.servimg.com/u/f46/19/40/01/67/c17585.png']
                ]
 
         if self.opt2 == '':
