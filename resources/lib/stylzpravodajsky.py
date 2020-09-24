@@ -50,7 +50,8 @@ class Main:
             ['Český Rozhlas Region - Vysočina (CZ)', 'http://icecast2.play.cz:8000/crovysocina128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/croreg10.png'],
             ['Český Rozhlas Sever (CZ)', 'http://icecast2.play.cz:8000/crosever128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radios18.jpg'],
             ['Český Rozhlas České Budejovice (CZ)', 'http://icecast2.play.cz:8000/crocb128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc31.jpg'],
-            ['Svobodný vysílač CS (CZ)', 'http://78.108.110.114:8000/live.opus', 'https://i46.servimg.com/u/f46/19/40/01/67/svobod11.jpg']
+            ['Svobodný vysílač CS (CZ)', 'http://78.108.110.114:8000/live.opus', 'https://i46.servimg.com/u/f46/19/40/01/67/svobod11.jpg'],
+            ['Svobodné Rádio (CZ)', 'http://svobodneradio.radioca.st:8859/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/svobod12.jpg']
             ]
 
         if self.opt2 == '':
