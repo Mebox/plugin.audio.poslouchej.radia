@@ -31,12 +31,15 @@ class Main:
         self = selfGet
     
         list = [
-            ['Český Rozhlas Rádio Retro (CZ)', 'http://icecast7.play.cz/croretro128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radior13.jpg'],
+            ['Rádio Mária Slovensko (SK)', 'https://dreamsiteradiocp5.com/proxy/radiomariaslovensko?mp=/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/maria10.jpg'],
+            ['Český Rozhlas Rádio Retro (CZ)', 'http://ice3.abradio.cz/croretro128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radior13.jpg'],
+            ['Fred Film Radio (CZ)', 'http://stream.fred.fm:8026/stream/', 'https://i46.servimg.com/u/f46/19/40/01/67/fred10.jpg'],
             ['Pigy.cz - Pohádky (CZ)', 'http://ice.actve.net/web-pg-pohadky', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop10.jpg'],
             ['Rádio Humor (CZ)', 'http://mp3stream4.abradio.cz:8000/humor128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioh13.jpg'],
             ['Rádio Pohádka  (CZ)', 'http://ice3.abradio.cz/pohadka128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop12.jpg'],
             ['Rádio Povídka (CZ)', 'http://ice.abradio.cz/povidka128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop11.jpg'],
-            ['Rádio Litera (SK)', 'http://icecast.stv.livebox.sk/litera_128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiol12.jpg']
+            ['Rádio Litera (SK)', 'http://icecast.stv.livebox.sk/litera_128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiol12.jpg'],
+            ['True Life in God Radio Czech (CZ)', 'https://stream.galaxywebsolutions.com/proxy/tligradio_cs?mp=/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/tlig10.jpg']
                         ]
 
         if self.opt2 == '':
