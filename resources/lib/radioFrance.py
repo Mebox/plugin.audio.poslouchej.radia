@@ -33,6 +33,7 @@ class Main:
         list = [
             ['B4B Radio Club Dance', 'https://radio10.pro-fhi.net/radio/9000/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/c17559.png'],
             ['E-Dance 90s', 'http://94.23.221.158:9197/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/c17567.png'],
+            ['Hit West 80s (F)', 'https://listen.shoutcast.com/HITWEST80.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c17583.png'],
             ['Hotmixradio 80', 'http://streaming.hotmixradio.fm/hotmixradio-80-128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c17560.png'],
             ['Hotmixradio FUNKY', 'http://streaming.hotmixradio.fm/hotmixradio-funky-128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c17563.png'],
             ['Hotmixradio LOUNGE', 'http://streaming.hotmixradio.fm/hotmixradio-lounge-128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c17564.png'],
