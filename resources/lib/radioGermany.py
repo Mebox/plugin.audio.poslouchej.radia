@@ -32,6 +32,7 @@ class Main:
     
         list = [
             ['1 HITS 80s', 'http://makri.cdnstream.com/1898_128', 'https://i46.servimg.com/u/f46/19/40/01/67/1_hits10.jpg'],
+            ['80s80s Italo Disco', 'https://streams.80s80s.de/italohits/mp3-192/radiode/', 'https://i46.servimg.com/u/f46/19/40/01/67/c17585.png'],
             ['80s80s David Bowie', 'http://streams.80s80s.de/davidbowie/mp3-128/surfmusik', 'https://i62.servimg.com/u/f62/19/40/01/67/80bowi10.jpg'],
             ['80s80s Depeche Mode', 'http://streams.80s80s.de/dm/mp3-128/surfmusik', 'https://i62.servimg.com/u/f62/19/40/01/67/80mode10.jpg'],
             ['80s80s Love', 'http://streams.80s80s.de/love/mp3-128/surfmusik', 'https://i62.servimg.com/u/f62/19/40/01/67/80love10.jpg'],
