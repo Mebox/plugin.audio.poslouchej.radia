@@ -65,7 +65,7 @@ class Main:
             ['Radio 10 Gold 60s 70s (NL) ', 'https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3?dist=radionet', 'https://i46.servimg.com/u/f46/19/40/01/67/c17577.png'],
             ['Radio Stad Den Haag 97.2 FM (NL)', 'http://94.228.133.3:80/;stream.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radios19.jpg'],
             ['1 HITS 80s (D)', 'http://makri.cdnstream.com/1898_128', 'https://i46.servimg.com/u/f46/19/40/01/67/1_hits10.jpg'],
-	    ['80s80s Italo Disco (D)', 'https://streams.80s80s.de/italohits/mp3-192/radiode/', 'https://i46.servimg.com/u/f46/19/40/01/67/c17585.png']
+	    ['80s80s Italo Disco (D)', 'https://streams.80s80s.de/italohits/mp3-192/radiode/', 'https://i46.servimg.com/u/f46/19/40/01/67/c17585.png'],
             ['Antenne Bayern 80er Kulthits (D)', 'http://mp3channels.webradio.antenne.de/80er-kulthits', 'https://i62.servimg.com/u/f62/19/40/01/67/antena16.jpg'],
             ['Antenne Bayern 90er Hits (D)', 'http://mp3channels.webradio.antenne.de/90er-hits', 'https://i62.servimg.com/u/f62/19/40/01/67/antena17.jpg'],
             ['Antenne Bayern Oldies but Goldies (D)', 'http://mp3channels.webradio.antenne.de/oldies-but-goldies', 'https://i62.servimg.com/u/f62/19/40/01/67/antena13.jpg'],
