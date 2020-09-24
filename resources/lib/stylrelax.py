@@ -32,6 +32,7 @@ class Main:
     
         list = [
             ['Rádio Devín (SK)', 'http://icecast.stv.livebox.sk/devin_128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiod11.jpg'],
+            ['Rádio Dychovka (SK)', 'https://listen.radioking.com/radio/307817/stream/354746', 'https://i.servimg.com/u/f46/19/40/01/67/dychov10.jpg'],
             ['Rádio Janko Hraško (SK)', 'http://78.24.9.110:31088/;stream/1', 'https://i11.servimg.com/u/f11/19/40/01/67/radioj10.jpg'],
             ['Rádio Jemné Chillout (SK)', 'http://stream.radioservices.sk/chillout.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radioj12.jpg'],
             ['Rádio X - Folklore X (SK)', 'http://158.193.82.41:8000/ludovky.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_13.jpg'],
@@ -55,7 +56,7 @@ class Main:
             ['Antenne Bayern Chillout (D)', 'http://mp3channels.webradio.antenne.de/chillout', 'https://i62.servimg.com/u/f62/19/40/01/67/antena14.jpg'],
             ['M1.FM - Chillout (D)', 'http://tuner.m1.fm/chillout.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/chillo10.jpg'],
             ['Arabella Relax (A)', 'http://arabella.stream.kapper.net:8015/heroldrelax', 'https://i46.servimg.com/u/f46/19/40/01/67/c17521.png'],
-            ['Visual neoclassical Omdaru radio', 'http://s02.radio-tochka.com:5440/radio', 'https://i46.servimg.com/u/f46/19/40/01/67/c17542.png']
+            ['Visual neoclassical Omdaru radio', 'http://s02.radio-tochka.com:4630/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/c17542.png']
             ]
 
         if self.opt2 == '':
