@@ -81,7 +81,6 @@ class Main:
             ['Best Net Radio Coffee House', 'http://bigrradio.cdnstream1.com/5156_128', 'https://i46.servimg.com/u/f46/19/40/01/67/c175128.png'],
             ['Best Net Radio Love Channel', 'http://bigrradio.cdnstream1.com/5161_128', 'https://i46.servimg.com/u/f46/19/40/01/67/c175128.png'],
             ['Best Net Radio New Wave', 'http://bigrradio.cdnstream1.com/5161_128', 'https://i46.servimg.com/u/f46/19/40/01/67/c175128.png'],
-            ['Epic Rock Radio', 'http://listen.sonixfm.com:8734/stream', 'https://i11.servimg.com/u/f11/19/40/01/67/err-lo10.jpg'],
             ['Powerhitz', 'http://powerhitz.powerhitz.com:2228?.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop15.jpg'],
             ['Powerhitz - Classic Rock', 'http://jbmedia-edge1.cdnstream.com/pureclassicrock?listenerid=d7c0601fef8d4074a4f69e8fb6a214fa&cb=211272.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop15.jpg'],
             ['Powerhitz - 90s Area', 'http://jbmedia-edge1.cdnstream.com/90sarea?listenerid=d7c0601fef8d4074a4f69e8fb6a214fa&cb=717408.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop15.jpg'],
