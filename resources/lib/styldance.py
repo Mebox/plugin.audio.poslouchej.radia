@@ -33,7 +33,6 @@ class Main:
         list = [
             ['Fun Rádio Dance (SK)', 'http://stream.funradio.sk:8000/dance128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiof23.jpg'],
             ['Rádio Kiks (SK)', 'http://ca6.rcast.net:4044/;stream/1', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_11.jpg'],
-            ['tvojeRADIO.com Dance (SK)', 'http://server1.internetoveradio.sk:8816/dance.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiot13.jpg'],
             ['Club Rádio (CZ)', 'http://icecast2.play.cz:8000/Clubradio.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc18.jpg'],
             ['Clubbeat Rádio (CZ)', 'http://mp3stream4.abradio.cz/clubbeat128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc11.jpg'],
             ['DAB Plus Top 40 (CZ)', 'http://icecast6.play.cz/dabplus-top40.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiod12.jpg'],
@@ -45,7 +44,6 @@ class Main:
             ['Radio23.cz - Psytrance (CZ)', 'http://r23.cz/psy', 'https://i46.servimg.com/u/f46/19/40/01/67/radio210.jpg'],
             ['Radio23.cz - Dnb (CZ)', 'http://r23.cz/dnb', 'https://i46.servimg.com/u/f46/19/40/01/67/radio210.jpg'],
             ['Radio23.cz - Hardcore (CZ)', 'http://r23.cz/hc', 'https://i46.servimg.com/u/f46/19/40/01/67/radio210.jpg'],
-            ['Radio23.cz - USB (CZ)', 'http://radio.unbros.cz/usb_autodj', 'https://i46.servimg.com/u/f46/19/40/01/67/radio210.jpg'],
             ['Rádio Chillout (CZ)', 'http://mp3stream4.abradio.cz/chillout128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc12.jpg'],
             ['Rádio Free 107 Fm (CZ)', 'http://icecast8.play.cz/freeradio128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiof23.jpg'],
             ['Fajn Radio Fresh (CZ)', 'http://ice.abradio.cz/fajnfresh128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiof12.jpg'],
@@ -72,10 +70,9 @@ class Main:
             ['Kronehit Dance (A)', 'http://onair-ha1.krone.at/kronehit-dance.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c175131.png'],
             ['16bit.FM - ProBeat (RU)', 'http://16bitfm.com:8000/main_mp3_192', 'https://i46.servimg.com/u/f46/19/40/01/67/c17538.png'],
             ['San FM - Trance Channel (RU)', 'http://sanfm.ru:8000/trance', 'https://i46.servimg.com/u/f46/19/40/01/67/c17539.png'],
-            ['101.ru: Euro Hits', 'https://ic7.101.ru:8000/c16_13', 'https://static.radio.net/images/broadcasts/73/8a/7121/1/c300.png'],
+            ['101.ru: Euro Hits (RU)', 'https://ic7.101.ru:8000/c16_13', 'https://static.radio.net/images/broadcasts/73/8a/7121/1/c300.png'],
             ['Energy Dance (CH)', 'http://energydance.ice.infomaniak.ch/energydance-high.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c175134.png'],
             ['Rouge Dance (CH)', 'http://rouge-dance.ice.infomaniak.ch/rouge-dance-128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/rouge_10.jpg'],
-            ['Rouge Dance 2000 (CH)', 'http://rouge-dance2000.ice.infomaniak.ch/rouge-dance2000-128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c175135.png'],
             ['MyRadio Dance Club (UA)', 'http://music.myradio.com.ua:8000/dance128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c30010.png'],
             ['MyRadio Trance and Progressive (UA)', 'http://music.myradio.com.ua:8000/trance128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c30010.png']
             ]
