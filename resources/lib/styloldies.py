@@ -58,6 +58,7 @@ class Main:
             ['113 FM Awesome 80s (USA)', 'http://113fm-edge1.cdnstream.com/1762_128', 'https://i11.servimg.com/u/f11/19/40/01/67/113fm10.png'],
             ['Best Net Radio 70s and 80s (USA)', 'http://bigrradio.cdnstream1.com/5141_128', 'https://i46.servimg.com/u/f46/19/40/01/67/c175128.png'],
             ['Best Net Radio 80s and 90s Mix (USA)', 'http://bigrradio.cdnstream1.com/5143_128', 'https://i46.servimg.com/u/f46/19/40/01/67/c175128.png'],
+	    ['Hit West 80s (F)', 'https://listen.shoutcast.com/HITWEST80.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c17583.png'],
             ['Hotmixradio 80 (F)', 'http://streaming.hotmixradio.fm/hotmixradio-80-128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c17560.png'],
             ['E-Dance 90s (F)', 'http://94.23.221.158:9197/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/c17567.png'],
             ['Sky Radio 80s Hits (NL)', 'https://20133.live.streamtheworld.com/SRGSTR04.mp3?dist=radionet', 'https://i46.servimg.com/u/f46/19/40/01/67/c17592.png'],
