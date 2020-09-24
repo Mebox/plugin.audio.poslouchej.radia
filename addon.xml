@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.audio.poslouchej.radia"
        name="Poslouchej Rádia"
-       version="1.2.1"
+       version="1.2.2"
        provider-name="mebox a ma_sk">
   <requires>
     <import addon="xbmc.python" version="2.14.0" />
@@ -23,6 +23,10 @@
     <forum/>
     <website>https://github.com/Mebox/plugin.audio.poslouchej.radia</website>
     <news>
+1.2.2
+- Oprava streamu
+- Nově přidáno - 22 radiostanic
+- Odstranění nefunkčních radiostanic
 1.2.1
 - Disco Party Radio (D) - nově přidáno
 - Radio On Disco (D) - nově přidáno
