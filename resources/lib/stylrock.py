@@ -33,7 +33,6 @@ class Main:
         list = [
             ['Rádio Anténa Rock (SK)', 'http://stream.antenarock.sk/antena-hi.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radior16.jpg'],
             ['Rádio Anténa Rock Hard (SK)', 'http://stream.radioservices.sk/hardrock.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radior17.jpg'],
-	    ['Rock Arena (SK)', 'http://icecast6.play.cz/rockarena.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/rockar10.png'],
 	    ['Rádio X - Metal X (SK)', 'http://158.193.82.41:8000/metal.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiox11.jpg'],
             ['Hitrádio PopRock (CZ)', 'http://ice.abradio.cz/hitpoprock128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioh11.jpg'],
             ['Metal Heart Rádio (CZ)', 'http://fr.radio-streamhosting.com:8000/metalheartradio128mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/metal_10.jpg'],
@@ -60,7 +59,6 @@ class Main:
             ['BeGoodRadio 80s Metal (USA)', 'http://75.126.5.154/5212_128', 'https://i11.servimg.com/u/f11/19/40/01/67/d4b66910.png'],
             ['BeGoodRadio 80s Punk Rock (USA)', 'http://75.126.5.154/5218_128', 'https://i11.servimg.com/u/f11/19/40/01/67/d4b66910.png'],
             ['BeGoodRadio 80s Rock Mix (USA)', 'http://75.126.5.154/5219_128', 'https://i11.servimg.com/u/f11/19/40/01/67/d4b66910.png'],
-            ['Epic Rock Radio (USA)', 'http://listen.sonixfm.com:8734/stream', 'https://i11.servimg.com/u/f11/19/40/01/67/err-lo10.jpg'],
             ['RADIO TROP ROCK (USA)', 'http://usa14.fastcast4u.com:5224/stream/1/', 'https://i46.servimg.com/u/f46/19/40/01/67/c175129.png'],
             ['Third Rock Radio (USA)', 'http://rfcmedia2.streamguys1.com/thirdrock.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c175126.png'],
             ['M1.FM - Rock (D)', 'http://tuner.m1.fm/rock.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/rock-c10.jpg'],
