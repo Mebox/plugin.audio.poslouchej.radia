@@ -40,7 +40,7 @@ class Main:
 			['Radio 80s FM (RU)', 'http://air2.radiorecord.ru:9002/1980_128', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_34.jpg'],
 		        ['Eurodisco Hit Radio (RU)', 'http://188.165.195.176:8034/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_30.jpg'],
 		        ['Radio Stad Den Haag (NL)', 'http://94.228.133.3:80/;stream.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radios19.jpg'],
-			['Radio FM Romantic (UA)', 'https://online.melodiafm.ua/MelodiaFM_Romantic', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_31.jpg']
+			['80s80s Italo Disco (D)', 'https://streams.80s80s.de/italohits/mp3-192/radiode/', 'https://i46.servimg.com/u/f46/19/40/01/67/c17585.png']
                ]
         if self.opt2 == '':
             i = 0
