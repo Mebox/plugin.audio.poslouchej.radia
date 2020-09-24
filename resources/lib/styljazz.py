@@ -31,7 +31,6 @@ class Main:
         self = selfGet
     
         list = [
-            ['Rádio Lumen Gospel stream (SK)', 'http://audio.lumen.sk:8000/ff128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/lumen_10.jpg'],
             ['Blues Sky (CZ)', 'https://node-05.zeno.fm/0hx4b9zscseuv?rj-ttl=5&rj-tok=AAABcQzR__wA_g1Ji3kf17PHog', 'https://i46.servimg.com/u/f46/19/40/01/67/blues_10.jpg'],
             ['Český Rozhlas Jazz (CZ)', 'http://icecast2.play.cz:8000/crojazz128aac', 'https://i62.servimg.com/u/f62/19/40/01/67/radioj14.jpg'],
             ['E-Radio JAZZINEC (CZ)', 'http://ice3.abradio.cz/jazzinec128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioj10.jpg'],
