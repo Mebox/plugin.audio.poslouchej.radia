@@ -34,9 +34,9 @@ class Main:
             ['Rádio Beta - Hity 80s a 90s (SK)', 'http://109.71.67.102:8000/beta_80a90.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/beta8010.jpg'],
             ['Fun Rádio 80. - 90. roky (SK)', 'http://stream.funradio.sk:8000/80-90-128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiof21.jpg'],
             ['Rádio Goldies (SK)', 'http://icecast.radiosity.sk:8000/oldies.mp3', 'https://i.servimg.com/u/f46/19/40/01/67/goldie10.jpg'],
-            ['tvojeRADIO.com Gold 80/90 (SK)', 'http://server1.internetoveradio.sk:8816/gold.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiot14.jpg'],
             ['Rádio Vlna Golden Hits (SK)', 'http://stream.radioservices.sk/goldenhits.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiov10.jpg'],
             ['Rádio X - Oldies X (SK)', 'http://158.193.82.41:8000/oldies.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiox10.jpg'],
+	    ['90 Hits Radio Manchester (CZ)', 'http://mpc.mediacp.eu:8012/;stream', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_37.jpg'],
             ['Evropa 2 - Youradio Flashback (CZ)', 'http://ice.actve.net/web-e2-flashback', 'https://i46.servimg.com/u/f46/19/40/01/67/europa14.jpg'],
             ['Frekvence 1 - Youradio Legendy (CZ)', 'http://ice.actve.net/web-f1-legendy', 'https://i46.servimg.com/u/f46/19/40/01/67/f1_leg10.jpg'],
 	    ['Frekvence 1 - Youradio 80s (CZ)', 'http://ice.actve.net/web-80', 'https://i62.servimg.com/u/f62/19/40/01/67/radiof21.jpg'],
@@ -80,16 +80,16 @@ class Main:
             ['M1.FM - 90ER (D)', 'http://tuner.m1.fm/90er.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/90er-c10.jpg'],
             ['Radio On Disco (D)', 'https://0n-disco.radionetz.de/0n-disco.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_32.jpg'],
 	    ['OpenFM - 80s Hits (PL)', 'http://stream.polskastacja.pl/ps3_mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c17532.png'],
+            ['OpenFM - Italo Disco (PL)', 'https://stream.open.fm/27', 'https://i46.servimg.com/u/f46/19/40/01/67/c17580.png']
             ['RMI - Italo Disco Greatest Hits (PL)', 'http://188.165.195.176:8046/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/c17528.png'],
             ['Kronehit 90’s Dance (A) ', 'http://onair-ha1.krone.at/kronehit-90sdance.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiok16.jpg'],
-            ['Life Radio 80er (A) ', 'http://liferadio.stream.kapper.net:8002/80er', 'https://i46.servimg.com/u/f46/19/40/01/67/lifera11.jpg'],
-            ['Life Radio 90er (A) ', 'http://liferadio.stream.kapper.net:8006/90er', 'https://i46.servimg.com/u/f46/19/40/01/67/lifera12.jpg'],
+            ['Life Radio 80er (A) ', 'https://stream.liferadio.at/80er/mp3-192/radioat', 'https://i46.servimg.com/u/f46/19/40/01/67/lifera11.jpg'],
+            ['Life Radio 90er (A) ', 'https://stream.liferadio.at/90er/mp3-192/radioat', 'https://i46.servimg.com/u/f46/19/40/01/67/lifera12.jpg'],
 	    ['101.ru: Radio 70s FM  (RU)', 'http://air2.radiorecord.ru:9002/1970_128', 'https://static.radio.net/images/broadcasts/73/8a/7121/1/c300.png'],
             ['101.ru: Radio 80s FM  (RU)', 'http://air2.radiorecord.ru:9002/1980_128', 'https://static.radio.net/images/broadcasts/73/8a/7121/1/c300.png'],
             ['Eurodisco Hit Radio (RU)', 'http://188.165.195.176:8034/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_30.jpg'],
 	    ['Radio 70s FM (RU)', 'http://air2.radiorecord.ru:9002/1970_128', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_35.jpg'],
-	    ['Radio 80s FM (RU)', 'http://air2.radiorecord.ru:9002/1980_128', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_34.jpg'],
-            ['Radio FM Romantic (UA)', 'https://online.melodiafm.ua/MelodiaFM_Romantic', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_31.jpg']
+	    ['Radio 80s FM (RU)', 'http://air2.radiorecord.ru:9002/1980_128', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_34.jpg']
             ]
 
         if self.opt2 == '':
