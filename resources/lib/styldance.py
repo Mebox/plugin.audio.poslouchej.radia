@@ -31,19 +31,23 @@ class Main:
         self = selfGet
     
         list = [
+            ['Fresh Radio (SK)', 'http://164.68.122.137:8002/;stream/1', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_40.jpg'],
             ['Fun Rádio Dance (SK)', 'http://stream.funradio.sk:8000/dance128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiof23.jpg'],
             ['Rádio Kiks (SK)', 'http://ca6.rcast.net:4044/;stream/1', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_11.jpg'],
+            ['Busradio (CZ)', 'http://mpc.mediacp.eu:8004/;type=mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/busrad10.jpg'],
             ['Club Rádio (CZ)', 'http://icecast2.play.cz:8000/Clubradio.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc18.jpg'],
             ['Clubbeat Rádio (CZ)', 'http://mp3stream4.abradio.cz/clubbeat128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc11.jpg'],
             ['DAB Plus Top 40 (CZ)', 'http://icecast6.play.cz/dabplus-top40.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiod12.jpg'],
             ['Dance Club Rádio (CZ)', 'http://mp3stream4.abradio.cz/dance128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/dancec11.jpg'],
             ['Dance Rádio (CZ)', 'http://ice.actve.net/dance-radio128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiod10.jpg'],
             ['Drumandbass Radio SHADOWBOX (CZ)', 'http://ice3.abradio.cz/shadowbox128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radios10.jpg'],
+            ['Freerave.cz - Tekno Radio (CZ)', 'http://164.68.122.137:8061/', 'https://i46.servimg.com/u/f46/19/40/01/67/freed10.jpg'],
             ['Radio23.cz - Techno (CZ)', 'http://r23.cz/tekno', 'https://i46.servimg.com/u/f46/19/40/01/67/radio210.jpg'],
             ['Radio23.cz - Breaks (CZ)', 'http://r23.cz/breaks', 'https://i46.servimg.com/u/f46/19/40/01/67/radio210.jpg'],
             ['Radio23.cz - Psytrance (CZ)', 'http://r23.cz/psy', 'https://i46.servimg.com/u/f46/19/40/01/67/radio210.jpg'],
             ['Radio23.cz - Dnb (CZ)', 'http://r23.cz/dnb', 'https://i46.servimg.com/u/f46/19/40/01/67/radio210.jpg'],
             ['Radio23.cz - Hardcore (CZ)', 'http://r23.cz/hc', 'https://i46.servimg.com/u/f46/19/40/01/67/radio210.jpg'],
+            ['RadioCast (CZ)', 'http://mpc.mediacp.eu:8042/', 'https://i46.servimg.com/u/f46/19/40/01/67/radioc10.jpg'],
             ['Rádio Chillout (CZ)', 'http://mp3stream4.abradio.cz/chillout128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc12.jpg'],
             ['Rádio Free 107 Fm (CZ)', 'http://icecast8.play.cz/freeradio128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiof23.jpg'],
             ['Fajn Radio Fresh (CZ)', 'http://ice.abradio.cz/fajnfresh128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiof12.jpg'],
