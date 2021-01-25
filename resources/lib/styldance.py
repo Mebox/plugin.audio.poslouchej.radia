@@ -47,7 +47,7 @@ class Main:
             ['Radio23.cz - Psytrance (CZ)', 'http://r23.cz/psy', 'https://i46.servimg.com/u/f46/19/40/01/67/radio210.jpg'],
             ['Radio23.cz - Dnb (CZ)', 'http://r23.cz/dnb', 'https://i46.servimg.com/u/f46/19/40/01/67/radio210.jpg'],
             ['Radio23.cz - Hardcore (CZ)', 'http://r23.cz/hc', 'https://i46.servimg.com/u/f46/19/40/01/67/radio210.jpg'],
-            ['RadioCast (CZ)', 'http://mpc.mediacp.eu:8042/', 'https://i46.servimg.com/u/f46/19/40/01/67/radioc10.jpg'],
+            ['RadioCast (CZ)', 'https://mpc.mediacp.eu/stream/radiocast&error=ok', 'https://i46.servimg.com/u/f46/19/40/01/67/radioc10.jpg'],
             ['Rádio Chillout (CZ)', 'http://mp3stream4.abradio.cz/chillout128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc12.jpg'],
             ['Rádio Free 107 Fm (CZ)', 'http://icecast8.play.cz/freeradio128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiof23.jpg'],
             ['Fajn Radio Fresh (CZ)', 'http://ice.abradio.cz/fajnfresh128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiof12.jpg'],
