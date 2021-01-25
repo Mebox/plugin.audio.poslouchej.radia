@@ -40,7 +40,7 @@ class Main:
          		['Fred Film Radio (CZ)', 'http://stream.fred.fm:8026/stream/', 'https://i46.servimg.com/u/f46/19/40/01/67/fred10.jpg'],
 		        ['Freerave.cz - Tekno Radio (CZ)', 'http://164.68.122.137:8061/', 'https://i46.servimg.com/u/f46/19/40/01/67/freed10.jpg'],
          		['Halloradio Hultschin (CZ)', 'http://live.halloradiohultschin.cz:8000/halloradio.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/hallra10.jpg'],
-		        ['RadioCast (CZ)', 'http://mpc.mediacp.eu:8042/', 'https://i46.servimg.com/u/f46/19/40/01/67/radioc10.jpg'],
+		        ['RadioCast (CZ)', 'https://mpc.mediacp.eu/stream/radiocast&error=ok', 'https://i46.servimg.com/u/f46/19/40/01/67/radioc10.jpg'],
 			['Rádio G6 (CZ)', 'https://mpc.mediacp.eu:2000/stream/RadioG6', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_36.jpg'],
         		['Rádio Ostravan (CZ)', 'http://icecast9.play.cz/radio-ostravan-256.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/ostrav10.jpg'],
 		        ['Radio R (CZ)', 'http://radior.video.muni.cz:8000/FSS_mp3-128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_39.jpg'],
