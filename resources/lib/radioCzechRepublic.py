@@ -121,7 +121,7 @@ class Main:
                         ['Radio23.cz - Psytrance', 'http://r23.cz/psy', 'https://i46.servimg.com/u/f46/19/40/01/67/radio210.jpg'],
                         ['Radio23.cz - Dnb', 'http://r23.cz/dnb', 'https://i46.servimg.com/u/f46/19/40/01/67/radio210.jpg'],
                         ['Radio23.cz - Hardcore', 'http://r23.cz/hc', 'https://i46.servimg.com/u/f46/19/40/01/67/radio210.jpg'],
-		        ['RadioCast', 'http://mpc.mediacp.eu:8042/', 'https://i46.servimg.com/u/f46/19/40/01/67/radioc10.jpg'],
+		        ['RadioCast', 'https://mpc.mediacp.eu/stream/radiocast&error=ok', 'https://i46.servimg.com/u/f46/19/40/01/67/radioc10.jpg'],
 		        ['Radio Cesky Jukebox', 'http://sc.ipip.cz:8046', 'https://i46.servimg.com/u/f46/19/40/01/67/radio-10.jpg'],
 			['Rádio Benešov City', 'http://ice6.abradio.cz/benesov128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/beneso10.png'],
 			['Rádio Best of Rock', 'http://mp3stream4.abradio.cz/bestofrock128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiob10.jpg'],
