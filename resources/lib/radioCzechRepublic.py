@@ -33,6 +33,7 @@ class Main:
         list = [
             ['90 Hits Radio Manchester', 'http://mpc.mediacp.eu:8012/;stream', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_37.jpg'],
 		        ['Alternative Times Radio', 'http://ice3.abradio.cz/alternative128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioa10.jpg'],
+         		['Atom FM', 'http://212.84.160.187:4521/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/atomfm10.jpg'],
 		        ['Blues Sky', 'https://node-05.zeno.fm/0hx4b9zscseuv?rj-ttl=5&rj-tok=AAABcQzR__wA_g1Ji3kf17PHog', 'https://i46.servimg.com/u/f46/19/40/01/67/blues_10.jpg'],
 		        ['Busradio', 'http://mpc.mediacp.eu:8004/;type=mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/busrad10.jpg'],
 			['Classic Praha', 'http://icecast8.play.cz/classic128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioc34.jpg'],
@@ -69,6 +70,7 @@ class Main:
                         ['DAB Plus Top 40', 'http://icecast6.play.cz/dabplus-top40.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiod12.jpg'],
                         ['Dance Club Rádio', 'http://mp3stream4.abradio.cz/dance128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/dancec11.jpg'],
 			['Dance Rádio', 'http://ice.actve.net/dance-radio128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiod10.jpg'],
+         		['DAT Radio', 'https://cast.beatzone.cz/radio/8110/radio.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/datrad10.jpg'],
 			['Drumandbass Radio SHADOWBOX', 'http://ice3.abradio.cz/shadowbox128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radios10.jpg'],
 			['E-Radio JAZZINEC', 'http://ice3.abradio.cz/jazzinec128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioj10.jpg'],
 			['Evropa 2', 'http://ice.actve.net/fm-evropa2-128', 'https://i62.servimg.com/u/f62/19/40/01/67/radioe11.jpg'],
@@ -111,6 +113,7 @@ class Main:
 			['Koule.cz Filmové Melodie', 'http://ice.actve.net/web-rb-melodie', 'https://i62.servimg.com/u/f62/19/40/01/67/radiok14.jpg'],
 		        ['Metal Heart Rádio', 'http://fr.radio-streamhosting.com:8000/metalheartradio128mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/metal_10.jpg'],
 			['Metalomanie', 'http://ice.abradio.cz/metalomanie128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/metalm10.jpg'],
+         		['Netro Life Radio', 'https://icecast9.play.cz/netro-life-radio.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/netro-10.jpg']
 			['Oldies rádio', 'http://ice.abradio.cz/oldiesradio128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioo12.jpg'],
 			['Pigy.cz - Disko Trysko', 'http://ice.actve.net/web-pg-disko', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop10.jpg'],
 			['Pigy.cz - Písničky z Pohádek', 'http://ice.actve.net/web-pg-pisnicky', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop10.jpg'],
@@ -165,6 +168,7 @@ class Main:
                         ['Rádio Pelhřimov', 'http://ca9.rcast.net:8054/', 'https://i.servimg.com/u/f46/19/40/01/67/rdio_p10.jpg'],
 			['Rádio Pohádka', 'http://ice3.abradio.cz/pohadka128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop12.jpg'],
                         ['Rádio Povídka', 'http://ice.abradio.cz/povidka128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop11.jpg'],
+        		['Rádio Play', 'http://hydra.shoutca.st:8271/play', 'https://i46.servimg.com/u/f46/19/40/01/67/radiop12.jpg'],
 			['Rádio Ponte Records', 'http://ice3.abradio.cz:8000/ponterec128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiop15.jpg'],
 		        ['Rádio Rubi', 'http://icecast8.play.cz/radiorubi128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radior21.jpg'],
 		        ['Radio R', 'http://radior.video.muni.cz:8000/FSS_mp3-128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_39.jpg'],
