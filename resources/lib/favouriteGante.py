@@ -39,7 +39,7 @@ class Main:
 			['Radio On Disco (D)', 'https://0n-disco.radionetz.de/0n-disco.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_32.jpg'],
 			['Radio 70s FM (RU)', 'http://air2.radiorecord.ru:9002/1970_128', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_35.jpg'],
 			['Radio 80s FM (RU)', 'http://air2.radiorecord.ru:9002/1980_128', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_34.jpg'],
-		        ['Eurodisco Hit Radio (RU)', 'http://188.165.195.176:8034/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_30.jpg'],
+		        ['101.ru: Radio 80s FM  (RU)', 'http://air2.radiorecord.ru:9002/1980_128', 'https://static.radio.net/images/broadcasts/73/8a/7121/1/c300.png'],
 		        ['Radio Stad Den Haag (NL)', 'http://94.228.133.3:80/;stream.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radios19.jpg']
 			
                ]
