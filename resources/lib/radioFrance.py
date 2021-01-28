@@ -38,11 +38,9 @@ class Main:
             ['Hotmixradio LOUNGE', 'http://streaming.hotmixradio.fm/hotmixradio-lounge-128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c17564.png'],
             ['Hotmixradio HITS', 'http://streaming.hotmixradio.fm/hotmixradio-hits-128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c17572.png'],
             ['Hotmixradio 2000', 'http://streaming.hotmixradio.fm/hotmixradio-2k-128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c17573.png'],
-            ['Hotmixradio HOT', 'http://streaming.hotmixradio.fm/hotmixradio-hot-128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c17574.png'],
             ['NRJ France', 'http://185.52.127.168/fr/30001/mp3_128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c17570.png'],
             ['Puls Radio - Lounge', 'https://str2b.openstream.co/1501?aw_0_1st.collectionid=6044&stationId=6044&publisherId=1525&k=1611856916', 'https://i62.servimg.com/u/f62/19/40/01/67/lounfe10.jpg'],
-            ['Roots Legacy Radio', 'http://rootslegacy.fr:8080/stream/1/', 'https://i46.servimg.com/u/f46/19/40/01/67/c17566.png'],
-            ['RTL2', 'http://streaming.radio.rtl2.fr/rtl2-1-48-192', 'https://i46.servimg.com/u/f46/19/40/01/67/c17569.png']
+            ['Roots Legacy Radio', 'http://rootslegacy.fr:8080/stream/1/', 'https://i46.servimg.com/u/f46/19/40/01/67/c17566.png']
             ]
 
         if self.opt2 == '':
