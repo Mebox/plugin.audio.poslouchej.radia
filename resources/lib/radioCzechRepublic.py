@@ -113,7 +113,7 @@ class Main:
 			['Koule.cz Filmové Melodie', 'http://ice.actve.net/web-rb-melodie', 'https://i62.servimg.com/u/f62/19/40/01/67/radiok14.jpg'],
 		        ['Metal Heart Rádio', 'http://fr.radio-streamhosting.com:8000/metalheartradio128mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/metal_10.jpg'],
 			['Metalomanie', 'http://ice.abradio.cz/metalomanie128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/metalm10.jpg'],
-         		['Netro Life Radio', 'https://icecast9.play.cz/netro-life-radio.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/netro-10.jpg']
+         		['Netro Life Radio', 'https://icecast9.play.cz/netro-life-radio.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/netro-10.jpg'],
 			['Oldies rádio', 'http://ice.abradio.cz/oldiesradio128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radioo12.jpg'],
 			['Pigy.cz - Disko Trysko', 'http://ice.actve.net/web-pg-disko', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop10.jpg'],
 			['Pigy.cz - Písničky z Pohádek', 'http://ice.actve.net/web-pg-pisnicky', 'https://i62.servimg.com/u/f62/19/40/01/67/radiop10.jpg'],
