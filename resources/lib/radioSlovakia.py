@@ -31,7 +31,7 @@ class Main:
         self = selfGet
 
         list = [
-            ['Rádio 7', 'http://play.twr.sk:8000/128', 'https://i11.servimg.com/u/f11/19/40/01/67/radio710.jpg'],
+            ['Rádio 7', 'https://play.radio7.sk/128', 'https://i11.servimg.com/u/f11/19/40/01/67/radio710.jpg'],
 		        ['Rádio Aetter', 'http://stream.aetter.sk:8000/aetter', 'https://i46.servimg.com/u/f46/19/40/01/67/aetter10.jpg'],
                         ['Rádio Anténa Rock', 'http://stream.antenarock.sk/antena-hi.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radior16.jpg'],
 			['Rádio Anténa Rock Hard', 'http://stream.radioservices.sk/hardrock.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radior17.jpg'],
@@ -40,7 +40,6 @@ class Main:
 			['Rádio Beta - České a Slovenské hity', 'http://109.71.67.102:8000/beta_cspop.mp3', 'https://i.servimg.com/u/f62/19/40/01/67/betacz10.jpg'],
 			['Rádio Beta - Hity 80s a 90s', 'http://109.71.67.102:8000/beta_80a90.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/beta8010.jpg'],
 			['Rádio Beta - Hráme Jubilantom', 'http://109.71.67.102:8000/beta_jubilanti.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/betaju10.jpg'],
-			['Rádio Blesk', 'http://stream.radioblesk.net:7777/;stream/1', 'https://i11.servimg.com/u/f11/19/40/01/67/radiob12.jpg'],
 			['Rádio Devín', 'http://icecast.stv.livebox.sk/devin_128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiod11.jpg'],
 			['Dobré Rádio', 'http://stream.dobreradio.sk:8813/dobreradio.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/dobrer10.jpg'],
 			['Europa2 SK', 'http://stream.radioservices.sk/europa2.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radioe11.jpg'],
@@ -53,6 +52,7 @@ class Main:
 			['Fun Rádio CZ-SK', 'http://stream.funradio.sk:8000/cs128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiof22.jpg'],
 			['Fun Rádio Dance', 'http://stream.funradio.sk:8000/dance128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiof23.jpg'],
         		['Fresh Radio', 'http://164.68.122.137:8002/;stream/1', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_40.jpg'],
+         		['FRESH rádio', 'https://freeuk23.listen2myradio.com/live.mp3?typeportmount=s2_9428_stream_641462344', 'https://i46.servimg.com/u/f46/19/40/01/67/fresh10.jpg']
 			['G-Radio', 'http://88.212.34.18:8050/mp3midband', 'https://i11.servimg.com/u/f11/19/40/01/67/radiog10.jpg'],
                         ['Rádio Goldies', 'http://icecast.radiosity.sk:8000/oldies.mp3', 'https://i.servimg.com/u/f46/19/40/01/67/goldie10.jpg'],
 			['Info Vojna', 'http://stream.infovojna.sk:8000/live128', 'https://i62.servimg.com/u/f62/19/40/01/67/radioi15.jpg'],
@@ -84,6 +84,13 @@ class Main:
 			['SKY Rádio', 'http://stream.skyradio.sk:8000/sky128', 'https://i11.servimg.com/u/f11/19/40/01/67/radios17.jpg'],
 		        ['TLIS Rádio', 'https://stream.tlis.sk/tlis.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_21.jpg'],
 		        ['Trnavské rádio', 'http://stream.trnavskeradio.sk/trnavske', 'https://i62.servimg.com/u/f62/19/40/01/67/radiot12.jpg'],
+		        ['tvojeRADIO.com Dance', 'https://radioserver.online:9816/dance.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiot13.jpg'],
+			['tvojeRADIO.com Gold 80/90', 'https://radioserver.online:9816/gold.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiot14.jpg'],
+			['tvojeRADIO.com Hip-Hop', 'https://radioserver.online:9816/hiphop.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radioh10.jpg'],
+			['tvojeRADIO.com Lovesongs', 'https://radioserver.online:9816/pohoda.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiot15.jpg'],
+			['tvojeRADIO.com Pophits', 'https://radioserver.online:9816/pophits.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiot16.jpg'],
+			['tvojeRADIO.com SK/CZ', 'https://radioserver.online:9816/skcz.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiot12.jpg'],
+			['tvojeRADIO.com Repete', 'https://radioserver.online:9816/repete.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiot11.jpg'],
 			['Rádio Viva Metropol', 'http://stream.sepia.sk:8000/viva128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiov12.jpg'],
 			['Rádio Vlna', 'http://stream.radiovlna.sk/vlna-hi.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiov11.jpg'],
 			['Rádio Vlna Golden Hits', 'http://stream.radioservices.sk/goldenhits.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiov10.jpg'],
