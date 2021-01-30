@@ -39,9 +39,8 @@ class Main:
                 ['DNBTV.cz Rádio (CZ)', 'https://ice6.abradio.cz/dnbtv128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/dnbtv_10.jpg'],
                 ['Radio Lovemusic (CZ)', 'http://solid55.streamupsolutions.com:32053/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/lm_rad10.jpg'],
                 ['Rádio B (CZ)', 'https://n08.radiojar.com/9nayamd31tzuv?rj-ttl=5&rj-tok=AAABd1PLbWIACaXPhLOco5Al0w', 'https://i46.servimg.com/u/f46/19/40/01/67/becko10.jpg'],
-                ['Bikers Radio Doupě (CZ)', 'http://icecast7.play.cz/bikersradiodoupe128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/bikers10.jpg'],
-                ['Rádio Cyp (CZ)', 'http://radio.radiocyp.cz:8000/;stream.nsv', 'https://i46.servimg.com/u/f46/19/40/01/67/radioc11.jpg']
-               ]
+                ['Bikers Radio Doupě (CZ)', 'http://icecast7.play.cz/bikersradiodoupe128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/bikers10.jpg']
+                ]
 
         if self.opt2 == '':
             i = 0
