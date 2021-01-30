@@ -42,7 +42,6 @@ class Main:
             ['Arabella Lovesongs', 'http://arabella.stream.kapper.net:8009/arabellalove', 'https://i46.servimg.com/u/f46/19/40/01/67/c17523.png'],
             ['Arabella Relax', 'http://arabella.stream.kapper.net:8015/heroldrelax', 'https://i46.servimg.com/u/f46/19/40/01/67/c17521.png'],
             ['Arabella Ti Amo', 'http://arabella.stream.kapper.net:8007/arabellatiamo', 'https://i46.servimg.com/u/f46/19/40/01/67/c17525.png'],        
-            ['Hitradio Ö3', 'https://oe3shoutcast.sf.apa.at/stream/1/', 'https://i46.servimg.com/u/f46/19/40/01/67/c17511.png'],
             ['KroneHit 105.8 FM', 'http://onair-ha1.krone.at/kronehit-hp.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiok15.jpg'],
             ['Kronehit 90’s Dance', 'http://onair-ha1.krone.at/kronehit-90sdance.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiok16.jpg'],
             ['Kronehit Beach Club', 'http://onair-ha1.krone.at/kronehit-event3.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiok18.jpg'],
