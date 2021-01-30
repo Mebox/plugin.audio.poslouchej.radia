@@ -88,8 +88,6 @@ class Main:
             ['Life Radio 90er (A) ', 'https://stream.liferadio.at/90er/mp3-192/radioat', 'https://i46.servimg.com/u/f46/19/40/01/67/lifera12.jpg'],
 	    ['101.ru: Radio 70s FM  (RU)', 'http://air2.radiorecord.ru:9002/1970_128', 'https://static.radio.net/images/broadcasts/73/8a/7121/1/c300.png'],
             ['101.ru: Radio 80s FM  (RU)', 'http://air2.radiorecord.ru:9002/1980_128', 'https://static.radio.net/images/broadcasts/73/8a/7121/1/c300.png'],
-	    ['Radio 70s FM (RU)', 'http://air2.radiorecord.ru:9002/1970_128', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_35.jpg'],
-	    ['Radio 80s FM (RU)', 'http://air2.radiorecord.ru:9002/1980_128', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_34.jpg'],
 	    ['Radio Obozrevatel Disco 80 (UA)', 'https://radio-stream-0.obozrevatel.com/Disco128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/c17584.png']
             ]
 
