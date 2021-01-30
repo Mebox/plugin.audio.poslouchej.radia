@@ -1,4 +1,5 @@
-# -*- coding: utf-8 -*-
+  
+﻿# -*- coding: utf-8 -*-
 
 import xbmc
 import xbmcgui
@@ -8,7 +9,7 @@ import os
 import sys
 import re
 import urllib
-import urllib2
+import urllib2 
 import cookielib
 
 __addon__           = xbmcaddon.Addon()
@@ -26,11 +27,12 @@ sys.path.append (__path_img__)
 class Main:
 
     def start(self, selfGet):
-
+    
         # vars
         self = selfGet
-
-        list = [        
+    
+        list = [
+			['Mega Dance Radio (HU)', 'http://megadanceradio.hopto.org:8000/livemega.mp3?', 'https://i46.servimg.com/u/f46/19/40/01/67/mega_d10.jpg'],      
                 ['FRESH rádio (SK)', 'https://freeuk23.listen2myradio.com/live.mp3?typeportmount=s2_9428_stream_641462344', 'https://i46.servimg.com/u/f46/19/40/01/67/fresh10.jpg],
                 ['Comedy Club R@dio Diana (CZ)', 'https://westradio.cz/radio/8010/radio.mp3?1607941293', 'https://i46.servimg.com/u/f46/19/40/01/67/diana_10.jpg],
                 ['DNBTV.cz Rádio (CZ)', 'https://ice6.abradio.cz/dnbtv128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/dnbtv_10.jpg'],
