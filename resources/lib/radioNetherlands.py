@@ -45,10 +45,8 @@ class Main:
            ['Sky Radio Christmas', 'https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR08.mp3?dist=radionet', 'https://i46.servimg.com/u/f46/19/40/01/67/c17597.png'],
            ['Sky Radio Smooth Hits', 'https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR15.mp3?dist=radionet', 'https://i46.servimg.com/u/f46/19/40/01/67/c17575.png'],
            ['Sky Radio Feel Good Hits', 'https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR20.mp3?dist=radionet', 'https://i46.servimg.com/u/f46/19/40/01/67/c17575.png'],
-           ['Sky Radio 10s Hits', 'https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR19.mp3?dist=radionet', 'https://i46.servimg.com/u/f46/19/40/01/67/c17575.png'],
            ['Sky Radio Running Hits Expert', 'https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR23.mp3?dist=radionet', 'https://i46.servimg.com/u/f46/19/40/01/67/c17575.png'],
            ['Sky Radio Running Hits Stretch & Relax', 'https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR24.mp3?dist=radionet', 'https://i46.servimg.com/u/f46/19/40/01/67/c17575.png'],
-           ['Sky Radio Summerhits', 'https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR02.mp3?dist=radionet', 'https://i46.servimg.com/u/f46/19/40/01/67/c17575.png'],
            ['Sky Radio Singer-Songwriter', 'https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR16.mp3?dist=radionet', 'https://i46.servimg.com/u/f46/19/40/01/67/c17575.png'],         
            ['SLAM!', 'http://20853.live.streamtheworld.com/SLAM_MP3_SC?', 'https://i46.servimg.com/u/f46/19/40/01/67/c17578.png']
             ]
