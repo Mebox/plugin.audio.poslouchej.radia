@@ -52,7 +52,7 @@ class Main:
 			['Fun Rádio CZ-SK', 'http://stream.funradio.sk:8000/cs128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiof22.jpg'],
 			['Fun Rádio Dance', 'http://stream.funradio.sk:8000/dance128.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiof23.jpg'],
         		['Fresh Radio', 'http://164.68.122.137:8002/;stream/1', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_40.jpg'],
-         	        ['FRESH rádio', 'https://freeuk23.listen2myradio.com/live.mp3?typeportmount=s2_9428_stream_641462344', 'https://i46.servimg.com/u/f46/19/40/01/67/fresh10.jpg'],
+         	        ['FRESH rádio sk', 'https://freeuk23.listen2myradio.com/live.mp3?typeportmount=s2_9428_stream_641462344', 'https://i46.servimg.com/u/f46/19/40/01/67/fresh10.jpg'],
 			['G-Radio', 'http://88.212.34.18:8050/mp3midband', 'https://i11.servimg.com/u/f11/19/40/01/67/radiog10.jpg'],
                         ['Rádio Goldies', 'http://icecast.radiosity.sk:8000/oldies.mp3', 'https://i.servimg.com/u/f46/19/40/01/67/goldie10.jpg'],
 			['Info Vojna', 'http://stream.infovojna.sk:8000/live128', 'https://i62.servimg.com/u/f62/19/40/01/67/radioi15.jpg'],
