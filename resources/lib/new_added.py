@@ -32,18 +32,17 @@ class Main:
         self = selfGet
     
         list = [
-			['Mega Dance Radio (HU)', 'http://megadanceradio.hopto.org:8000/livemega.mp3?', 'https://i46.servimg.com/u/f46/19/40/01/67/mega_d10.jpg'],      
-                ['FRESH rádio (SK)', 'https://freeuk23.listen2myradio.com/live.mp3?typeportmount=s2_9428_stream_641462344', 'https://i46.servimg.com/u/f46/19/40/01/67/fresh10.jpg],
-                ['Comedy Club R@dio Diana (CZ)', 'https://westradio.cz/radio/8010/radio.mp3?1607941293', 'https://i46.servimg.com/u/f46/19/40/01/67/diana_10.jpg],
-                ['DNBTV.cz Rádio (CZ)', 'https://ice6.abradio.cz/dnbtv128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/dnbtv_10.jpg'],
-                ['Radio Lovemusic (CZ)', 'http://solid55.streamupsolutions.com:32053/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/lm_rad10.jpg'],
-                ['Rádio B (CZ)', 'https://n08.radiojar.com/9nayamd31tzuv?rj-ttl=5&rj-tok=AAABd1PLbWIACaXPhLOco5Al0w', 'https://i46.servimg.com/u/f46/19/40/01/67/becko10.jpg'],
-                ['Bikers Radio Doupě (CZ)', 'http://icecast7.play.cz/bikersradiodoupe128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/bikers10.jpg'],
-                ['Rádio Cyp (CZ)', 'http://radio.radiocyp.cz:8000/;stream.nsv', 'https://i46.servimg.com/u/f46/19/40/01/67/radioc11.jpg'],
-                ['Rádio Play (CZ)', 'http://hydra.shoutca.st:8271/play', 'https://i46.servimg.com/u/f46/19/40/01/67/radiop12.jpg'],
-         		['DAT Radio (CZ)', 'https://cast.beatzone.cz/radio/8110/radio.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/datrad10.jpg'],
-         		['Atom FM (CZ)', 'http://212.84.160.187:4521/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/atomfm10.jpg'],
-        		['Netro Life Radio (CZ)', 'https://icecast9.play.cz/netro-life-radio.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/netro-10.jpg']
+['FRESH rádio (SK)', 'https://freeuk23.listen2myradio.com/live.mp3?typeportmount=s2_9428_stream_641462344', 'https://i46.servimg.com/u/f46/19/40/01/67/fresh10.jpg],
+['Comedy Club R@dio Diana (CZ)', 'https://westradio.cz/radio/8010/radio.mp3?1607941293', 'https://i46.servimg.com/u/f46/19/40/01/67/diana_10.jpg],
+['DNBTV.cz Rádio (CZ)', 'https://ice6.abradio.cz/dnbtv128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/dnbtv_10.jpg'],
+['Radio Lovemusic (CZ)', 'http://solid55.streamupsolutions.com:32053/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/lm_rad10.jpg'],
+['Rádio B (CZ)', 'https://n08.radiojar.com/9nayamd31tzuv?rj-ttl=5&rj-tok=AAABd1PLbWIACaXPhLOco5Al0w', 'https://i46.servimg.com/u/f46/19/40/01/67/becko10.jpg'],
+['Bikers Radio Doupě (CZ)', 'http://icecast7.play.cz/bikersradiodoupe128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/bikers10.jpg'],
+['Rádio Cyp (CZ)', 'http://radio.radiocyp.cz:8000/;stream.nsv', 'https://i46.servimg.com/u/f46/19/40/01/67/radioc11.jpg'],
+['Rádio Play (CZ)', 'http://hydra.shoutca.st:8271/play', 'https://i46.servimg.com/u/f46/19/40/01/67/radiop12.jpg'],
+['DAT Radio (CZ)', 'https://cast.beatzone.cz/radio/8110/radio.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/datrad10.jpg'],
+['Atom FM (CZ)', 'http://212.84.160.187:4521/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/atomfm10.jpg'],
+['Netro Life Radio (CZ)', 'https://icecast9.play.cz/netro-life-radio.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/netro-10.jpg']
                ]
 
         if self.opt2 == '':
