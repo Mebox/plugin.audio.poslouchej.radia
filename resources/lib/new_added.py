@@ -39,13 +39,6 @@ class Main:
                         ['Radio Lovemusic (CZ)', 'http://solid55.streamupsolutions.com:32053/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/lm_rad10.jpg'],
                         ['Rádio B (CZ)', 'https://n08.radiojar.com/9nayamd31tzuv?rj-ttl=5&rj-tok=AAABd1PLbWIACaXPhLOco5Al0w', 'https://i46.servimg.com/u/f46/19/40/01/67/becko10.jpg'],
                         ['Bikers Radio Doupě (CZ)', 'http://icecast7.play.cz/bikersradiodoupe128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/bikers10.jpg'],
-                        ['tvojeRADIO.com Dance (SK)', 'https://radioserver.online:9816/dance.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiot13.jpg'],
-			['tvojeRADIO.com Gold 80/90 (SK)', 'https://radioserver.online:9816/gold.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiot14.jpg'],
-			['tvojeRADIO.com Hip-Hop (SK)', 'https://radioserver.online:9816/hiphop.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radioh10.jpg'],
-			['tvojeRADIO.com Lovesongs (SK)', 'https://radioserver.online:9816/pohoda.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiot15.jpg'],
-			['tvojeRADIO.com Pophits (SK)', 'https://radioserver.online:9816/pophits.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiot16.jpg'],
-			['tvojeRADIO.com SK/CZ (SK)', 'https://radioserver.online:9816/skcz.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiot12.jpg'],
-			['tvojeRADIO.com Repete (SK)', 'https://radioserver.online:9816/repete.mp3', 'https://i11.servimg.com/u/f11/19/40/01/67/radiot11.jpg'],
                         ['FRESH rádio (SK)', 'https://freeuk23.listen2myradio.com/live.mp3?typeportmount=s2_9428_stream_641462344', 'https://i46.servimg.com/u/f46/19/40/01/67/fresh10.jpg']
                 ]
 
