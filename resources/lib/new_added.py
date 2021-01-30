@@ -32,8 +32,8 @@ class Main:
         self = selfGet
     
         list = [
-['FRESH rádio (SK)', 'https://freeuk23.listen2myradio.com/live.mp3?typeportmount=s2_9428_stream_641462344', 'https://i46.servimg.com/u/f46/19/40/01/67/fresh10.jpg],
-['Comedy Club Radio Diana (CZ)', 'https://westradio.cz/radio/8010/radio.mp3?1607941293', 'https://i46.servimg.com/u/f46/19/40/01/67/diana_10.jpg],
+['FRESH rádio (SK)', 'https://freeuk23.listen2myradio.com/live.mp3?typeportmount=s2_9428_stream_641462344', 'https://i46.servimg.com/u/f46/19/40/01/67/fresh10.jpg'],
+['Comedy Club R@dio Diana (CZ)', 'https://westradio.cz/radio/8010/radio.mp3?1607941293', 'https://i46.servimg.com/u/f46/19/40/01/67/diana_10.jpg'],
 ['DNBTV.cz Rádio (CZ)', 'https://ice6.abradio.cz/dnbtv128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/dnbtv_10.jpg'],
 ['Radio Lovemusic (CZ)', 'http://solid55.streamupsolutions.com:32053/stream', 'https://i46.servimg.com/u/f46/19/40/01/67/lm_rad10.jpg'],
 ['Rádio B (CZ)', 'https://n08.radiojar.com/9nayamd31tzuv?rj-ttl=5&rj-tok=AAABd1PLbWIACaXPhLOco5Al0w', 'https://i46.servimg.com/u/f46/19/40/01/67/becko10.jpg'],
