@@ -47,7 +47,7 @@ class Main:
             ['Antenne Bayern Fresh', 'http://channels.webradio.antenne.de/fresh', 'https://i62.servimg.com/u/f62/19/40/01/67/antenn11.jpg'],
             ['Antenne Bayern Classic Rock', 'http://mp3channels.webradio.antenne.de/classic-rock-live', 'https://i62.servimg.com/u/f62/19/40/01/67/antenn13.jpg'],
             ['Antenne Bayern Oldies but Goldies', 'http://mp3channels.webradio.antenne.de/oldies-but-goldies', 'https://i62.servimg.com/u/f62/19/40/01/67/antena13.jpg'],
-          # ['Antenne Bayern Chillout', 'http://mp3channels.webradio.antenne.de/chillout', 'https://i62.servimg.com/u/f62/19/40/01/67/antena14.jpg'],# deprecated
+            ['Antenne Bayern Chillout', 'http://mp3channels.webradio.antenne.de/chillout', 'https://i62.servimg.com/u/f62/19/40/01/67/antena14.jpg'],
             ['Disco Party Radio', 'http://stream.laut.fm/-z-i-s-c-o-party-70s-80s', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_33.jpg'],
             ['FFH Digital', 'http://mp3.ffh.de/radioffh/hqlivestream.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/ffh_di10.jpg'],
             ['FFH Eurodance', 'http://mp3.ffh.de/ffhchannels/hqeurodance.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/ffh_di11.jpg'],
