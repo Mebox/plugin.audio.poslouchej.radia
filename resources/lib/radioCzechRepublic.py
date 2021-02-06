@@ -206,7 +206,7 @@ class Main:
 			['Undergroundradio', 'http://icecast2.play.cz/Underground128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/underg10.png'],
 			['VPV rádio', 'http://88.99.38.244:8000/stream128.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/radiov10.jpg'],
 			['West Radio', 'https://node-16.zeno.fm/y6gyh7gg6heuv?rj-ttl=5&rj-tok=AAABcQ1G1YUAMgmz_r2kci4pLg', 'https://i46.servimg.com/u/f46/19/40/01/67/west-r10.jpg'],
-        		['ZFK radio', 'https://node-14.zeno.fm/ere0xqyp5tzuv?rj-ttl=5&rj-tok=AAABdLZ6x3IA9OoWzVY9uWV6mg', 'https://i46.servimg.com/u/f46/19/40/01/67/c17544.png'],
+        	       #['ZFK radio', 'https://node-14.zeno.fm/ere0xqyp5tzuv?rj-ttl=5&rj-tok=AAABdLZ6x3IA9OoWzVY9uWV6mg', 'https://i46.servimg.com/u/f46/19/40/01/67/c17544.png'],# deprecated
 			['Známka Punku', 'http://ice.abradio.cz/znamkapunku128.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/znamen10.png'],
 			]
         
