@@ -30,7 +30,5 @@ Zpravodajský - 21 stanic<br>
 <b>Oblíbené</b><br>
 10 nejpopulárnějších SK stanic<br>
 10 nejpopulárnějších CZ stanic<br>
-Top 10 Mebox<br>
-Top 10 Gante<br>
 <b>Nejnovější přidané rádia</b><br>
 Novinky - 10 stanic</p>
