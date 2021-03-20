@@ -1,0 +1,109 @@
+# Kodi Media Center language file
+# Addon Name: Poslouchej radia
+# Addon id: plugin.audio.poslouchej.radia
+# Addon Provider: mebox & ma_sk
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.audio.poslouchej.radia\n"
+"Report-Msgid-Bugs-To: https://github.com/Mebox/plugin.audio.poslouchej.radia\n"
+"POT-Creation-Date: 2017-07-24 16:15+0000\n"
+"PO-Revision-Date: 2020-08-10 00:40+0000\n"
+"Last-Translator: mebox(ma_sk)\n"
+"Language-Team: Czech (Czech Republic)\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+
+msgctxt "#30001"
+msgid "Countries"
+msgstr "Státy"
+
+msgctxt "#30002"
+msgid "Slovak radios"
+msgstr "Slovenské rádia"
+
+msgctxt "#30003"
+msgid "Czech radios"
+msgstr "České rádia"
+
+
+msgctxt "#30004"
+msgid "England radios"
+msgstr "Anglické rádia"
+
+msgctxt "#30005"
+msgid "American radios"
+msgstr "Americké rádia"
+
+msgctxt "#30006"
+msgid "France radios"
+msgstr "Francouzské rádia"
+
+msgctxt "#30007"
+msgid "Netherland radios"
+msgstr "Holandské rádia"
+
+
+msgctxt "#30008"
+msgid "Deutschland radios"
+msgstr "Německé rádia"
+
+msgctxt "#30009"
+msgid "Poland radios"
+msgstr "Polské rádia"
+
+msgctxt "#30010"
+msgid "Austria radios"
+msgstr "Rakouské rádia"
+
+msgctxt "#30011"
+msgid "Russian radios"
+msgstr "Ruské rádia"
+
+
+msgctxt "#30012"
+msgid "Spoken word"
+msgstr "Mluvené slovo"
+
+msgctxt "#30013"
+msgid "Relax/Classic/Brass Band"
+msgstr "Relax/Klasika/Dechovka"
+
+msgctxt "#30014"
+msgid "Solo For ..."
+msgstr "Sólo Pro ..."
+
+msgctxt "#30015"
+msgid "News"
+msgstr "Zpravodajské"
+
+msgctxt "#30016"
+msgid "Genres"
+msgstr "Žánr"
+
+msgctxt "#30017"
+msgid "Favourites"
+msgstr "Oblíbené"
+
+msgctxt "#30018"
+msgid "New added radios"
+msgstr "Najnovější přidané rádia"
+
+msgctxt "#30019"
+msgid "Add to my Fav"
+msgstr "Přidat moje oblíbené"
+
+msgctxt "#30020"
+msgid "Delete from my Fav"
+msgstr "Odstránit ze seznamu"
+
+msgctxt "#30021"
+msgid "My favourites"
+msgstr "Moje oblíbené"
+
+msgctxt "#30022"
+msgid "Check your internet connection"
+msgstr "Skontrolujte internetové připojení"

@@ -1,0 +1,1 @@
+apiUrl = 'https://moj-dennik.eu/api/'
