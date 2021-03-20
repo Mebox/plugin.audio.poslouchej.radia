@@ -1,9 +1,9 @@
 version: "1"
 rules:
   - base: master
-    upstream: waladir:master
+    upstream: mebox:master
     mergeMethod: hardreset
   - base: leia
-    upstream: waladir:leia
+    upstream: mebox:leia
     mergeMethod: hardreset
 
