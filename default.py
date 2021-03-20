@@ -7,9 +7,9 @@ import xbmcaddon
 import os
 import sys
 import re
-import urllib
-import urllib2
-import cookielib
+
+
+
 
 __addon__           = xbmcaddon.Addon()
 __addon_id__        = __addon__.getAddonInfo('id')
@@ -38,8 +38,6 @@ class Radio:
         else:
             self.opt2 = optMatches2[0]
 
-
-
         if self.opt == 'cz':
             import radioCzechRepublic as start
         elif self.opt == 'new':
@@ -50,10 +48,6 @@ class Radio:
             import favouriteCZ as start
         elif self.opt == 'topSK':
             import favouriteSK as start
-	elif self.opt == 'topmebox':
-            import favouriteMebox as start
-	elif self.opt == 'topgante':
-            import favouriteGante as start
         elif self.opt == 'fr':
             import radioFrance as start
         elif self.opt == 'nl':
@@ -92,15 +86,16 @@ class Radio:
             import stylmluveneslovo as start
         elif self.opt == 'zp':
             import stylzpravodajsky as start
-	elif self.opt == 'cou':
+        elif self.opt == 'cou':
             import countries as start
-	elif self.opt == 'fav':
+        elif self.opt == 'fav':
             import favourites as start
-	elif self.opt == 'gen':
+        elif self.opt == 'gen':
             import genres as start
+        elif self.opt == 'mf':
+            import myFav as start
         else:
             import radioMenu as start
 
         start.Main().start(self)
-
 Radio()

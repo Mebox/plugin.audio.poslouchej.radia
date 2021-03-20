@@ -54,12 +54,10 @@
        <setting id="stylzpravodajsky" type="bool" label="30015" default="true"/>
     </category>
     <category label="30017">
+        <setting id="myFav" type="bool" label="30021" default="true"/>
+	   <setting type="sep" />
        <setting id="favourite_SK" type="bool" label="Top 10 SK" default="true"/>
 	   <setting type="sep" />
        <setting id="favourite_CZ" type="bool" label="Top 10 CZ" default="true"/>
-	   <setting type="sep" />
-       <setting id="top_mebox" type="bool" label="Top 10 Mebox" default="true"/>
-	   <setting type="sep" />
-       <setting id="top_gante" type="bool" label="Top 10 Gante" default="true"/>
     </category>
 </settings>
