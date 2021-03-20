@@ -66,6 +66,3 @@ class Main:
         except requests.exceptions.RequestException as e:
             dialog = xbmcgui.Dialog()
             ok = dialog.ok(__addonname__, __addon__.getLocalizedString(30022))
-
-
-

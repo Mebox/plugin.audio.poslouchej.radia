@@ -13,6 +13,25 @@
   </requires>
   <extension point='xbmc.python.pluginsource' library='default.py'>
         <provides>audio</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Poslouchej rádia podle vlastního výběru</summary>
+        <description lang="en">Addon allows you to listen Slovak , Czech and World radio stations.</description>
+        <description lang="sk">Doplnok umožňuje počúvať Slovenské , České a Zahraničné rozhlasové stanice.</description>
+        <description lang="cs">Doplněk umožňuje poslouchat Slovenské , České a Zahraniční rozhlasové stanice.</description>
+        <disclaimer lang="cz">Autor tohoto addonu nemá žádný obsah, který se v něm nachází a nemá žádnou příslušnost k poskytovateli obsahu. Používejte na vlastní riziko!</disclaimer>
+        <disclaimer lang="sk">Autor tohto addon nemá žiadny obsah, ktorý sa v ňom nachádza a nemá žiadnu príslušnosť k poskytovateľovi obsahu. Používajte na vlastné riziko!</disclaimer>
+                <disclaimer lang="en">The author of this addon has no content in it and no content provider. Use at your own risk!</disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <news>
+1.2.5
+      Nová verzia pre Matrix
+      Možnosť vytvoriť zoznam svojich obľúbených staníc
+    </news>
   </extension>
   <extension point='xbmc.addon.metadata'><summary lang='cz'>Poslouchej rádia podle vlastního výběru</summary>
     <summary lang='cz'>Poslouchej rádia podle vlastního výběru</summary>

@@ -16,7 +16,6 @@ __addondir__ = xbmc.translatePath(__addon__.getAddonInfo('profile'))
 __userDataFolder__ = xbmc.translatePath("special://profile/addon_data/")
 
 if __name__ == '__main__':
-    xbmc.log('good')
     message = "Stanica: '{}'".format(sys.listitem.getLabel())
     xbmcgui.Dialog().notification("Úspešne dstránená!", message)
 

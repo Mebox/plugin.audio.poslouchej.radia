@@ -1,0 +1,9 @@
+version: "1"
+rules:
+  - base: master
+    upstream: Mebox:master
+    mergeMethod: hardreset
+  - base: leia
+    upstream: Mebox:leia
+    mergeMethod: hardreset
+

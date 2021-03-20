@@ -31,6 +31,5 @@ if __name__ == '__main__':
     with open(__userDataFolder__ + 'myFav.json', 'w+') as outfile:
         json.dump(old_data, outfile)
 
-    xbmc.log('good')
     message = "Stanica: '{}'".format(sys.listitem.getLabel())
     xbmcgui.Dialog().notification("Pridané medzi obľúbené!", message)
