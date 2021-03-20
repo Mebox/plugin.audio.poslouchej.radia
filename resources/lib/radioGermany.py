@@ -71,7 +71,35 @@ class Main:
             ['N-Joy', 'https://ndr-njoy-live.sslcast.addradio.de/ndr/njoy/live/mp3/128/stream.mp3', 'https://i62.servimg.com/u/f62/19/40/01/67/njoy10.jpg'],
             ['Radio On Disco', 'https://0n-disco.radionetz.de/0n-disco.mp3', 'https://i46.servimg.com/u/f46/19/40/01/67/radio_32.jpg']
 
+<<<<<<< Updated upstream
             ]
+=======
+        def test(self, selfGet):
+            listitem = xbmcgui.ListItem()
+            listitem.setArt({'fanart': __addonpath__ + '//' + 'fanart.jpg'})
+            listitem.setProperty("IsPlayable", "true")
+            if self.opt2 == '':
+                i = 0
+
+                for element in data['stanice']:
+                    listitem.setLabel(element['nazov'])
+                    listitem.setArt({'clearLogo': element['url']})
+                    listitem.setArt({'icon': element['img']})
+                    listitem.setArt({'poster': element['img']})  # for KODI < MATRIX
+                    xbmcplugin.addDirectoryItem(handle=int(sys.argv[1]), url=sys.argv[0] + '?ger_' + str(i),
+                                                listitem=listitem, isFolder=True)
+                    i = i + 1
+                xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+            else:
+
+                Title = data['stanice'][int(self.opt2)]['nazov']
+                Icon = data['stanice'][int(self.opt2)]['img']
+                URL = data['stanice'][int(self.opt2)]['url']
+
+                import radioPlayer as player
+                player.Main().start(Title, Icon, URL)
+>>>>>>> Stashed changes
 
         if self.opt2 == '':
             i = 0

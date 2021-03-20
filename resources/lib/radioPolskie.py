@@ -98,6 +98,7 @@ class Main:
             ['RMF Radiofonia', 'http://rmfon.pl/n/radiofonia.pls', 'https://i46.servimg.com/u/f46/19/40/01/67/c17587.png']
             ]
 
+<<<<<<< Updated upstream
         if self.opt2 == '':
             i = 0
             for key in list:
@@ -120,3 +121,40 @@ class Main:
             import radioPlayer as player
             player.Main().start(Title, Icon, URL)
             
+=======
+        def test(self, selfGet):
+            listitem = xbmcgui.ListItem()
+            listitem.setArt({'fanart': __addonpath__ + '//' + 'fanart.jpg'})
+            listitem.setProperty("IsPlayable", "true")
+            if self.opt2 == '':
+                i = 0
+
+                for element in data['stanice']:
+                    listitem.setLabel(element['nazov'])
+                    listitem.setArt({'clearLogo': element['url']})
+                    listitem.setArt({'icon': element['img']})
+                    listitem.setArt({'poster': element['img']})  # for KODI < MATRIX
+                    xbmcplugin.addDirectoryItem(handle=int(sys.argv[1]), url=sys.argv[0] + '?pl_' + str(i),
+                                                listitem=listitem, isFolder=True)
+                    i = i + 1
+                xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+            else:
+
+                Title = data['stanice'][int(self.opt2)]['nazov']
+                Icon = data['stanice'][int(self.opt2)]['img']
+                URL = data['stanice'][int(self.opt2)]['url']
+
+                import radioPlayer as player
+                player.Main().start(Title, Icon, URL)
+
+        url = apiUrl.apiUrl + 'getPOL'
+        try:
+            response = requests.get(url)
+            values = json.loads(response.content.decode('utf-8'))
+            data = values
+            test(self, selfGet)
+        except requests.exceptions.RequestException as e:
+            dialog = xbmcgui.Dialog()
+            ok = dialog.ok(__addonname__, __addon__.getLocalizedString(30022))
+>>>>>>> Stashed changes
