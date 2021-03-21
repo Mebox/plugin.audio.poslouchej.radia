@@ -5,30 +5,30 @@
 <p align="center">Kodi plugin umožňující poslouchat České, Slovenské a Zahraniční rozhlasové stanice.<br>
 
 <p align="center"><b> Státy</b><br>
-Slovenské rádia - 63 stanic<br>
-České rádia 177 stanic<br>
-Anglické rádia - 19 stanic<br>
-Americké rádia - 58 stanic<br>
-Francouzské rádia - 10 stanic<br>
-Holandské rádia - 18 stanic<br>
-Německé rádia - 39 stanic<br>
-Polské rádia - 65 stanic<br>
+Slovenské rádia - 68 stanic<br>
+České rádia 173 stanic<br>
+Anglické rádia - 17 stanic<br>
+Americké rádia - 52 stanic<br>
+Francouzské rádia - 8 stanic<br>
+Holandské rádia - 14 stanic<br>
+Německé rádia - 38 stanic<br>
+Polské rádia - 1 stanic<br>
 Rakouské rádia - 24 stanic<br>
-Ruské rádia - 22 stanic<br>
+Ruské rádia - 21 stanic<br>
 <b>Žánry</b><br>
-Dance/Electronica - 53 stanic<br>
-Folk/Country - 7 stanic<br>
+Dance/Electronica - 46 stanic<br>
+Folk/Country - 8 stanic<br>
 Jazz/Blues/Soul - 8 stanic<br>
-Mluvené Slovo - 10 stanic<br>
-Oldies - 58 stanic<br>
-Pop - 98 stanic<br>
-Relax/Klasika/Dechovka - 26 stanic<br>
+Mluvené Slovo - 11 stanic<br>
+Oldies - 48 stanic<br>
+Pop - 99 stanic<br>
+Relax/Klasika/Dechovka - 25 stanic<br>
 RnB/Hip Hop/Reggae  - 7 stanic<br>
-Rock/Metal - 37 stanic<br>
+Rock/Metal - 40 stanic<br>
 Solo Pro ... - 5 stanic<br>
 Zpravodajský - 21 stanic<br>
 <b>Oblíbené</b><br>
 10 nejpopulárnějších SK stanic<br>
 10 nejpopulárnějších CZ stanic<br>
 <b>Nejnovější přidané rádia</b><br>
-Novinky - 10 stanic</p>
+Novinky - 6 stanic</p>
