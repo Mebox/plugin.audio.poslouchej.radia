@@ -22,6 +22,13 @@ if __name__ == '__main__':
 
     with open(__userDataFolder__ + 'myFav.json') as data_file:
         old_data = json.load(data_file)
+    #control if station is in list -leia
+    dicts = old_data['stanice']
+
+    for e in range(len(dicts) - 1, -1, -1):
+        if dicts[e]['img'] == sys.listitem.getArt('poster').decode('utf-8'):
+            dicts.pop(e)
+    old_data['stanice'] = dicts
 
     z = {"nazov": "" + sys.listitem.getLabel() + "", "url": "" + sys.listitem.getArt('clearlogo') + "",
          "img": "" + sys.listitem.getArt('poster') + ""}
