@@ -3,7 +3,7 @@
   <img width="150" height="150" src="https://i46.servimg.com/u/f46/19/40/01/67/icon11.png">
 </p>
 <p align="center">Kodi plugin umožňující poslouchat České, Slovenské a Zahraniční rozhlasové stanice.<br>
-</p>
+<p align="center">
 aktualizace databáze 23.3.2021
 </p>
 <p align="center"><b> Státy</b><br>
