@@ -1,5 +1,11 @@
 # coding=utf-8
-
+"""
+ *  Copyright (C) 2021 Mario Babinec (mr.babinec@gmail.com)
+ *  This file is part of plugin.audio.poslouchej.radia
+ *
+ *  SPDX-License-Identifier: GPL-2.0-only
+ *  See LICENSE.txt for more information.
+"""
 import sys
 import xbmc
 import xbmcaddon
@@ -7,14 +13,11 @@ import xbmcgui
 import os
 import json
 
-__addon__ = xbmcaddon.Addon()
-__addon_id__ = __addon__.getAddonInfo('id')
+__addon__ = xbmcaddon.Addon(id='plugin.audio.poslouchej.radia')
 __addonname__ = __addon__.getAddonInfo('name')
-__icon__ = __addon__.getAddonInfo('icon')
-__addonpath__ = xbmc.translatePath(__addon__.getAddonInfo('path'))
-__addondir__ = xbmc.translatePath(__addon__.getAddonInfo('profile'))
+__lang__ = __addon__.getLocalizedString
+__userDataFolder__ = xbmc.translatePath("special://profile/addon_data/plugin.audio.poslouchej.radia/")
 
-__userDataFolder__ = xbmc.translatePath("special://profile/addon_data/")
 
 if __name__ == '__main__':
     if not os.path.exists(__userDataFolder__ + 'myFav.json'):
@@ -22,18 +25,19 @@ if __name__ == '__main__':
 
     with open(__userDataFolder__ + 'myFav.json') as data_file:
         old_data = json.load(data_file)
-    #control if station is in list -leia
+
+    # control if station is in list -leia
     dicts = old_data['stanice']
 
     for e in range(len(dicts) - 1, -1, -1):
-        if dicts[e]['img'] == sys.listitem.getArt('poster').decode('utf-8'):
+        if dicts[e]['nazov'] == sys.listitem.getLabel().decode('utf-8'):
             dicts.pop(e)
     old_data['stanice'] = dicts
 
-    z = {"nazov": "" + sys.listitem.getLabel() + "", "url": "" + sys.listitem.getArt('clearlogo') + "",
-         "img": "" + sys.listitem.getArt('poster') + ""}
+    z = {"nazov": "" + sys.listitem.getLabel() + "", "url": "" + sys.listitem.getPath() + "",
+         "img": "" + sys.listitem.getArt('fanart') + "", "is_custom": "0"}
 
-    added = old_data['stanice'].append(z)
+    old_data['stanice'].append(z)
 
     with open(__userDataFolder__ + 'myFav.json', 'w+') as outfile:
         json.dump(old_data, outfile)

@@ -1,109 +1,178 @@
 # Kodi Media Center language file
 # Addon Name: Poslouchej radia
 # Addon id: plugin.audio.poslouchej.radia
-# Addon Provider: mebox & ma_sk
+# Addon Provider: Mario Babinec
 msgid ""
 msgstr ""
-"Project-Id-Version: plugin.audio.poslouchej.radia\n"
-"Report-Msgid-Bugs-To: https://github.com/Mebox/plugin.audio.poslouchej.radia\n"
-"POT-Creation-Date: 2017-07-24 16:15+0000\n"
-"PO-Revision-Date: 2020-08-10 00:40+0000\n"
-"Last-Translator: majko96(ma_sk)\n"
-"Language-Team: Slovak (Slovak Republic)\n"
-"Language: sk_SK\n"
+"Project-Id-Version: Kodi Addons\n"
+"Report-Msgid-Bugs-To: https://www.xbmc-kodi.cz/prispevek-poslouchej-radio-doplnek/\n"
+"POT-Creation-Date: 2021-03-21 16:14+0400\n"
+"PO-Revision-Date: 2021-03-24 12:08+0100\n"
+"Last-Translator: majko96\n"
+"Language-Team: Slovak Team\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: sk_SK\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-
+"X-Generator: Poedit 2.3\n"
 
 msgctxt "#30001"
-msgid "Countries"
-msgstr "Štáty"
+msgid "States"
+msgstr ""
 
 msgctxt "#30002"
-msgid "Slovak radios"
-msgstr "Slovenské rádia"
+msgid "Genres"
+msgstr ""
 
 msgctxt "#30003"
-msgid "Czech radios"
-msgstr "České rádia"
-
+msgid "Favourites"
+msgstr ""
 
 msgctxt "#30004"
-msgid "England radios"
-msgstr "Anglické rádia"
+msgid "Newest added"
+msgstr ""
 
 msgctxt "#30005"
-msgid "American radios"
-msgstr "Americké rádia"
+msgid "Slovak radios"
+msgstr ""
 
 msgctxt "#30006"
-msgid "France radios"
-msgstr "Francúzske rádia"
+msgid "Czech radios"
+msgstr ""
 
 msgctxt "#30007"
-msgid "Netherland radios"
-msgstr "Holandské rádia"
-
+msgid "Great Britain radios"
+msgstr ""
 
 msgctxt "#30008"
-msgid "Deutschland radios"
-msgstr "Nemecké rádia"
+msgid "American radios"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Poland radios"
-msgstr "Poľské rádia"
+msgid "France radios"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Austria radios"
-msgstr "Rakúske rádia"
+msgid "Netherlands radios"
+msgstr ""
 
 msgctxt "#30011"
-msgid "Russian radios"
-msgstr "Ruské rádia"
-
+msgid "Germany radios"
+msgstr ""
 
 msgctxt "#30012"
-msgid "Spoken word"
-msgstr "Hovorené slovo"
+msgid "Poland radiosh"
+msgstr ""
 
 msgctxt "#30013"
-msgid "Relax/Classic/Brass Band"
-msgstr "Relax/Klasika/Dychovka"
+msgid "Austrian radios"
+msgstr ""
 
 msgctxt "#30014"
-msgid "Solo For ..."
-msgstr "Sólo Pre ..."
+msgid "Russian radios"
+msgstr ""
 
 msgctxt "#30015"
-msgid "News"
-msgstr "Spravodajský"
+msgid "Dance/Electronica"
+msgstr ""
 
 msgctxt "#30016"
-msgid "Genres"
-msgstr "Žánre"
+msgid "Folk/Country"
+msgstr ""
 
 msgctxt "#30017"
-msgid "Favourites"
-msgstr "Obľúbené"
+msgid "Jazz/Blues/Soul"
+msgstr ""
 
 msgctxt "#30018"
-msgid "New added radios"
-msgstr "Najnovšie pridané rádia"
+msgid "Spoken word"
+msgstr ""
 
 msgctxt "#30019"
-msgid "Add to my Fav"
-msgstr "Pridať medzi moje obľúbené"
+msgid "Oldies"
+msgstr ""
 
 msgctxt "#30020"
-msgid "Delete from my Fav"
-msgstr "Odstrániť zo zoznamu"
+msgid "Pop"
+msgstr ""
 
 msgctxt "#30021"
-msgid "My favourites"
-msgstr "Moje obľúbené"
+msgid "Relax/Klasika/Dychovka"
+msgstr ""
 
 msgctxt "#30022"
-msgid "Check your internet connection"
-msgstr "Check your internet connection"
+msgid "RnB/Hip Hop/Reggae"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Rock/Metal"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Solo for..."
+msgstr ""
+
+msgctxt "#30025"
+msgid "News"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Add to my favourites"
+msgstr ""
+
+msgctxt "#30027"
+msgid "Remove"
+msgstr ""
+
+msgctxt "#30028"
+msgid "My list"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Please control internet connection"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Add custom station..."
+msgstr ""
+
+msgctxt "#30031"
+msgid "Not successful"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Insert name station"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Added to my lists"
+msgstr ""
+
+msgctxt "#30034"
+msgid "Edit"
+msgstr ""
+
+msgctxt "#30601"
+msgid "General"
+msgstr ""
+
+msgctxt "#30602"
+msgid "Hide fanart"
+msgstr ""
+
+msgctxt "#30603"
+msgid "Insert "
+msgstr ""
+
+msgctxt "#30604"
+msgid "station name"
+msgstr ""
+
+msgctxt "#30605"
+msgid "url address of stream"
+msgstr ""
+
+msgctxt "#30606"
+msgid "url address of image"
+msgstr ""
