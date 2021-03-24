@@ -1,46 +1,49 @@
-﻿<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<addon id='plugin.audio.poslouchej.radia'
-       name='Poslouchej Rádia'
-       version='1.2.5'
-       provider-name='mebox a ma_sk'>
-  <requires>
-    <import addon='xbmc.python' version='3.0.0' />
-    <import addon="script.module.certifi" version="2019.11.28"/>
-    <import addon="script.module.chardet" version="3.0.4"/>
-    <import addon="script.module.idna" version="2.8.1"/>
-    <import addon="script.module.urllib3" version="1.25.8"/>
-    <import addon="script.module.requests" version="2.9.1"/>
-  </requires>
-  <extension point='xbmc.python.pluginsource' library='default.py'>
+<addon id="plugin.audio.poslouchej.radia" name="Poslouchej Rádia" provider-name="ma_sk a mebox" version="2.0.0">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+        <import addon="script.module.xbmcswift2" version="19.0.5"/>
+        <import addon="script.module.certifi" version="2019.11.28"/>
+       <import addon="script.module.chardet" version="3.0.4"/>
+       <import addon="script.module.idna" version="2.8.1"/>
+       <import addon="script.module.urllib3" version="1.25.8"/>
+       <import addon="script.module.requests" version="2.9.1"/>
+    </requires>
+    <extension library="addon.py" point="xbmc.python.pluginsource">
         <provides>audio</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+    <source>https://github.com/Mebox/plugin.audio.poslouchej.radia</source>
+    <forum>https://www.xbmc-kodi.cz/prispevek-poslouchej-radio-doplnek</forum>
+        <license>GPL-2.0-only</license>
         <summary>Poslouchej rádia podle vlastního výběru</summary>
         <description lang="en">Addon allows you to listen Slovak , Czech and World radio stations.</description>
         <description lang="sk">Doplnok umožňuje počúvať Slovenské , České a Zahraničné rozhlasové stanice.</description>
         <description lang="cs">Doplněk umožňuje poslouchat Slovenské , České a Zahraniční rozhlasové stanice.</description>
         <disclaimer lang="cz">Autor tohoto addonu nemá žádný obsah, který se v něm nachází a nemá žádnou příslušnost k poskytovateli obsahu. Používejte na vlastní riziko!</disclaimer>
         <disclaimer lang="sk">Autor tohto addon nemá žiadny obsah, ktorý sa v ňom nachádza a nemá žiadnu príslušnosť k poskytovateľovi obsahu. Používajte na vlastné riziko!</disclaimer>
-                <disclaimer lang="en">The author of this addon has no content in it and no content provider. Use at your own risk!</disclaimer>
-        <platform>all</platform>
+        <disclaimer lang="en">The author of this addon has no content in it and no content provider. Use at your own risk!</disclaimer>
+        <news>
+            2.0.0 (24.3.2021)
+            Nová verzia addonu
+            Novinky:
+               - možnosť vytvoriť vlastný zoznam obľúbených staníc
+               - možnosť pridať vlastnú rádiovú stanicu do doplnku
+               - odstránené staré bugy (zvlášte správanie addonu keď sa rádio pridalo do položky 'Obľúbené' a spustilo sa...)
+        </news>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
         </assets>
-        <news>
-1.2.5
-      Nová verzia pre Matrix
-      Možnosť vytvoriť zoznam svojich obľúbených staníc
-    </news>
-  </extension>
+    </extension>
     <extension point="kodi.context.item">
   <menu id="kodi.core.main">
     <item library="addToFav.py">
-      <label>30019</label>
-      <visible>ListItem.Property(IsPlayable)</visible>
+      <label>30026</label>
+      <visible>ListItem.Property(IsSpecial)</visible>
     </item>
     <item library="removeFav.py">
-      <label>30020</label>
+      <label>30027</label>
       <visible>ListItem.Property(IsPlaylist)</visible>
     </item>
   </menu>
