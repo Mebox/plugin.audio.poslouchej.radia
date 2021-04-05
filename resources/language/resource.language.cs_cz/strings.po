@@ -163,7 +163,7 @@ msgstr "Skrýt fanart"
 
 msgctxt "#30603"
 msgid "Insert "
-msgstr "zadejte"
+msgstr "Zadejte "
 
 msgctxt "#30604"
 msgid "station name"
