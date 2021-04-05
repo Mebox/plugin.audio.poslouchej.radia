@@ -1,4 +1,4 @@
-<addon id="plugin.audio.poslouchej.radia" name="Poslouchej Rádia" provider-name="ma_sk a mebox" version="2.0.0">
+<addon id="plugin.audio.poslouchej.radia" name="Poslouchej Rádia" provider-name="ma_sk a mebox" version="2.0.1">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.xbmcswift2" version="19.0.5"/>
@@ -24,6 +24,10 @@
         <disclaimer lang="sk">Autor tohto addon nemá žiadny obsah, ktorý sa v ňom nachádza a nemá žiadnu príslušnosť k poskytovateľovi obsahu. Používajte na vlastné riziko!</disclaimer>
         <disclaimer lang="en">The author of this addon has no content in it and no content provider. Use at your own risk!</disclaimer>
         <news>
+            2.0.1 (5.4.2021)
+            Novinky:
+               - přidaný český překlad
+
             2.0.0 (24.3.2021)
             Nová verzia addonu
             Novinky:
