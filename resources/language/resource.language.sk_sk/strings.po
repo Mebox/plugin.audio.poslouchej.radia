@@ -55,7 +55,7 @@ msgstr "Francúzsko"
 
 msgctxt "#30010"
 msgid "Netherlands radios"
-msgstr "Holadnsko"
+msgstr "Holandsko"
 
 msgctxt "#30011"
 msgid "Germany radios"
