@@ -19,59 +19,59 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "States"
-msgstr "Štáty"
+msgstr "Státy"
 
 msgctxt "#30002"
 msgid "Genres"
-msgstr "Žánre"
+msgstr "Žánry"
 
 msgctxt "#30003"
 msgid "Favourites"
-msgstr "Obľúbené"
+msgstr "Oblíbené"
 
 msgctxt "#30004"
 msgid "Newest added"
-msgstr "Najnovšie pridané"
+msgstr "Nově přidané"
 
 msgctxt "#30005"
 msgid "Slovak radios"
-msgstr "Slovensko"
+msgstr "Slovenská rádia"
 
 msgctxt "#30006"
 msgid "Czech radios"
-msgstr "Česko"
+msgstr "Česká rádia"
 
 msgctxt "#30007"
 msgid "Great Britain radios"
-msgstr "Anglicko"
+msgstr "Anglická rádia"
 
 msgctxt "#30008"
 msgid "American radios"
-msgstr "Spojené štáty americké"
+msgstr "Americká rádia"
 
 msgctxt "#30009"
 msgid "France radios"
-msgstr "Francúzsko"
+msgstr "Francouzská rádia"
 
 msgctxt "#30010"
 msgid "Netherlands radios"
-msgstr "Holandsko"
+msgstr "Holandská rádia"
 
 msgctxt "#30011"
 msgid "Germany radios"
-msgstr "Nemecko"
+msgstr "Německá rádia"
 
 msgctxt "#30012"
 msgid "Poland radios"
-msgstr "Poľsko"
+msgstr "Polská rádia"
 
 msgctxt "#30013"
 msgid "Austrian radios"
-msgstr "Rakúsko"
+msgstr "Rakouská rádia"
 
 msgctxt "#30014"
 msgid "Russian radios"
-msgstr "Rusko"
+msgstr "Ruská rádia"
 
 msgctxt "#30015"
 msgid "Dance/Electronica"
@@ -87,7 +87,7 @@ msgstr "Jazz/Blues/Soul"
 
 msgctxt "#30018"
 msgid "Spoken word"
-msgstr "Hovorené slovo"
+msgstr "Mluvené slovo"
 
 msgctxt "#30019"
 msgid "Oldies"
@@ -99,7 +99,7 @@ msgstr "Pop"
 
 msgctxt "#30021"
 msgid "Relax/Klasika/Dychovka"
-msgstr "Relax/Klasika/Dychovka"
+msgstr "Relax/Klasika/Dechovka"
 
 msgctxt "#30022"
 msgid "RnB/Hip Hop/Reggae"
@@ -111,63 +111,63 @@ msgstr "Rock/Metal"
 
 msgctxt "#30024"
 msgid "Solo for..."
-msgstr "Sólo pre..."
+msgstr "Sólo Pro ..."
 
 msgctxt "#30025"
 msgid "News"
-msgstr "Spravodajský"
+msgstr "Zpravodajská"
 
 msgctxt "#30026"
 msgid "Add to my favourites"
-msgstr "Pridať do Môjho zoznamu"
+msgstr "Přidat do mého seznamu"
 
 msgctxt "#30027"
 msgid "Remove"
-msgstr "Vymazať"
+msgstr "Vymazat"
 
 msgctxt "#30028"
 msgid "My list"
-msgstr "Môj zoznam"
+msgstr "Můj seznam"
 
 msgctxt "#30029"
 msgid "Please control internet connection"
-msgstr "Prosím skontrolujte internetové pripojenie"
+msgstr "Prosím zkontrolujte internetové připojení"
 
 msgctxt "#30030"
 msgid "Add custom station..."
-msgstr "Pridať vlastnú stanicu..."
+msgstr "Přidat vlastní stanici..."
 
 msgctxt "#30031"
 msgid "Not successful"
-msgstr "Nepodarilo sa..."
+msgstr "Nepodařilo se..."
 
 msgctxt "#30032"
 msgid "Insert name station"
-msgstr "Zadajte názov stanice!"
+msgstr "Zadajte název stanice!"
 
 msgctxt "#30033"
 msgid "Added to my lists"
-msgstr "Pridané do môjho zoznamu!"
+msgstr "Přidané do mého seznamu!"
 
 msgctxt "#30034"
 msgid "Edit"
-msgstr "Upraviť"
+msgstr "Upravit"
 
 msgctxt "#30601"
 msgid "General"
-msgstr "Hlavné"
+msgstr "Hlavní"
 
 msgctxt "#30602"
 msgid "Hide fanart"
-msgstr "Skryť fanart"
+msgstr "Skrýt fanart"
 
 msgctxt "#30603"
 msgid "Insert "
-msgstr "Zadaj "
+msgstr "Zadejte "
 
 msgctxt "#30604"
 msgid "station name"
-msgstr "názov stanice"
+msgstr "název stanice"
 
 msgctxt "#30605"
 msgid "url address of stream"
@@ -175,4 +175,4 @@ msgstr "url adresu streamu"
 
 msgctxt "#30606"
 msgid "url address of image"
-msgstr "url adresu obrázka"
+msgstr "url adresu obrázku"
