@@ -62,7 +62,7 @@ msgid "Germany radios"
 msgstr "Nemecko"
 
 msgctxt "#30012"
-msgid "Poland radiosh"
+msgid "Poland radios"
 msgstr "Poľsko"
 
 msgctxt "#30013"
