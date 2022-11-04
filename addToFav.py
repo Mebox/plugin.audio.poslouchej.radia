@@ -30,7 +30,7 @@ if __name__ == '__main__':
     dicts = old_data['stanice']
 
     for e in range(len(dicts) - 1, -1, -1):
-        if dicts[e]['img'] == sys.listitem.getArt('icon'):
+        if dicts[e]['nazov'] == sys.listitem.getLabel():
             dicts.pop(e)
     old_data['stanice'] = dicts
 

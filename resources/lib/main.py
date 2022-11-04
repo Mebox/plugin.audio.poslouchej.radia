@@ -105,6 +105,11 @@ def show_states_menu():
          'path': plugin.url_for('show_rus_stations'),
          'offscreen': True
          },
+        {'label': __addon__.getLocalizedString(30035), 'icon': plugin.icon,
+         'fanart': __get_plugin_fanart(),
+         'path': plugin.url_for('show_slo_stations'),
+         'offscreen': True
+         },
     )
     return plugin.finish(items)
 
@@ -362,6 +367,16 @@ def show_rus_stations():
         return __add_stations(stations)
 
 
+@plugin.route('/stations/slo')
+def show_slo_stations():
+    stations = radio_api.get_slo_stations()
+    if not stations:
+        dialog = xbmcgui.Dialog()
+        dialog.ok(__addonname__, __addon__.getLocalizedString(30029))
+    else:
+        return __add_stations(stations)
+
+
 # get Genres
 
 
@@ -553,13 +568,13 @@ def get_stream_url(img_station, url_station, name_station):
 
 def __add_stations(stations):
     items = []
-    for station in stations['stanice']:
-        stationName = str(station['nazov'])
+    for station in stations:
+        stationName = str(station['title'])
         stationImg = str(station['img'])
         stationUrl = str(station['url'])
 
         items.append({
-            'label': station.get('nazov', ''),
+            'label': station.get('title', ''),
             'thumbnail': station['img'],
             'fanart': __get_plugin_fanart(),
             'icon': station['img'],
