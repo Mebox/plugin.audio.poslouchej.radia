@@ -153,6 +153,10 @@ msgctxt "#30034"
 msgid "Edit"
 msgstr "Upravit"
 
+msgctxt "#30035"
+msgid "Slovenian radios"
+msgstr "Slovinská rádia"
+
 msgctxt "#30601"
 msgid "General"
 msgstr "Hlavní"
