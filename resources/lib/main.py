@@ -45,7 +45,12 @@ def show_root_menu():
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_newest_stations'),
          'offscreen': True
-         }
+         },
+        {'label': __addon__.getLocalizedString(30607), 'icon': plugin.icon,
+         'fanart': __get_plugin_fanart(),
+         'path': plugin.url_for('search'),
+         'offscreen': True
+         },
     )
     return plugin.finish(items)
 
@@ -205,6 +210,23 @@ def show_fav_menu():
     )
     return plugin.finish(items)
 
+#search
+@plugin.route('/stations/search/')
+def search():
+    query = plugin.keyboard(heading=__addon__.getLocalizedString(30604))
+    if query:
+        url = plugin.url_for('search_result', search_string=query)
+        plugin.redirect(url)
+
+
+@plugin.route('/stations/search/<search_string>')
+def search_result(search_string):
+    stations = radio_api.search_stations_by_string(search_string)
+    if not stations:
+        dialog = xbmcgui.Dialog()
+        dialog.ok(__addonname__, __addon__.getLocalizedString(30029))
+    else:
+        return __add_stations(stations)
 
 @plugin.route('/stations/my/custom')
 def custom_my_station():
