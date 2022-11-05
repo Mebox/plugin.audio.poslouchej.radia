@@ -180,3 +180,7 @@ msgstr ""
 msgctxt "#30606"
 msgid "url address of image"
 msgstr ""
+
+msgctxt "#30607"
+msgid "Search by title"
+msgstr ""

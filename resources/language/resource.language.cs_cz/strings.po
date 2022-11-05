@@ -180,3 +180,7 @@ msgstr "url adresu streamu"
 msgctxt "#30606"
 msgid "url address of image"
 msgstr "url adresu obrázku"
+
+msgctxt "#30607"
+msgid "Search by title"
+msgstr "Vyhledat podle názvu"

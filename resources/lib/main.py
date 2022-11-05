@@ -29,23 +29,23 @@ def show_root_menu():
         {'label': __addon__.getLocalizedString(30001), 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_states_menu'),
-
          },
         {'label': __addon__.getLocalizedString(30002), 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_genres_menu'),
-
          },
         {'label': __addon__.getLocalizedString(30003), 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_fav_menu'),
-
          },
         {'label': __addon__.getLocalizedString(30004), 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_newest_stations'),
-
-         }
+         },
+        {'label': __addon__.getLocalizedString(30607), 'icon': plugin.icon,
+         'fanart': __get_plugin_fanart(),
+         'path': plugin.url_for('search'),
+         },
     )
     return plugin.finish(items)
 
@@ -58,57 +58,46 @@ def show_states_menu():
         {'label': __addon__.getLocalizedString(30005), 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_sk_stations'),
-
          },
         {'label': __addon__.getLocalizedString(30006), 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_cz_stations'),
-
          },
         {'label': __addon__.getLocalizedString(30007), 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_gb_stations'),
-
          },
         {'label': __addon__.getLocalizedString(30008), 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_usa_stations'),
-
          },
         {'label': __addon__.getLocalizedString(30009), 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_fra_stations'),
-
          },
         {'label': __addon__.getLocalizedString(30010), 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_ned_stations'),
-
          },
         {'label': __addon__.getLocalizedString(30011), 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_ger_stations'),
-
          },
         {'label': __addon__.getLocalizedString(30012), 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_pol_stations'),
-
          },
         {'label': __addon__.getLocalizedString(30013), 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_au_stations'),
-
          },
         {'label': __addon__.getLocalizedString(30014), 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_rus_stations'),
-
          },
          {'label': __addon__.getLocalizedString(30035), 'icon': plugin.icon,
           'fanart': __get_plugin_fanart(),
           'path': plugin.url_for('show_slo_stations'),
-
           },
     )
     return plugin.finish(items)
@@ -123,57 +112,46 @@ def show_genres_menu():
         {'label': __addon__.getLocalizedString(30015), 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_dance_stations'),
-
          },
         {'label': __addon__.getLocalizedString(30016), 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_folk_stations'),
-
          },
         {'label': __addon__.getLocalizedString(30017), 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_jazz_stations'),
-
          },
         {'label': __addon__.getLocalizedString(30018), 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_word_stations'),
-
          },
         {'label': __addon__.getLocalizedString(30019), 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_oldies_stations'),
-
          },
         {'label': __addon__.getLocalizedString(30020), 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_pop_stations'),
-
          },
         {'label': __addon__.getLocalizedString(30021), 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_relax_stations'),
-
          },
         {'label': __addon__.getLocalizedString(30022), 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_rnb_stations'),
-
          },
         {'label': __addon__.getLocalizedString(30023), 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_rock_stations'),
-
          },
         {'label': __addon__.getLocalizedString(30024), 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_solo_stations'),
-
          },
         {'label': __addon__.getLocalizedString(30025), 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_news_stations'),
-
          },
     )
     return plugin.finish(items)
@@ -185,22 +163,18 @@ def show_fav_menu():
         {'label': __addon__.getLocalizedString(30028), 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_my_fav_stations'),
-
          },
         {'label': 'TOP 10 SK', 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_topsk_stations'),
-
          },
         {'label': 'TOP 10 CZ', 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('show_topcz_stations'),
-
          },
         {'label': __addon__.getLocalizedString(30030), 'icon': plugin.icon,
          'fanart': __get_plugin_fanart(),
          'path': plugin.url_for('custom_my_station'),
-
          },
     )
     return plugin.finish(items)
@@ -263,6 +237,24 @@ def custom_edit_station(station_name):
     xbmcgui.Dialog().notification(__addon__.getLocalizedString(30033), message)
     xbmc.executebuiltin('Container.Refresh')
 
+
+#search
+@plugin.route('/stations/search/')
+def search():
+    query = plugin.keyboard(heading=__addon__.getLocalizedString(30604))
+    if query:
+        url = plugin.url_for('search_result', search_string=query)
+        plugin.redirect(url)
+
+
+@plugin.route('/stations/search/<search_string>')
+def search_result(search_string):
+    stations = radio_api.search_stations_by_string(search_string)
+    if not stations:
+        dialog = xbmcgui.Dialog()
+        dialog.ok(__addonname__, __addon__.getLocalizedString(30029))
+    else:
+        return __add_stations(stations)
 
 # get states stations
 

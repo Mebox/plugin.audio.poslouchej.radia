@@ -243,4 +243,13 @@ class RadioApi:
         except requests.exceptions.RequestException as e:
             pass
 
+    def search_stations_by_string(self, search_string):
+        url = self.API_URL + '?title=' + search_string
+        try:
+            response = requests.get(url)
+            values = json.loads(response.content.decode('utf-8'))
+            return values
+        except requests.exceptions.RequestException as e:
+            pass
+
 
