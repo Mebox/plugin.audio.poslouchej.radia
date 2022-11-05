@@ -133,6 +133,15 @@ class RadioApi:
         except requests.exceptions.RequestException as e:
             pass
 
+    def get_slo_stations(self):
+            url = self.API_URL + '?country=slo'
+            try:
+                response = requests.get(url)
+                values = json.loads(response.content.decode('utf-8'))
+                return values
+            except requests.exceptions.RequestException as e:
+                pass
+
     # get genres from api
 
     def get_dance_stations(self):
