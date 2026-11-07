@@ -119,7 +119,7 @@ msgstr "Spravodajský"
 
 msgctxt "#30026"
 msgid "Add to my favourites"
-msgstr "Pridať do Môjho zoznamu"
+msgstr "Pripnúť do Môjho zoznamu"
 
 msgctxt "#30027"
 msgid "Remove"
@@ -157,6 +157,18 @@ msgctxt "#30035"
 msgid "Slovenia radios"
 msgstr "Slovinsko"
 
+msgctxt "#30036"
+msgid "90s"
+msgstr "90. roky"
+
+msgctxt "#30037"
+msgid "00s"
+msgstr "00. roky"
+
+msgctxt "#30038"
+msgid "80s"
+msgstr "80. roky"
+
 msgctxt "#30601"
 msgid "General"
 msgstr "Hlavné"
@@ -184,3 +196,43 @@ msgstr "url adresu obrázka"
 msgctxt "#30607"
 msgid "Search by title"
 msgstr "Vyhľadať podľa názvu"
+
+msgctxt "#30608"
+msgid "Most listened"
+msgstr "TOP počúvanosť"
+
+msgctxt "#30700"
+msgid "Station list source"
+msgstr "Zdroj zoznamu staníc"
+
+msgctxt "#30701"
+msgid "Update URL (folder with the JSON files)"
+msgstr "Adresa pre aktualizáciu (priečinok s JSON súbormi)"
+
+msgctxt "#30702"
+msgid "Access token (private GitHub repo only)"
+msgstr "Prístupový token (len pre súkromný GitHub repozitár)"
+
+msgctxt "#30703"
+msgid "Update interval (hours)"
+msgstr "Interval aktualizácie (hodiny)"
+
+msgctxt "#30704"
+msgid "Clear cache"
+msgstr "Vymazať vyrovnávaciu pamäť"
+
+msgctxt "#30705"
+msgid "Cache cleared"
+msgstr "Vyrovnávacia pamäť bola vymazaná"
+
+msgctxt "#30706"
+msgid "Send anonymous listening statistics"
+msgstr "Odosielať anonymnú štatistiku počúvanosti"
+
+msgctxt "#30707"
+msgid "Listening statistics server URL"
+msgstr "URL servera počúvanosti"
+
+msgctxt "#30710"
+msgid "What to show"
+msgstr "Čo zobraziť"

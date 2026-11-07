@@ -157,6 +157,18 @@ msgctxt "#30035"
 msgid "Slovenia radios"
 msgstr ""
 
+msgctxt "#30036"
+msgid "90s"
+msgstr "90s"
+
+msgctxt "#30037"
+msgid "00s"
+msgstr "00s"
+
+msgctxt "#30038"
+msgid "80s"
+msgstr "80s"
+
 msgctxt "#30601"
 msgid "General"
 msgstr ""
@@ -184,3 +196,43 @@ msgstr ""
 msgctxt "#30607"
 msgid "Search by title"
 msgstr ""
+
+msgctxt "#30608"
+msgid "Most listened"
+msgstr "Most listened"
+
+msgctxt "#30700"
+msgid "Station list source"
+msgstr "Station list source"
+
+msgctxt "#30701"
+msgid "Update URL (folder with the JSON files)"
+msgstr "Update URL (folder with the JSON files)"
+
+msgctxt "#30702"
+msgid "Access token (private GitHub repo only)"
+msgstr "Access token (private GitHub repo only)"
+
+msgctxt "#30703"
+msgid "Update interval (hours)"
+msgstr "Update interval (hours)"
+
+msgctxt "#30704"
+msgid "Clear cache"
+msgstr "Clear cache"
+
+msgctxt "#30705"
+msgid "Cache cleared"
+msgstr "Cache cleared"
+
+msgctxt "#30706"
+msgid "Send anonymous listening statistics"
+msgstr "Send anonymous listening statistics"
+
+msgctxt "#30707"
+msgid "Listening statistics server URL"
+msgstr "Listening statistics server URL"
+
+msgctxt "#30710"
+msgid "What to show"
+msgstr "What to show"

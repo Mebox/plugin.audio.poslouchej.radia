@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings version="1">
+    <section id="plugin.audio.poslouchej.radia">
+        <category id="visibility" label="30710">
+            <group id="1" label="30001">
+                <setting id="vis_country_sk" type="boolean" label="30005">
+                    <level>0</level>
+                    <default>true</default>
+                    <control type="toggle"/>
+                </setting>
+                <setting id="vis_country_cz" type="boolean" label="30006">
+                    <level>0</level>
+                    <default>true</default>
+                    <control type="toggle"/>
+                </setting>
+                <setting id="vis_country_uk" type="boolean" label="30007">
+                    <level>0</level>
+                    <default>true</default>
+                    <control type="toggle"/>
+                </setting>
+                <setting id="vis_country_us" type="boolean" label="30008">
+                    <level>0</level>
+                    <default>true</default>
+                    <control type="toggle"/>
+                </setting>
+                <setting id="vis_country_fr" type="boolean" label="30009">
+                    <level>0</level>
+                    <default>true</default>
+                    <control type="toggle"/>
+                </setting>
+                <setting id="vis_country_ned" type="boolean" label="30010">
+                    <level>0</level>
+                    <default>true</default>
+                    <control type="toggle"/>
+                </setting>
+                <setting id="vis_country_ger" type="boolean" label="30011">
+                    <level>0</level>
+                    <default>true</default>
+                    <control type="toggle"/>
+                </setting>
+                <setting id="vis_country_pol" type="boolean" label="30012">
+                    <level>0</level>
+                    <default>true</default>
+                    <control type="toggle"/>
+                </setting>
+                <setting id="vis_country_au" type="boolean" label="30013">
+                    <level>0</level>
+                    <default>true</default>
+                    <control type="toggle"/>
+                </setting>
+                <setting id="vis_country_ru" type="boolean" label="30014">
+                    <level>0</level>
+                    <default>true</default>
+                    <control type="toggle"/>
+                </setting>
+                <setting id="vis_country_slo" type="boolean" label="30035">
+                    <level>0</level>
+                    <default>true</default>
+                    <control type="toggle"/>
+                </setting>
+            </group>
+            <group id="2" label="30002">
+                <setting id="vis_style_dance" type="boolean" label="30015">
+                    <level>0</level>
+                    <default>true</default>
+                    <control type="toggle"/>
+                </setting>
+                <setting id="vis_style_folk" type="boolean" label="30016">
+                    <level>0</level>
+                    <default>true</default>
+                    <control type="toggle"/>
+                </setting>
+                <setting id="vis_style_jazz" type="boolean" label="30017">
+                    <level>0</level>
+                    <default>true</default>
+                    <control type="toggle"/>
+                </setting>
+                <setting id="vis_style_talk" type="boolean" label="30018">
+                    <level>0</level>
+                    <default>true</default>
+                    <control type="toggle"/>
+                </setting>
+                <setting id="vis_style_oldies" type="boolean" label="30019">
+                    <level>0</level>
+                    <default>true</default>
+                    <control type="toggle"/>
+                </setting>
+                <setting id="vis_style_80er" type="boolean" label="30038">
+                    <level>0</level>
+                    <default>true</default>
+                    <control type="toggle"/>
+                </setting>
+                <setting id="vis_style_90er" type="boolean" label="30036">
+                    <level>0</level>
+                    <default>true</default>
+                    <control type="toggle"/>
+                </setting>
+                <setting id="vis_style_00er" type="boolean" label="30037">
+                    <level>0</level>
+                    <default>true</default>
+                    <control type="toggle"/>
+                </setting>
+                <setting id="vis_style_pop" type="boolean" label="30020">
+                    <level>0</level>
+                    <default>true</default>
+                    <control type="toggle"/>
+                </setting>
+                <setting id="vis_style_relax" type="boolean" label="30021">
+                    <level>0</level>
+                    <default>true</default>
+                    <control type="toggle"/>
+                </setting>
+                <setting id="vis_style_rnb" type="boolean" label="30022">
+                    <level>0</level>
+                    <default>true</default>
+                    <control type="toggle"/>
+                </setting>
+                <setting id="vis_style_rock" type="boolean" label="30023">
+                    <level>0</level>
+                    <default>true</default>
+                    <control type="toggle"/>
+                </setting>
+                <setting id="vis_style_solo" type="boolean" label="30024">
+                    <level>0</level>
+                    <default>true</default>
+                    <control type="toggle"/>
+                </setting>
+                <setting id="vis_style_news" type="boolean" label="30025">
+                    <level>0</level>
+                    <default>true</default>
+                    <control type="toggle"/>
+                </setting>
+            </group>
+        </category>
+        <category id="data" label="30700">
+            <group id="1">
+                <setting id="data_url" type="string" label="30701">
+                    <level>0</level>
+                    <default></default>
+                    <control type="edit" format="string">
+                        <heading>30701</heading>
+                    </control>
+                </setting>
+                <setting id="data_token" type="string" label="30702">
+                    <level>1</level>
+                    <default></default>
+                    <control type="edit" format="string">
+                        <heading>30702</heading>
+                    </control>
+                </setting>
+                <setting id="update_hours" type="integer" label="30703">
+                    <level>1</level>
+                    <default>1</default>
+                    <constraints>
+                        <minimum>1</minimum>
+                        <step>1</step>
+                        <maximum>720</maximum>
+                    </constraints>
+                    <control type="slider" format="integer">
+                        <popup>false</popup>
+                    </control>
+                </setting>
+                <setting id="send_stats" type="boolean" label="30706">
+                    <level>0</level>
+                    <default>true</default>
+                    <control type="toggle"/>
+                </setting>
+                <setting id="top_url" type="string" label="30707">
+                    <level>1</level>
+                    <default></default>
+                    <control type="edit" format="string">
+                        <heading>30707</heading>
+                    </control>
+                </setting>
+                <setting id="clear_cache" type="action" label="30704">
+                    <level>0</level>
+                    <data>RunPlugin(plugin://plugin.audio.poslouchej.radia/?route=clear_cache)</data>
+                    <control type="button" format="action">
+                        <close>false</close>
+                    </control>
+                </setting>
+            </group>
+        </category>
+    </section>
+</settings>
