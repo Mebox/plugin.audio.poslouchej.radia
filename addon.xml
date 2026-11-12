@@ -1,4 +1,4 @@
-<addon id="plugin.audio.poslouchej.radia" name="Poslouchej Rádia" provider-name="ma_sk a mebox" version="3.0.5">
+<addon id="plugin.audio.poslouchej.radia" name="Poslouchej Rádia" provider-name="ma_sk a mebox" version="3.0.6">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.certifi" version="2023.5.7"/>
@@ -23,6 +23,10 @@
         <disclaimer lang="sk">Autor tohto addon nemá žiadny obsah, ktorý sa v ňom nachádza a nemá žiadnu príslušnosť k poskytovateľovi obsahu. Používajte na vlastné riziko!</disclaimer>
         <disclaimer lang="en">The author of this addon has no content in it and no content provider. Use at your own risk!</disclaimer>
         <news>
+            3.0.6 (12.11.2026)
+             - Menu se srdíčkem přejmenováno z "Oblíbené" na "Moje rádia"
+             - Kontextové menu: "Můj seznam rádií"
+             - Rychlejší start stanic: kontrola streamu běží na pozadí, přehrávání se nezdržuje
             3.0.5 (07.11.2026)
              - Hlavní menu: nové pořadí a nové ikony
              - TOP poslechovost: společný žebříček všech uživatelů

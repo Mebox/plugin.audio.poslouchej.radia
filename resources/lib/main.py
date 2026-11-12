@@ -17,6 +17,7 @@ import xbmcvfs
 import socket
 import urllib.parse
 import time
+import threading
 import hashlib
 import base64
 import xml.etree.ElementTree as ET
@@ -585,19 +586,32 @@ def search():
         xbmcplugin.endOfDirectory(HANDLE, succeeded=False)
 
 
-def play_station(url_station, name_station, img_station):
-    if not _stream_ok(url_station):
-        xbmc.log('[poslouchej.radia] Dead stream: {} - skipping'.format(url_station),
-                 xbmc.LOGWARNING)
-        xbmcgui.Dialog().notification(
-            ADDON_NAME, 'Stream neni funkcni', xbmcgui.NOTIFICATION_ERROR, 3000)
-        xbmcplugin.setResolvedUrl(HANDLE, False, xbmcgui.ListItem())
-        _report_dead(url_station, name_station)
+def _verify_stream(url, name):
+    if _stream_ok(url):
         return
+    monitor, player = xbmc.Monitor(), xbmc.Player()
+    for _ in range(10):
+        try:
+            if (player.isPlayingAudio()
+                    and player.getPlayingFile().split('|')[0] == url):
+                return
+        except RuntimeError:
+            pass
+        if monitor.waitForAbort(1):
+            return
+    xbmc.log('[poslouchej.radia] Dead stream: {}'.format(url), xbmc.LOGWARNING)
+    xbmcgui.Dialog().notification(
+        ADDON_NAME, 'Stream neni funkcni', xbmcgui.NOTIFICATION_ERROR, 3000)
+    _report_dead(url, name)
+
+
+def play_station(url_station, name_station, img_station):
     li = xbmcgui.ListItem(name_station)
     li.setArt({'thumb': img_station, 'icon': img_station, 'fanart': ADDON_FANART})
     li.setPath(url_station)
     xbmcplugin.setResolvedUrl(HANDLE, True, li)
+    threading.Thread(target=_verify_stream, args=(url_station, name_station),
+                     daemon=True).start()
     _track_listening(url_station, name_station, img_station)
 
 

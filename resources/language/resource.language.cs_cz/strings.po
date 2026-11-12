@@ -26,8 +26,8 @@ msgid "Genres"
 msgstr "Žánry"
 
 msgctxt "#30003"
-msgid "Favourites"
-msgstr "Oblíbené"
+msgid "My radios"
+msgstr "Moje rádia"
 
 msgctxt "#30004"
 msgid "Newest added"
@@ -118,16 +118,16 @@ msgid "News"
 msgstr "Zpravodajská"
 
 msgctxt "#30026"
-msgid "Add to my favourites"
-msgstr "Připnout do Mého seznamu"
+msgid "Add to my radio list"
+msgstr "Vložit do Mého seznamu rádií"
 
 msgctxt "#30027"
 msgid "Remove"
 msgstr "Vymazat"
 
 msgctxt "#30028"
-msgid "My list"
-msgstr "Můj seznam"
+msgid "My radio list"
+msgstr "Můj seznam rádií"
 
 msgctxt "#30029"
 msgid "Please control internet connection"
