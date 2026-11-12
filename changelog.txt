@@ -1,2 +1,6 @@
 3.0.5 (07.11.2026)
     - initial release of new version
+3.0.6 (12.11.2026)
+    - Menu se srdíčkem přejmenováno z "Oblíbené" na "Moje rádia"
+    - Kontextové menu: "Můj seznam rádií"
+    - Rychlejší start stanic: kontrola streamu běží na pozadí, přehrávání se nezdržuje
