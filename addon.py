@@ -1,6 +1,5 @@
-# -*- coding: utf-8 -*-
 """
- *  Copyright (C) 2021 Mario Babinec (mr.babinec@gmail.com)
+ *  Copyright (C) 2026
  *  This file is part of plugin.audio.poslouchej.radia
  *
  *  SPDX-License-Identifier: GPL-2.0-only
