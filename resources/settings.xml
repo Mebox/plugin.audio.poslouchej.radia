@@ -131,6 +131,13 @@
                     <control type="toggle"/>
                 </setting>
             </group>
+            <group id="3" label="30003">
+                <setting id="vis_custom_station" type="boolean" label="30030">
+                    <level>0</level>
+                    <default>true</default>
+                    <control type="toggle"/>
+                </setting>
+            </group>
         </category>
         <category id="data" label="30700">
             <group id="1">
