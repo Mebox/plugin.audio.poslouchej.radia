@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Addons\n"
+"Report-Msgid-Bugs-To: https://www.xbmc-kodi.cz/prispevek-poslouchej-radio-doplnek/\n"
+"POT-Creation-Date: 2021-03-21 16:14+0400\n"
+"PO-Revision-Date: 2021-03-24 12:08+0100\n"
+"Last-Translator: majko96\n"
+"Language-Team: Slovak Team\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sk_SK\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.3\n"
+
+msgctxt "#30001"
+msgid "States"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Genres"
+msgstr ""
+
+msgctxt "#30003"
+msgid "My radios"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Newest added"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Slovak radios"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Czech radios"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Great Britain radios"
+msgstr ""
+
+msgctxt "#30008"
+msgid "American radios"
+msgstr ""
+
+msgctxt "#30009"
+msgid "France radios"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Netherlands radios"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Germany radios"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Poland radios"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Austrian radios"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Russian radios"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Dance/Electronica"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Folk/Country"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Jazz/Blues/Soul"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Spoken word"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Oldies"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Pop"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Relax/Klasika/Dychovka"
+msgstr ""
+
+msgctxt "#30022"
+msgid "RnB/Hip Hop/Reggae"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Rock/Metal"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Solo for..."
+msgstr ""
+
+msgctxt "#30025"
+msgid "News"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Add to my radio list"
+msgstr ""
+
+msgctxt "#30027"
+msgid "Remove"
+msgstr ""
+
+msgctxt "#30028"
+msgid "My radio list"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Please control internet connection"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Add custom station..."
+msgstr ""
+
+msgctxt "#30031"
+msgid "Not successful"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Insert name station"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Added to my lists"
+msgstr ""
+
+msgctxt "#30034"
+msgid "Edit"
+msgstr ""
+
+msgctxt "#30035"
+msgid "Slovenia radios"
+msgstr ""
+
+msgctxt "#30036"
+msgid "90s"
+msgstr "90s"
+
+msgctxt "#30037"
+msgid "00s"
+msgstr "00s"
+
+msgctxt "#30038"
+msgid "80s"
+msgstr "80s"
+
+msgctxt "#30601"
+msgid "General"
+msgstr ""
+
+msgctxt "#30602"
+msgid "Hide fanart"
+msgstr ""
+
+msgctxt "#30603"
+msgid "Insert "
+msgstr ""
+
+msgctxt "#30604"
+msgid "station name"
+msgstr ""
+
+msgctxt "#30605"
+msgid "url address of stream"
+msgstr ""
+
+msgctxt "#30606"
+msgid "url address of image"
+msgstr ""
+
+msgctxt "#30607"
+msgid "Search by title"
+msgstr ""
+
+msgctxt "#30608"
+msgid "Most listened"
+msgstr "Most listened"
+
+msgctxt "#30609"
+msgid "Settings"
+msgstr "Settings"
+
+msgctxt "#30700"
+msgid "Station list source"
+msgstr "Station list source"
+
+msgctxt "#30701"
+msgid "Update URL (folder with the JSON files)"
+msgstr "Update URL (folder with the JSON files)"
+
+msgctxt "#30702"
+msgid "Access token (private GitHub repo only)"
+msgstr "Access token (private GitHub repo only)"
+
+msgctxt "#30703"
+msgid "Update interval (hours)"
+msgstr "Update interval (hours)"
+
+msgctxt "#30704"
+msgid "Clear cache"
+msgstr "Clear cache"
+
+msgctxt "#30705"
+msgid "Cache cleared"
+msgstr "Cache cleared"
+
+msgctxt "#30706"
+msgid "Send anonymous listening statistics"
+msgstr "Send anonymous listening statistics"
+
+msgctxt "#30707"
+msgid "Listening statistics server URL"
+msgstr "Listening statistics server URL"
+
+msgctxt "#30710"
+msgid "What to show"
+msgstr "What to show"
