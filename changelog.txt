@@ -4,3 +4,8 @@
     - Menu se srdíčkem přejmenováno z "Oblíbené" na "Moje rádia"
     - Kontextové menu: "Můj seznam rádií"
     - Rychlejší start stanic: kontrola streamu běží na pozadí, přehrávání se nezdržuje
+3.0.7 (16.11.2026)
+    - Hlavní menu: nová položka TOP poslechovost
+    - Hlavní menu: nová položka Nastavení
+    - Moje rádia: odstraněna položka TOP poslechovost
+    - Nastavení: možnost skrýt Přidat vlastní stanici
