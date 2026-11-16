@@ -454,6 +454,8 @@ def show_root_menu():
     _add_dir(LANG(30004), _url('show_newest_stations'), _media('menu_new.png'))
     _add_dir(LANG(30001), _url('show_states_menu'), _media('menu_radio_tall.png'))
     _add_dir(LANG(30002), _url('show_genres_menu'), _media('menu_genres.png'))
+    _add_dir(LANG(30608), _url('show_top_listened'), _media('menu_top.png'))
+    _add_dir(LANG(30609), _url('open_settings'), _media('menu_settings.png'))
     xbmcplugin.endOfDirectory(HANDLE)
 
 
@@ -501,8 +503,8 @@ def show_genres_menu():
 
 def show_fav_menu():
     _add_dir(LANG(30028), _url('show_my_fav_stations'))
-    _add_dir(LANG(30608), _url('show_top_listened'))
-    _add_dir(LANG(30030),  _url('custom_my_station'))
+    if _visible('custom-station'):
+        _add_dir(LANG(30030),  _url('custom_my_station'))
     xbmcplugin.endOfDirectory(HANDLE)
 
 
@@ -692,6 +694,8 @@ def run():
         fav_remove(params.get('station_name', ''))
     elif route == 'custom_edit_station':
         custom_edit_station(params.get('station_name', ''))
+    elif route == 'open_settings':
+        ADDON.openSettings()
     elif route in _ROUTES:
         _ROUTES[route]()
     else:

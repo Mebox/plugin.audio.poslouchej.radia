@@ -1,7 +1,3 @@
-# Kodi Media Center language file
-# Addon Name: Poslouchej radia
-# Addon id: plugin.audio.poslouchej.radia
-# Addon Provider: Mario Babinec
 msgid ""
 msgstr ""
 "Project-Id-Version: Kodi Addons\n"
@@ -200,6 +196,10 @@ msgstr ""
 msgctxt "#30608"
 msgid "Most listened"
 msgstr "Most listened"
+
+msgctxt "#30609"
+msgid "Settings"
+msgstr "Settings"
 
 msgctxt "#30700"
 msgid "Station list source"
