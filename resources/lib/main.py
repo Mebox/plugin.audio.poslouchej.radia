@@ -703,6 +703,8 @@ def run():
         custom_edit_station(params.get('station_name', ''))
     elif route == 'open_settings':
         ADDON.openSettings()
+        xbmcplugin.endOfDirectory(HANDLE, succeeded=False)
+        xbmc.executebuiltin('Container.Refresh')
     elif route in _ROUTES:
         _ROUTES[route]()
     else:
