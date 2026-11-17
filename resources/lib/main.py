@@ -449,13 +449,20 @@ def _stations(stations):
 
 
 def show_root_menu():
-    _add_dir(LANG(30607), _url('search'), _media('menu_search.png'))
-    _add_dir(LANG(30003), _url('show_fav_menu'), _media('menu_favourites.png'))
-    _add_dir(LANG(30004), _url('show_newest_stations'), _media('menu_new.png'))
-    _add_dir(LANG(30001), _url('show_states_menu'), _media('menu_radio_tall.png'))
-    _add_dir(LANG(30002), _url('show_genres_menu'), _media('menu_genres.png'))
-    _add_dir(LANG(30608), _url('show_top_listened'), _media('menu_top.png'))
-    _add_dir(LANG(30609), _url('open_settings'), _media('menu_settings.png'))
+    if _visible('menu_search'):
+        _add_dir(LANG(30607), _url('search'), _media('menu_search.png'))
+    if _visible('menu_fav'):
+        _add_dir(LANG(30003), _url('show_fav_menu'), _media('menu_favourites.png'))
+    if _visible('menu_new'):
+        _add_dir(LANG(30004), _url('show_newest_stations'), _media('menu_new.png'))
+    if _visible('menu_states'):
+        _add_dir(LANG(30001), _url('show_states_menu'), _media('menu_radio_tall.png'))
+    if _visible('menu_genres'):
+        _add_dir(LANG(30002), _url('show_genres_menu'), _media('menu_genres.png'))
+    if _visible('menu_top'):
+        _add_dir(LANG(30608), _url('show_top_listened'), _media('menu_top.png'))
+    if _visible('menu_settings'):
+        _add_dir(LANG(30609), _url('open_settings'), _media('menu_settings.png'))
     xbmcplugin.endOfDirectory(HANDLE)
 
 

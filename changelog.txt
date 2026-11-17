@@ -9,3 +9,5 @@
     - Hlavní menu: nová položka Nastavení
     - Moje rádia: odstraněna položka TOP poslechovost
     - Nastavení: možnost skrýt Přidat vlastní stanici
+3.0.9 (17.11.2026)
+    - Nastavení: úprava hlavního menu
