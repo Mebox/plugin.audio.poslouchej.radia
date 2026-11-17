@@ -201,6 +201,10 @@ msgctxt "#30609"
 msgid "Settings"
 msgstr "Nastavenia"
 
+msgctxt "#30610"
+msgid "Main menu"
+msgstr "Hlavné menu"
+
 msgctxt "#30700"
 msgid "Station list source"
 msgstr "Zdroj zoznamu staníc"

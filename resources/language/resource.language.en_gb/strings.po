@@ -201,6 +201,10 @@ msgctxt "#30609"
 msgid "Settings"
 msgstr "Settings"
 
+msgctxt "#30610"
+msgid "Main menu"
+msgstr "Main menu"
+
 msgctxt "#30700"
 msgid "Station list source"
 msgstr "Station list source"
