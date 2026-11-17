@@ -1,4 +1,4 @@
-<addon id="plugin.audio.poslouchej.radia" name="Poslouchej Rádia" provider-name="ma_sk a mebox" version="3.0.9">
+<addon id="plugin.audio.poslouchej.radia" name="Poslouchej Rádia" provider-name="ma_sk a mebox" version="3.0.10">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.certifi" version="2023.5.7"/>
@@ -23,8 +23,10 @@
         <disclaimer lang="sk">Autor tohto addon nemá žiadny obsah, ktorý sa v ňom nachádza a nemá žiadnu príslušnosť k poskytovateľovi obsahu. Používajte na vlastné riziko!</disclaimer>
         <disclaimer lang="en">The author of this addon has no content in it and no content provider. Use at your own risk!</disclaimer>
         <news>
+            3.0.10 (17.11.2026)
+             - Opraveno: po zavření Nastavení z hlavního menu se menu hned obnoví (skrytí položek se projeví okamžitě)
             3.0.9 (17.11.2026)
-             - Nastavení: úprava hlavního menu
+             - Nastavení: úprava hlavního menu (zobrazit/skrýt každou položku)
             3.0.8 (16.11.2026)
              - Nastavení: možnost skrýt Přidat vlastní stanici
             3.0.7 (16.11.2026)

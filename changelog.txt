@@ -11,3 +11,5 @@
     - Nastavení: možnost skrýt Přidat vlastní stanici
 3.0.9 (17.11.2026)
     - Nastavení: úprava hlavního menu
+3.0.10 (17.11.2026) 
+    - Opraveno: po zavření Nastavení z hlavního menu se menu hned obnoví (skrytí položek se projeví okamžitě)
